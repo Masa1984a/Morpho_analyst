@@ -1,0 +1,6 @@
+## Query ID: 
+5963250
+
+## 参考になるドキュメント: 
+https://docs.dune.com/api-reference/executions/execution-object
+

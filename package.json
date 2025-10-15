@@ -1,0 +1,33 @@
+{
+  "name": "morpho-analyst",
+  "version": "1.0.0",
+  "description": "Dune Analytics data auto-fetch system for World Morpho Protocol",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vercel dev",
+    "migrate": "ts-node scripts/migrate-data.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dune",
+    "analytics",
+    "morpho",
+    "vercel",
+    "postgresql"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@vercel/postgres": "^0.10.0",
+    "pg": "^8.13.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.2",
+    "@types/pg": "^8.11.10",
+    "@vercel/node": "^3.2.21",
+    "ts-node": "^10.9.2",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2",
+    "vercel": "^37.14.0"
+  }
+}

@@ -1,0 +1,2935 @@
+{
+  "execution_id": "01K7KETC7FGHC1X55PN6M25NGZ",
+  "query_id": 5963670,
+  "is_execution_finished": true,
+  "state": "QUERY_STATE_COMPLETED",
+  "submitted_at": "2025-10-15T08:12:08.304881Z",
+  "expires_at": "2026-01-13T08:12:25.336278Z",
+  "execution_started_at": "2025-10-15T08:12:14.807484Z",
+  "execution_ended_at": "2025-10-15T08:12:25.336274Z",
+  "result": {
+    "rows": [
+      {
+        "borrow_amount": 480.831427170152,
+        "borrow_amount_usd": 1960951.2019405998,
+        "day": "2025-10-15 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 998686.7193273804,
+        "borrow_amount_usd": 952467.2378822425,
+        "day": "2025-10-15 00:00:00.000 UTC",
+        "loan_symbol": "WLD",
+        "loan_token": "0x2cfc85d8e48f8eab294be644d9e25c3030863003"
+      },
+      {
+        "borrow_amount": 19438760.95897901,
+        "borrow_amount_usd": 19444801.216468524,
+        "day": "2025-10-15 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 19363101.847640008,
+        "borrow_amount_usd": 19365993.740347557,
+        "day": "2025-10-14 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 480.83118844164204,
+        "borrow_amount_usd": 2007860.5030873348,
+        "day": "2025-10-14 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 998672.0465009308,
+        "borrow_amount_usd": 997358.1235108066,
+        "day": "2025-10-14 00:00:00.000 UTC",
+        "loan_symbol": "WLD",
+        "loan_token": "0x2cfc85d8e48f8eab294be644d9e25c3030863003"
+      },
+      {
+        "borrow_amount": 19497846.59445001,
+        "borrow_amount_usd": 19508777.100791037,
+        "day": "2025-10-13 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 997721.3658117298,
+        "borrow_amount_usd": 950662.0604020369,
+        "day": "2025-10-13 00:00:00.000 UTC",
+        "loan_symbol": "WLD",
+        "loan_token": "0x2cfc85d8e48f8eab294be644d9e25c3030863003"
+      },
+      {
+        "borrow_amount": 484.73175736619737,
+        "borrow_amount_usd": 1901834.0425759517,
+        "day": "2025-10-13 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 238.32980701920079,
+        "borrow_amount_usd": 906271.76562354,
+        "day": "2025-10-12 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 997195.1443350101,
+        "borrow_amount_usd": 934996.3090762129,
+        "day": "2025-10-12 00:00:00.000 UTC",
+        "loan_symbol": "WLD",
+        "loan_token": "0x2cfc85d8e48f8eab294be644d9e25c3030863003"
+      },
+      {
+        "borrow_amount": 19081634.984643012,
+        "borrow_amount_usd": 19092280.615549818,
+        "day": "2025-10-12 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 17660105.69847001,
+        "borrow_amount_usd": 17668408.952819053,
+        "day": "2025-10-11 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 215.57608484653304,
+        "borrow_amount_usd": 910274.6965649384,
+        "day": "2025-10-11 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 999576.643912968,
+        "borrow_amount_usd": 1177191.768315839,
+        "day": "2025-10-11 00:00:00.000 UTC",
+        "loan_symbol": "WLD",
+        "loan_token": "0x2cfc85d8e48f8eab294be644d9e25c3030863003"
+      },
+      {
+        "borrow_amount": 20893393.96071601,
+        "borrow_amount_usd": 20894636.029459074,
+        "day": "2025-10-10 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 328.3509526059973,
+        "borrow_amount_usd": 1440387.2593521755,
+        "day": "2025-10-10 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 998857.8773614722,
+        "borrow_amount_usd": 1213780.1256493279,
+        "day": "2025-10-10 00:00:00.000 UTC",
+        "loan_symbol": "WLD",
+        "loan_token": "0x2cfc85d8e48f8eab294be644d9e25c3030863003"
+      },
+      {
+        "borrow_amount": 27671054.975343008,
+        "borrow_amount_usd": 27672906.053624794,
+        "day": "2025-10-09 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 986584.257974251,
+        "borrow_amount_usd": 1194103.9802934153,
+        "day": "2025-10-09 00:00:00.000 UTC",
+        "loan_symbol": "WLD",
+        "loan_token": "0x2cfc85d8e48f8eab294be644d9e25c3030863003"
+      },
+      {
+        "borrow_amount": 327.3458638939212,
+        "borrow_amount_usd": 1468584.5020365794,
+        "day": "2025-10-09 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 327.11408988494355,
+        "borrow_amount_usd": 1510722.7683363683,
+        "day": "2025-10-08 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 26878481.632273003,
+        "borrow_amount_usd": 26876013.75835008,
+        "day": "2025-10-08 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 983199.888968436,
+        "borrow_amount_usd": 1240844.6136562652,
+        "day": "2025-10-08 00:00:00.000 UTC",
+        "loan_symbol": "WLD",
+        "loan_token": "0x2cfc85d8e48f8eab294be644d9e25c3030863003"
+      },
+      {
+        "borrow_amount": 27986182.653788008,
+        "borrow_amount_usd": 27981719.440700207,
+        "day": "2025-10-07 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 327.1369081992886,
+        "borrow_amount_usd": 1507366.0088278262,
+        "day": "2025-10-07 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 982333.6207325098,
+        "borrow_amount_usd": 1257318.8169250619,
+        "day": "2025-10-07 00:00:00.000 UTC",
+        "loan_symbol": "WLD",
+        "loan_token": "0x2cfc85d8e48f8eab294be644d9e25c3030863003"
+      },
+      {
+        "borrow_amount": 327.13685503490404,
+        "borrow_amount_usd": 1483303.291999821,
+        "day": "2025-10-06 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 976401.6601852078,
+        "borrow_amount_usd": 1251082.4327831443,
+        "day": "2025-10-06 00:00:00.000 UTC",
+        "loan_symbol": "WLD",
+        "loan_token": "0x2cfc85d8e48f8eab294be644d9e25c3030863003"
+      },
+      {
+        "borrow_amount": 27330288.81447901,
+        "borrow_amount_usd": 27328609.899653643,
+        "day": "2025-10-06 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 26700436.242979005,
+        "borrow_amount_usd": 26697817.00435146,
+        "day": "2025-10-05 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 575255.5655981248,
+        "borrow_amount_usd": 742918.5939880784,
+        "day": "2025-10-05 00:00:00.000 UTC",
+        "loan_symbol": "WLD",
+        "loan_token": "0x2cfc85d8e48f8eab294be644d9e25c3030863003"
+      },
+      {
+        "borrow_amount": 207.13537407593822,
+        "borrow_amount_usd": 929738.2960272074,
+        "day": "2025-10-05 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 207.13494984264858,
+        "borrow_amount_usd": 931236.4372481027,
+        "day": "2025-10-04 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 24546650.375861004,
+        "borrow_amount_usd": 24544175.255281445,
+        "day": "2025-10-04 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 570591.0081118394,
+        "borrow_amount_usd": 766672.2305869394,
+        "day": "2025-10-04 00:00:00.000 UTC",
+        "loan_symbol": "WLD",
+        "loan_token": "0x2cfc85d8e48f8eab294be644d9e25c3030863003"
+      },
+      {
+        "borrow_amount": 207.10907882197293,
+        "borrow_amount_usd": 914697.2106608062,
+        "day": "2025-10-03 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 560119.6136974738,
+        "borrow_amount_usd": 748498.730998645,
+        "day": "2025-10-03 00:00:00.000 UTC",
+        "loan_symbol": "WLD",
+        "loan_token": "0x2cfc85d8e48f8eab294be644d9e25c3030863003"
+      },
+      {
+        "borrow_amount": 23384322.576924004,
+        "borrow_amount_usd": 23383272.55588385,
+        "day": "2025-10-03 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 206.8123159270018,
+        "borrow_amount_usd": 879768.023389543,
+        "day": "2025-10-02 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 21304830.948295,
+        "borrow_amount_usd": 21304789.152359292,
+        "day": "2025-10-02 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 559742.5784755618,
+        "borrow_amount_usd": 721018.408898833,
+        "day": "2025-10-02 00:00:00.000 UTC",
+        "loan_symbol": "WLD",
+        "loan_token": "0x2cfc85d8e48f8eab294be644d9e25c3030863003"
+      },
+      {
+        "borrow_amount": 206.75816863531546,
+        "borrow_amount_usd": 861176.926703687,
+        "day": "2025-10-01 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 19983724.449936006,
+        "borrow_amount_usd": 19985474.48297196,
+        "day": "2025-10-01 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 564364.4487178131,
+        "borrow_amount_usd": 704416.9735437231,
+        "day": "2025-10-01 00:00:00.000 UTC",
+        "loan_symbol": "WLD",
+        "loan_token": "0x2cfc85d8e48f8eab294be644d9e25c3030863003"
+      },
+      {
+        "borrow_amount": 206.7569663595712,
+        "borrow_amount_usd": 857547.8786418955,
+        "day": "2025-09-30 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 511750.0387504987,
+        "borrow_amount_usd": 666838.731049608,
+        "day": "2025-09-30 00:00:00.000 UTC",
+        "loan_symbol": "WLD",
+        "loan_token": "0x2cfc85d8e48f8eab294be644d9e25c3030863003"
+      },
+      {
+        "borrow_amount": 20207719.447254006,
+        "borrow_amount_usd": 20213599.19195623,
+        "day": "2025-09-30 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 206.75109906467236,
+        "borrow_amount_usd": 832746.4414094663,
+        "day": "2025-09-29 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 20236621.78164901,
+        "borrow_amount_usd": 20252641.667632952,
+        "day": "2025-09-29 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 511667.8055534366,
+        "borrow_amount_usd": 649640.4506203808,
+        "day": "2025-09-29 00:00:00.000 UTC",
+        "loan_symbol": "WLD",
+        "loan_token": "0x2cfc85d8e48f8eab294be644d9e25c3030863003"
+      },
+      {
+        "borrow_amount": 20156636.189863004,
+        "borrow_amount_usd": 20165407.965998244,
+        "day": "2025-09-28 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 206.74082790243722,
+        "borrow_amount_usd": 829960.6803322836,
+        "day": "2025-09-28 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 511495.4283077737,
+        "borrow_amount_usd": 663185.7912652981,
+        "day": "2025-09-28 00:00:00.000 UTC",
+        "loan_symbol": "WLD",
+        "loan_token": "0x2cfc85d8e48f8eab294be644d9e25c3030863003"
+      },
+      {
+        "borrow_amount": 510508.6661914653,
+        "borrow_amount_usd": 643808.1512525703,
+        "day": "2025-09-27 00:00:00.000 UTC",
+        "loan_symbol": "WLD",
+        "loan_token": "0x2cfc85d8e48f8eab294be644d9e25c3030863003"
+      },
+      {
+        "borrow_amount": 206.60961889927162,
+        "borrow_amount_usd": 818863.9947935565,
+        "day": "2025-09-27 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 20108676.65130301,
+        "borrow_amount_usd": 20113496.519559667,
+        "day": "2025-09-27 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 20043453.667821005,
+        "borrow_amount_usd": 20058433.226434045,
+        "day": "2025-09-26 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 206.60425753400318,
+        "borrow_amount_usd": 826031.5840680507,
+        "day": "2025-09-26 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 503424.15808711713,
+        "borrow_amount_usd": 645746.3627796626,
+        "day": "2025-09-26 00:00:00.000 UTC",
+        "loan_symbol": "WLD",
+        "loan_token": "0x2cfc85d8e48f8eab294be644d9e25c3030863003"
+      },
+      {
+        "borrow_amount": 20304863.956565008,
+        "borrow_amount_usd": 20311130.1926886,
+        "day": "2025-09-25 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 207.08552100470868,
+        "borrow_amount_usd": 864263.9006820763,
+        "day": "2025-09-25 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 504145.89054179145,
+        "borrow_amount_usd": 671109.206652472,
+        "day": "2025-09-25 00:00:00.000 UTC",
+        "loan_symbol": "WLD",
+        "loan_token": "0x2cfc85d8e48f8eab294be644d9e25c3030863003"
+      },
+      {
+        "borrow_amount": 206.82652442791985,
+        "borrow_amount_usd": 865769.8203594065,
+        "day": "2025-09-24 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 503932.464888736,
+        "borrow_amount_usd": 674429.6155094249,
+        "day": "2025-09-24 00:00:00.000 UTC",
+        "loan_symbol": "WLD",
+        "loan_token": "0x2cfc85d8e48f8eab294be644d9e25c3030863003"
+      },
+      {
+        "borrow_amount": 21064968.08735801,
+        "borrow_amount_usd": 21068383.537878174,
+        "day": "2025-09-24 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 20995149.556136005,
+        "borrow_amount_usd": 21002108.208916835,
+        "day": "2025-09-23 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 206.81966063130974,
+        "borrow_amount_usd": 873162.7404156479,
+        "day": "2025-09-23 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 503310.25953935494,
+        "borrow_amount_usd": 687595.2139436083,
+        "day": "2025-09-23 00:00:00.000 UTC",
+        "loan_symbol": "WLD",
+        "loan_token": "0x2cfc85d8e48f8eab294be644d9e25c3030863003"
+      },
+      {
+        "borrow_amount": 20855962.853710007,
+        "borrow_amount_usd": 20860580.34940251,
+        "day": "2025-09-22 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 206.55682986687137,
+        "borrow_amount_usd": 924966.7269578307,
+        "day": "2025-09-22 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 503325.84038694587,
+        "borrow_amount_usd": 749134.1023675844,
+        "day": "2025-09-22 00:00:00.000 UTC",
+        "loan_symbol": "WLD",
+        "loan_token": "0x2cfc85d8e48f8eab294be644d9e25c3030863003"
+      },
+      {
+        "borrow_amount": 206.6219071316544,
+        "borrow_amount_usd": 925654.7725705481,
+        "day": "2025-09-21 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 488422.80208022695,
+        "borrow_amount_usd": 738247.6735192488,
+        "day": "2025-09-21 00:00:00.000 UTC",
+        "loan_symbol": "WLD",
+        "loan_token": "0x2cfc85d8e48f8eab294be644d9e25c3030863003"
+      },
+      {
+        "borrow_amount": 20949057.033329006,
+        "borrow_amount_usd": 20953538.96769764,
+        "day": "2025-09-21 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 206.6193060479368,
+        "borrow_amount_usd": 933760.6327993124,
+        "day": "2025-09-20 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 484161.5029672537,
+        "borrow_amount_usd": 745406.9806100014,
+        "day": "2025-09-20 00:00:00.000 UTC",
+        "loan_symbol": "WLD",
+        "loan_token": "0x2cfc85d8e48f8eab294be644d9e25c3030863003"
+      },
+      {
+        "borrow_amount": 20929279.705504008,
+        "borrow_amount_usd": 20927482.476280414,
+        "day": "2025-09-20 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 20812485.449803006,
+        "borrow_amount_usd": 20808492.84907864,
+        "day": "2025-09-19 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 206.6150945072178,
+        "borrow_amount_usd": 950082.9311759237,
+        "day": "2025-09-19 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 483954.29784622137,
+        "borrow_amount_usd": 770209.9042285259,
+        "day": "2025-09-19 00:00:00.000 UTC",
+        "loan_symbol": "WLD",
+        "loan_token": "0x2cfc85d8e48f8eab294be644d9e25c3030863003"
+      },
+      {
+        "borrow_amount": 20933883.653819006,
+        "borrow_amount_usd": 20936878.289487947,
+        "day": "2025-09-18 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 206.6146060456946,
+        "borrow_amount_usd": 932136.2711040865,
+        "day": "2025-09-18 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 474384.5574889716,
+        "borrow_amount_usd": 723782.3555771841,
+        "day": "2025-09-18 00:00:00.000 UTC",
+        "loan_symbol": "WLD",
+        "loan_token": "0x2cfc85d8e48f8eab294be644d9e25c3030863003"
+      },
+      {
+        "borrow_amount": 206.61765337516493,
+        "borrow_amount_usd": 930419.0294387995,
+        "day": "2025-09-17 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 337663.42714901327,
+        "borrow_amount_usd": 510387.6496753767,
+        "day": "2025-09-17 00:00:00.000 UTC",
+        "loan_symbol": "WLD",
+        "loan_token": "0x2cfc85d8e48f8eab294be644d9e25c3030863003"
+      },
+      {
+        "borrow_amount": 19322965.308126006,
+        "borrow_amount_usd": 19328848.01047063,
+        "day": "2025-09-17 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 176.84257419755755,
+        "borrow_amount_usd": 805598.7879649997,
+        "day": "2025-09-16 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 18983441.63711501,
+        "borrow_amount_usd": 18988273.45032948,
+        "day": "2025-09-16 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 61949.962291087286,
+        "borrow_amount_usd": 96028.89467225724,
+        "day": "2025-09-16 00:00:00.000 UTC",
+        "loan_symbol": "WLD",
+        "loan_token": "0x2cfc85d8e48f8eab294be644d9e25c3030863003"
+      },
+      {
+        "borrow_amount": 176.95062972802288,
+        "borrow_amount_usd": 820853.9291918341,
+        "day": "2025-09-15 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 106760.47674372689,
+        "borrow_amount_usd": 174416.22191906587,
+        "day": "2025-09-15 00:00:00.000 UTC",
+        "loan_symbol": "WLD",
+        "loan_token": "0x2cfc85d8e48f8eab294be644d9e25c3030863003"
+      },
+      {
+        "borrow_amount": 18679888.38233201,
+        "borrow_amount_usd": 18668795.058201127,
+        "day": "2025-09-15 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 127062.04506753458,
+        "borrow_amount_usd": 207393.4935602314,
+        "day": "2025-09-14 00:00:00.000 UTC",
+        "loan_symbol": "WLD",
+        "loan_token": "0x2cfc85d8e48f8eab294be644d9e25c3030863003"
+      },
+      {
+        "borrow_amount": 18187992.71897801,
+        "borrow_amount_usd": 18175239.020611353,
+        "day": "2025-09-14 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 152.76680188298275,
+        "borrow_amount_usd": 716756.0391239288,
+        "day": "2025-09-14 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 152.7714435122831,
+        "borrow_amount_usd": 696395.5654141478,
+        "day": "2025-09-13 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 18307671.10482301,
+        "borrow_amount_usd": 18302457.48692949,
+        "day": "2025-09-13 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 109035.98864768053,
+        "borrow_amount_usd": 178383.634621971,
+        "day": "2025-09-13 00:00:00.000 UTC",
+        "loan_symbol": "WLD",
+        "loan_token": "0x2cfc85d8e48f8eab294be644d9e25c3030863003"
+      },
+      {
+        "borrow_amount": 85126.700838484,
+        "borrow_amount_usd": 145773.5636094567,
+        "day": "2025-09-12 00:00:00.000 UTC",
+        "loan_symbol": "WLD",
+        "loan_token": "0x2cfc85d8e48f8eab294be644d9e25c3030863003"
+      },
+      {
+        "borrow_amount": 18275741.695460007,
+        "borrow_amount_usd": 18273573.291399326,
+        "day": "2025-09-12 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 152.52516335192473,
+        "borrow_amount_usd": 673566.967031848,
+        "day": "2025-09-12 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 150.71703180981547,
+        "borrow_amount_usd": 654270.2337367625,
+        "day": "2025-09-11 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 59449.17431102688,
+        "borrow_amount_usd": 111966.74003398334,
+        "day": "2025-09-11 00:00:00.000 UTC",
+        "loan_symbol": "WLD",
+        "loan_token": "0x2cfc85d8e48f8eab294be644d9e25c3030863003"
+      },
+      {
+        "borrow_amount": 17441173.100773007,
+        "borrow_amount_usd": 17443575.38012912,
+        "day": "2025-09-11 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 150.57542785285827,
+        "borrow_amount_usd": 650130.8719814983,
+        "day": "2025-09-10 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 17534876.604619004,
+        "borrow_amount_usd": 17535684.913722485,
+        "day": "2025-09-10 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 83688.72791120302,
+        "borrow_amount_usd": 155451.8120950595,
+        "day": "2025-09-10 00:00:00.000 UTC",
+        "loan_symbol": "WLD",
+        "loan_token": "0x2cfc85d8e48f8eab294be644d9e25c3030863003"
+      },
+      {
+        "borrow_amount": 47621.29944075649,
+        "borrow_amount_usd": 63501.79606729277,
+        "day": "2025-09-09 00:00:00.000 UTC",
+        "loan_symbol": "WLD",
+        "loan_token": "0x2cfc85d8e48f8eab294be644d9e25c3030863003"
+      },
+      {
+        "borrow_amount": 17591340.865315005,
+        "borrow_amount_usd": 17594125.672303658,
+        "day": "2025-09-09 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 150.56878194764695,
+        "borrow_amount_usd": 649789.5798172882,
+        "day": "2025-09-09 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 16722281.736044006,
+        "borrow_amount_usd": 16728418.058615917,
+        "day": "2025-09-08 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 74887.27110026043,
+        "borrow_amount_usd": 76830.95123982467,
+        "day": "2025-09-08 00:00:00.000 UTC",
+        "loan_symbol": "WLD",
+        "loan_token": "0x2cfc85d8e48f8eab294be644d9e25c3030863003"
+      },
+      {
+        "borrow_amount": 150.56839143367858,
+        "borrow_amount_usd": 647130.8590860825,
+        "day": "2025-09-08 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 14922234.496473003,
+        "borrow_amount_usd": 14926682.773125755,
+        "day": "2025-09-07 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 219100.5181169777,
+        "borrow_amount_usd": 201378.12309656438,
+        "day": "2025-09-07 00:00:00.000 UTC",
+        "loan_symbol": "WLD",
+        "loan_token": "0x2cfc85d8e48f8eab294be644d9e25c3030863003"
+      },
+      {
+        "borrow_amount": 140.3218851566013,
+        "borrow_amount_usd": 602838.7510134698,
+        "day": "2025-09-07 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 240359.3791121769,
+        "borrow_amount_usd": 213977.03958876722,
+        "day": "2025-09-06 00:00:00.000 UTC",
+        "loan_symbol": "WLD",
+        "loan_token": "0x2cfc85d8e48f8eab294be644d9e25c3030863003"
+      },
+      {
+        "borrow_amount": 140.22856736723793,
+        "borrow_amount_usd": 609241.255247865,
+        "day": "2025-09-06 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 14775089.485876003,
+        "borrow_amount_usd": 14779098.92187805,
+        "day": "2025-09-06 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 238976.42872140653,
+        "borrow_amount_usd": 210328.26718777014,
+        "day": "2025-09-05 00:00:00.000 UTC",
+        "loan_symbol": "WLD",
+        "loan_token": "0x2cfc85d8e48f8eab294be644d9e25c3030863003"
+      },
+      {
+        "borrow_amount": 14675488.617398003,
+        "borrow_amount_usd": 14678409.090589423,
+        "day": "2025-09-05 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 139.97403992895158,
+        "borrow_amount_usd": 611580.9081108402,
+        "day": "2025-09-05 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 236460.26665255573,
+        "borrow_amount_usd": 211028.8828698141,
+        "day": "2025-09-04 00:00:00.000 UTC",
+        "loan_symbol": "WLD",
+        "loan_token": "0x2cfc85d8e48f8eab294be644d9e25c3030863003"
+      },
+      {
+        "borrow_amount": 139.97376864154836,
+        "borrow_amount_usd": 614331.8938329549,
+        "day": "2025-09-04 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 14457930.791194003,
+        "borrow_amount_usd": 14456617.127537955,
+        "day": "2025-09-04 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 14484270.398050003,
+        "borrow_amount_usd": 14484982.843100213,
+        "day": "2025-09-03 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 139.9735687295903,
+        "borrow_amount_usd": 607752.1760843266,
+        "day": "2025-09-03 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 235500.3649121414,
+        "borrow_amount_usd": 205815.09826323384,
+        "day": "2025-09-03 00:00:00.000 UTC",
+        "loan_symbol": "WLD",
+        "loan_token": "0x2cfc85d8e48f8eab294be644d9e25c3030863003"
+      },
+      {
+        "borrow_amount": 25.26425921247166,
+        "borrow_amount_usd": 110621.1599087885,
+        "day": "2025-09-02 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 230213.15101191658,
+        "borrow_amount_usd": 200484.71564245608,
+        "day": "2025-09-02 00:00:00.000 UTC",
+        "loan_symbol": "WLD",
+        "loan_token": "0x2cfc85d8e48f8eab294be644d9e25c3030863003"
+      },
+      {
+        "borrow_amount": 14413961.842197005,
+        "borrow_amount_usd": 14416775.01713169,
+        "day": "2025-09-02 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 25.262697732049293,
+        "borrow_amount_usd": 112687.57808570619,
+        "day": "2025-09-01 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 230196.87916869394,
+        "borrow_amount_usd": 207988.4474166352,
+        "day": "2025-09-01 00:00:00.000 UTC",
+        "loan_symbol": "WLD",
+        "loan_token": "0x2cfc85d8e48f8eab294be644d9e25c3030863003"
+      },
+      {
+        "borrow_amount": 14249934.083742004,
+        "borrow_amount_usd": 14253731.443780638,
+        "day": "2025-09-01 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 14737831.032956004,
+        "borrow_amount_usd": 14744906.112966258,
+        "day": "2025-08-31 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 230190.41767911913,
+        "borrow_amount_usd": 208822.10017018637,
+        "day": "2025-08-31 00:00:00.000 UTC",
+        "loan_symbol": "WLD",
+        "loan_token": "0x2cfc85d8e48f8eab294be644d9e25c3030863003"
+      },
+      {
+        "borrow_amount": 25.20377761954589,
+        "borrow_amount_usd": 110043.06671758748,
+        "day": "2025-08-31 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 227716.64113259496,
+        "borrow_amount_usd": 210460.8686610187,
+        "day": "2025-08-30 00:00:00.000 UTC",
+        "loan_symbol": "WLD",
+        "loan_token": "0x2cfc85d8e48f8eab294be644d9e25c3030863003"
+      },
+      {
+        "borrow_amount": 25.20334743720127,
+        "borrow_amount_usd": 110623.0987715649,
+        "day": "2025-08-30 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 14669638.769993003,
+        "borrow_amount_usd": 14677910.10319198,
+        "day": "2025-08-30 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 227582.45958715148,
+        "borrow_amount_usd": 215556.95184868647,
+        "day": "2025-08-29 00:00:00.000 UTC",
+        "loan_symbol": "WLD",
+        "loan_token": "0x2cfc85d8e48f8eab294be644d9e25c3030863003"
+      },
+      {
+        "borrow_amount": 14578836.972789004,
+        "borrow_amount_usd": 14585744.557361215,
+        "day": "2025-08-29 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 25.203322818554348,
+        "borrow_amount_usd": 114451.4647127535,
+        "day": "2025-08-29 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 14616858.636797005,
+        "borrow_amount_usd": 14619291.734724257,
+        "day": "2025-08-28 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 152591.1585178593,
+        "borrow_amount_usd": 144398.36861164295,
+        "day": "2025-08-28 00:00:00.000 UTC",
+        "loan_symbol": "WLD",
+        "loan_token": "0x2cfc85d8e48f8eab294be644d9e25c3030863003"
+      },
+      {
+        "borrow_amount": 25.239547333178958,
+        "borrow_amount_usd": 115885.24585887273,
+        "day": "2025-08-28 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 25.23802466534966,
+        "borrow_amount_usd": 113069.8391318843,
+        "day": "2025-08-27 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 140578.45243721548,
+        "borrow_amount_usd": 128023.52166610767,
+        "day": "2025-08-27 00:00:00.000 UTC",
+        "loan_symbol": "WLD",
+        "loan_token": "0x2cfc85d8e48f8eab294be644d9e25c3030863003"
+      },
+      {
+        "borrow_amount": 14516979.342854004,
+        "borrow_amount_usd": 14522350.121149082,
+        "day": "2025-08-27 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 14461802.525702003,
+        "borrow_amount_usd": 14471417.666012507,
+        "day": "2025-08-26 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 25.238266467262363,
+        "borrow_amount_usd": 116219.85187059053,
+        "day": "2025-08-26 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 140607.97582256014,
+        "borrow_amount_usd": 130461.34446748829,
+        "day": "2025-08-26 00:00:00.000 UTC",
+        "loan_symbol": "WLD",
+        "loan_token": "0x2cfc85d8e48f8eab294be644d9e25c3030863003"
+      },
+      {
+        "borrow_amount": 14205868.203866005,
+        "borrow_amount_usd": 14208581.031433627,
+        "day": "2025-08-25 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 25.2213239714906,
+        "borrow_amount_usd": 120848.34862629512,
+        "day": "2025-08-25 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 140585.23002304477,
+        "borrow_amount_usd": 137872.64191489542,
+        "day": "2025-08-25 00:00:00.000 UTC",
+        "loan_symbol": "WLD",
+        "loan_token": "0x2cfc85d8e48f8eab294be644d9e25c3030863003"
+      },
+      {
+        "borrow_amount": 137603.40050856426,
+        "borrow_amount_usd": 139141.26280170213,
+        "day": "2025-08-24 00:00:00.000 UTC",
+        "loan_symbol": "WLD",
+        "loan_token": "0x2cfc85d8e48f8eab294be644d9e25c3030863003"
+      },
+      {
+        "borrow_amount": 25.215441336492855,
+        "borrow_amount_usd": 119501.41357317782,
+        "day": "2025-08-24 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 14667326.593566004,
+        "borrow_amount_usd": 14663945.31643223,
+        "day": "2025-08-24 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 25.190217731247564,
+        "borrow_amount_usd": 112973.65263701703,
+        "day": "2025-08-23 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 14728117.514432002,
+        "borrow_amount_usd": 14728886.086925488,
+        "day": "2025-08-23 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 179569.61454692364,
+        "borrow_amount_usd": 172684.4722127087,
+        "day": "2025-08-23 00:00:00.000 UTC",
+        "loan_symbol": "WLD",
+        "loan_token": "0x2cfc85d8e48f8eab294be644d9e25c3030863003"
+      },
+      {
+        "borrow_amount": 25.161422995362443,
+        "borrow_amount_usd": 107559.17037077052,
+        "day": "2025-08-22 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 14671684.597504005,
+        "borrow_amount_usd": 14673555.339176882,
+        "day": "2025-08-22 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 125698.36604826468,
+        "borrow_amount_usd": 118324.29628184484,
+        "day": "2025-08-22 00:00:00.000 UTC",
+        "loan_symbol": "WLD",
+        "loan_token": "0x2cfc85d8e48f8eab294be644d9e25c3030863003"
+      },
+      {
+        "borrow_amount": 108589.83119852057,
+        "borrow_amount_usd": 101220.14325578511,
+        "day": "2025-08-21 00:00:00.000 UTC",
+        "loan_symbol": "WLD",
+        "loan_token": "0x2cfc85d8e48f8eab294be644d9e25c3030863003"
+      },
+      {
+        "borrow_amount": 14338262.658419002,
+        "borrow_amount_usd": 14340600.64158811,
+        "day": "2025-08-21 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 25.22525873448963,
+        "borrow_amount_usd": 106652.98952580892,
+        "day": "2025-08-21 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 25.227478249712316,
+        "borrow_amount_usd": 106700.63448796693,
+        "day": "2025-08-20 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 108595.8102650943,
+        "borrow_amount_usd": 100973.51332842892,
+        "day": "2025-08-20 00:00:00.000 UTC",
+        "loan_symbol": "WLD",
+        "loan_token": "0x2cfc85d8e48f8eab294be644d9e25c3030863003"
+      },
+      {
+        "borrow_amount": 14254715.890594002,
+        "borrow_amount_usd": 14260536.714735946,
+        "day": "2025-08-20 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 14359769.044637004,
+        "borrow_amount_usd": 14366687.312117036,
+        "day": "2025-08-19 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 25.173550788362956,
+        "borrow_amount_usd": 109092.71592399503,
+        "day": "2025-08-19 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 108139.3555164304,
+        "borrow_amount_usd": 104111.61773247845,
+        "day": "2025-08-19 00:00:00.000 UTC",
+        "loan_symbol": "WLD",
+        "loan_token": "0x2cfc85d8e48f8eab294be644d9e25c3030863003"
+      },
+      {
+        "borrow_amount": 14531323.363412002,
+        "borrow_amount_usd": 14531499.606163766,
+        "day": "2025-08-18 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 25.174300446931806,
+        "borrow_amount_usd": 113179.41800960449,
+        "day": "2025-08-18 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 108187.29066238999,
+        "borrow_amount_usd": 109105.70797448592,
+        "day": "2025-08-18 00:00:00.000 UTC",
+        "loan_symbol": "WLD",
+        "loan_token": "0x2cfc85d8e48f8eab294be644d9e25c3030863003"
+      },
+      {
+        "borrow_amount": 108096.49295488108,
+        "borrow_amount_usd": 107094.53980565147,
+        "day": "2025-08-17 00:00:00.000 UTC",
+        "loan_symbol": "WLD",
+        "loan_token": "0x2cfc85d8e48f8eab294be644d9e25c3030863003"
+      },
+      {
+        "borrow_amount": 13951800.847477,
+        "borrow_amount_usd": 13954258.011513757,
+        "day": "2025-08-17 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 139.80643349180224,
+        "borrow_amount_usd": 619396.3161367982,
+        "day": "2025-08-17 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 108079.76710247973,
+        "borrow_amount_usd": 107572.36937307658,
+        "day": "2025-08-16 00:00:00.000 UTC",
+        "loan_symbol": "WLD",
+        "loan_token": "0x2cfc85d8e48f8eab294be644d9e25c3030863003"
+      },
+      {
+        "borrow_amount": 13794596.688151,
+        "borrow_amount_usd": 13796960.641362626,
+        "day": "2025-08-16 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 25.102511839835014,
+        "borrow_amount_usd": 114155.53959096782,
+        "day": "2025-08-16 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 77982.88278319003,
+        "borrow_amount_usd": 82721.35696051891,
+        "day": "2025-08-15 00:00:00.000 UTC",
+        "loan_symbol": "WLD",
+        "loan_token": "0x2cfc85d8e48f8eab294be644d9e25c3030863003"
+      },
+      {
+        "borrow_amount": 25.03522388973203,
+        "borrow_amount_usd": 116490.83351166015,
+        "day": "2025-08-15 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 13659038.089428,
+        "borrow_amount_usd": 13653706.653842071,
+        "day": "2025-08-15 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 34959.23169637294,
+        "borrow_amount_usd": 37870.73155745805,
+        "day": "2025-08-14 00:00:00.000 UTC",
+        "loan_symbol": "WLD",
+        "loan_token": "0x2cfc85d8e48f8eab294be644d9e25c3030863003"
+      },
+      {
+        "borrow_amount": 13653221.190487,
+        "borrow_amount_usd": 13641542.566411184,
+        "day": "2025-08-14 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 121.23098902959096,
+        "borrow_amount_usd": 566122.3383998479,
+        "day": "2025-08-14 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 34794.96467494315,
+        "borrow_amount_usd": 35292.82866862627,
+        "day": "2025-08-13 00:00:00.000 UTC",
+        "loan_symbol": "WLD",
+        "loan_token": "0x2cfc85d8e48f8eab294be644d9e25c3030863003"
+      },
+      {
+        "borrow_amount": 25.024525443998247,
+        "borrow_amount_usd": 109710.70235331821,
+        "day": "2025-08-13 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 13694968.648723999,
+        "borrow_amount_usd": 13687145.540539347,
+        "day": "2025-08-13 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 25.010624364298852,
+        "borrow_amount_usd": 106774.18342619862,
+        "day": "2025-08-12 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 13346816.650538,
+        "borrow_amount_usd": 13340922.965095174,
+        "day": "2025-08-12 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 1810.7763329253335,
+        "borrow_amount_usd": 1899.2042056244034,
+        "day": "2025-08-12 00:00:00.000 UTC",
+        "loan_symbol": "WLD",
+        "loan_token": "0x2cfc85d8e48f8eab294be644d9e25c3030863003"
+      },
+      {
+        "borrow_amount": 24.948248468074144,
+        "borrow_amount_usd": 105389.23510591245,
+        "day": "2025-08-11 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 13051600.516064,
+        "borrow_amount_usd": 13040984.7158123,
+        "day": "2025-08-11 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 1554.1921938189093,
+        "borrow_amount_usd": 1659.6742034712718,
+        "day": "2025-08-11 00:00:00.000 UTC",
+        "loan_symbol": "WLD",
+        "loan_token": "0x2cfc85d8e48f8eab294be644d9e25c3030863003"
+      },
+      {
+        "borrow_amount": 12946090.581261,
+        "borrow_amount_usd": 12937123.435658528,
+        "day": "2025-08-10 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 71.14880993036479,
+        "borrow_amount_usd": 296872.90811440826,
+        "day": "2025-08-10 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 1297.2704555272592,
+        "borrow_amount_usd": 1384.5433344523685,
+        "day": "2025-08-10 00:00:00.000 UTC",
+        "loan_symbol": "WLD",
+        "loan_token": "0x2cfc85d8e48f8eab294be644d9e25c3030863003"
+      },
+      {
+        "borrow_amount": 1282.4660287684146,
+        "borrow_amount_usd": 1310.4945865545642,
+        "day": "2025-08-09 00:00:00.000 UTC",
+        "loan_symbol": "WLD",
+        "loan_token": "0x2cfc85d8e48f8eab294be644d9e25c3030863003"
+      },
+      {
+        "borrow_amount": 12696682.131083,
+        "borrow_amount_usd": 12690570.838836277,
+        "day": "2025-08-09 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 80.34818904126259,
+        "borrow_amount_usd": 317321.68918799306,
+        "day": "2025-08-09 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 56.63837376978243,
+        "borrow_amount_usd": 213908.13642586014,
+        "day": "2025-08-08 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 11962050.066994,
+        "borrow_amount_usd": 11963620.916763216,
+        "day": "2025-08-08 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 2791.934443386037,
+        "borrow_amount_usd": 2759.925099182735,
+        "day": "2025-08-08 00:00:00.000 UTC",
+        "loan_symbol": "WLD",
+        "loan_token": "0x2cfc85d8e48f8eab294be644d9e25c3030863003"
+      },
+      {
+        "borrow_amount": 1516.1181772679302,
+        "borrow_amount_usd": 1435.577620851698,
+        "day": "2025-08-07 00:00:00.000 UTC",
+        "loan_symbol": "WLD",
+        "loan_token": "0x2cfc85d8e48f8eab294be644d9e25c3030863003"
+      },
+      {
+        "borrow_amount": 11520774.173451,
+        "borrow_amount_usd": 11525651.741213994,
+        "day": "2025-08-07 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 56.536859292542545,
+        "borrow_amount_usd": 205320.01203158815,
+        "day": "2025-08-07 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 11098170.244725,
+        "borrow_amount_usd": 11101917.996624833,
+        "day": "2025-08-06 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 5499.272728776916,
+        "borrow_amount_usd": 5267.443249016536,
+        "day": "2025-08-06 00:00:00.000 UTC",
+        "loan_symbol": "WLD",
+        "loan_token": "0x2cfc85d8e48f8eab294be644d9e25c3030863003"
+      },
+      {
+        "borrow_amount": 57.074482354372826,
+        "borrow_amount_usd": 207297.5044308886,
+        "day": "2025-08-06 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 5061.864042205908,
+        "borrow_amount_usd": 5011.828447672295,
+        "day": "2025-08-05 00:00:00.000 UTC",
+        "loan_symbol": "WLD",
+        "loan_token": "0x2cfc85d8e48f8eab294be644d9e25c3030863003"
+      },
+      {
+        "borrow_amount": 57.09753421549306,
+        "borrow_amount_usd": 205989.515267907,
+        "day": "2025-08-05 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 10950179.79008,
+        "borrow_amount_usd": 10955704.421934301,
+        "day": "2025-08-05 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 10902103.529381001,
+        "borrow_amount_usd": 10909965.157370519,
+        "day": "2025-08-04 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 57.09731034848392,
+        "borrow_amount_usd": 198135.82111887325,
+        "day": "2025-08-04 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 5072.263536959401,
+        "borrow_amount_usd": 4902.333620665757,
+        "day": "2025-08-04 00:00:00.000 UTC",
+        "loan_symbol": "WLD",
+        "loan_token": "0x2cfc85d8e48f8eab294be644d9e25c3030863003"
+      },
+      {
+        "borrow_amount": 57.09899649754161,
+        "borrow_amount_usd": 198531.31346988108,
+        "day": "2025-08-03 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 4984.166621315385,
+        "borrow_amount_usd": 4742.553121812453,
+        "day": "2025-08-03 00:00:00.000 UTC",
+        "loan_symbol": "WLD",
+        "loan_token": "0x2cfc85d8e48f8eab294be644d9e25c3030863003"
+      },
+      {
+        "borrow_amount": 10705369.682108,
+        "borrow_amount_usd": 10711882.152502706,
+        "day": "2025-08-03 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 10625796.259549001,
+        "borrow_amount_usd": 10626656.912150897,
+        "day": "2025-08-02 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 6781.062006631447,
+        "borrow_amount_usd": 6639.230632240579,
+        "day": "2025-08-02 00:00:00.000 UTC",
+        "loan_symbol": "WLD",
+        "loan_token": "0x2cfc85d8e48f8eab294be644d9e25c3030863003"
+      },
+      {
+        "borrow_amount": 57.25340881147713,
+        "borrow_amount_usd": 207121.945525536,
+        "day": "2025-08-02 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 10763190.986435,
+        "borrow_amount_usd": 10761374.959561378,
+        "day": "2025-08-01 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 10.692932241126517,
+        "borrow_amount_usd": 11.3633587463713,
+        "day": "2025-08-01 00:00:00.000 UTC",
+        "loan_symbol": "WLD",
+        "loan_token": "0x2cfc85d8e48f8eab294be644d9e25c3030863003"
+      },
+      {
+        "borrow_amount": 56.41890907841544,
+        "borrow_amount_usd": 214967.6114241137,
+        "day": "2025-08-01 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 49999.99999999999,
+        "borrow_amount_usd": 53019.417534722204,
+        "day": "2025-07-31 00:00:00.000 UTC",
+        "loan_symbol": "WLD",
+        "loan_token": "0x2cfc85d8e48f8eab294be644d9e25c3030863003"
+      },
+      {
+        "borrow_amount": 11382753.574838001,
+        "borrow_amount_usd": 11382556.39234639,
+        "day": "2025-07-31 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 62.18902672396275,
+        "borrow_amount_usd": 235599.1653526205,
+        "day": "2025-07-31 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 62.17566419686812,
+        "borrow_amount_usd": 236187.11224794821,
+        "day": "2025-07-30 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 11401811.842179002,
+        "borrow_amount_usd": 11398153.721290007,
+        "day": "2025-07-30 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 62.15178714010985,
+        "borrow_amount_usd": 238909.23834478017,
+        "day": "2025-07-29 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 11402056.229927002,
+        "borrow_amount_usd": 11396130.644649066,
+        "day": "2025-07-29 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 62.14864961702518,
+        "borrow_amount_usd": 236273.36541294027,
+        "day": "2025-07-28 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 11393176.644181002,
+        "borrow_amount_usd": 11385564.617595254,
+        "day": "2025-07-28 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 11482182.344917001,
+        "borrow_amount_usd": 11477337.222785642,
+        "day": "2025-07-27 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 77.15819339696169,
+        "borrow_amount_usd": 288560.8384784572,
+        "day": "2025-07-27 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 11474847.526883,
+        "borrow_amount_usd": 11472972.385392873,
+        "day": "2025-07-26 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 77.15879396624,
+        "borrow_amount_usd": 282927.5696387756,
+        "day": "2025-07-26 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 77.15747767083899,
+        "borrow_amount_usd": 282477.13715154916,
+        "day": "2025-07-25 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 11369299.304811,
+        "borrow_amount_usd": 11363522.950706217,
+        "day": "2025-07-25 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 11357703.951854002,
+        "borrow_amount_usd": 11351852.249821056,
+        "day": "2025-07-24 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 77.15654371724739,
+        "borrow_amount_usd": 282025.0177744138,
+        "day": "2025-07-24 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 11323046.811450003,
+        "borrow_amount_usd": 11316225.973178554,
+        "day": "2025-07-23 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 87.11118314739888,
+        "borrow_amount_usd": 322618.08160270745,
+        "day": "2025-07-23 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 11468897.045966003,
+        "borrow_amount_usd": 11460160.135770526,
+        "day": "2025-07-22 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 86.99925023233885,
+        "borrow_amount_usd": 328263.8249500418,
+        "day": "2025-07-22 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 11318437.876190003,
+        "borrow_amount_usd": 11309070.729143642,
+        "day": "2025-07-21 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 86.5979995544192,
+        "borrow_amount_usd": 320640.05340955575,
+        "day": "2025-07-21 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 11334325.345640004,
+        "borrow_amount_usd": 11328418.666633662,
+        "day": "2025-07-20 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 61.455856983865665,
+        "borrow_amount_usd": 218952.48609890864,
+        "day": "2025-07-20 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 11272355.644172002,
+        "borrow_amount_usd": 11265387.527938208,
+        "day": "2025-07-19 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 61.73039550715919,
+        "borrow_amount_usd": 221451.30576015578,
+        "day": "2025-07-19 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 11368783.679047003,
+        "borrow_amount_usd": 11362068.991186567,
+        "day": "2025-07-18 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 65.2884147725968,
+        "borrow_amount_usd": 222840.36797103035,
+        "day": "2025-07-18 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 90.28633860733238,
+        "borrow_amount_usd": 290403.9139890196,
+        "day": "2025-07-17 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 10808223.388153002,
+        "borrow_amount_usd": 10803505.786286838,
+        "day": "2025-07-17 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 92.72244301061721,
+        "borrow_amount_usd": 279295.5357962419,
+        "day": "2025-07-16 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 10720970.615582002,
+        "borrow_amount_usd": 10716768.66516136,
+        "day": "2025-07-16 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 100.13319778126689,
+        "borrow_amount_usd": 302386.3159552653,
+        "day": "2025-07-15 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 10757642.066757001,
+        "borrow_amount_usd": 10749724.255431248,
+        "day": "2025-07-15 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 10143396.794492,
+        "borrow_amount_usd": 10132199.963676244,
+        "day": "2025-07-14 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 100.15487866434356,
+        "borrow_amount_usd": 297011.5218206811,
+        "day": "2025-07-14 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 110.14725123736676,
+        "borrow_amount_usd": 324564.93126259197,
+        "day": "2025-07-13 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 10026662.721328,
+        "borrow_amount_usd": 10017094.360648556,
+        "day": "2025-07-13 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 110.14203890887623,
+        "borrow_amount_usd": 327969.52475318586,
+        "day": "2025-07-12 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 9952639.829370001,
+        "borrow_amount_usd": 9943461.767558465,
+        "day": "2025-07-12 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 10116335.948735,
+        "borrow_amount_usd": 10111202.01361952,
+        "day": "2025-07-11 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 100.12928352903464,
+        "borrow_amount_usd": 280824.8658313885,
+        "day": "2025-07-11 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 9759610.621414,
+        "borrow_amount_usd": 9757829.560250666,
+        "day": "2025-07-10 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 66.14023367648738,
+        "borrow_amount_usd": 175695.61947820394,
+        "day": "2025-07-10 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 9454866.019848,
+        "borrow_amount_usd": 9455801.165190276,
+        "day": "2025-07-09 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 58.13107534753628,
+        "borrow_amount_usd": 149468.3285339236,
+        "day": "2025-07-09 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 58.16913071059245,
+        "borrow_amount_usd": 148653.79882561724,
+        "day": "2025-07-08 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 9426044.568825,
+        "borrow_amount_usd": 9427331.81303643,
+        "day": "2025-07-08 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 58.153705630000054,
+        "borrow_amount_usd": 147386.1448145362,
+        "day": "2025-07-07 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 8989422.284759,
+        "borrow_amount_usd": 8993354.376676789,
+        "day": "2025-07-07 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 58.1494668761725,
+        "borrow_amount_usd": 146292.1784013146,
+        "day": "2025-07-06 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 8920413.845292,
+        "borrow_amount_usd": 8925868.027911553,
+        "day": "2025-07-06 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 58.146114163698634,
+        "borrow_amount_usd": 147574.69642010625,
+        "day": "2025-07-05 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 8810199.518989,
+        "borrow_amount_usd": 8812609.35328521,
+        "day": "2025-07-05 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 58.14330732477365,
+        "borrow_amount_usd": 150418.7730838106,
+        "day": "2025-07-04 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 8582658.033377001,
+        "borrow_amount_usd": 8582346.226602685,
+        "day": "2025-07-04 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 8686612.874994002,
+        "borrow_amount_usd": 8689899.943597231,
+        "day": "2025-07-03 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 58.144489924022054,
+        "borrow_amount_usd": 144637.0008666512,
+        "day": "2025-07-03 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 7723614.970061002,
+        "borrow_amount_usd": 7729406.9303815365,
+        "day": "2025-07-02 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 58.143953396663164,
+        "borrow_amount_usd": 142357.93742332273,
+        "day": "2025-07-02 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 6120267.596799001,
+        "borrow_amount_usd": 6122944.597595656,
+        "day": "2025-07-01 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 395.1470088811652,
+        "borrow_amount_usd": 982383.3756534037,
+        "day": "2025-07-01 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 8131663.862877001,
+        "borrow_amount_usd": 8134270.428199324,
+        "day": "2025-06-30 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 59.14797857367446,
+        "borrow_amount_usd": 144613.35936763315,
+        "day": "2025-06-30 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 8070348.269174002,
+        "borrow_amount_usd": 8073501.253363414,
+        "day": "2025-06-29 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 59.14753087947506,
+        "borrow_amount_usd": 143701.283957985,
+        "day": "2025-06-29 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 59.14793388809799,
+        "borrow_amount_usd": 143954.61117143973,
+        "day": "2025-06-28 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 8039439.691447001,
+        "borrow_amount_usd": 8043660.369370285,
+        "day": "2025-06-28 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 59.14338236788104,
+        "borrow_amount_usd": 145024.45905585866,
+        "day": "2025-06-27 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 7975749.469441,
+        "borrow_amount_usd": 7979323.602171995,
+        "day": "2025-06-27 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 7854327.019479001,
+        "borrow_amount_usd": 7856791.505485146,
+        "day": "2025-06-26 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 59.13609304394731,
+        "borrow_amount_usd": 143912.37429649458,
+        "day": "2025-06-26 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 59.126916860612894,
+        "borrow_amount_usd": 143340.0541895545,
+        "day": "2025-06-25 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 7883852.394240001,
+        "borrow_amount_usd": 7886861.699023166,
+        "day": "2025-06-25 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 7792382.038632002,
+        "borrow_amount_usd": 7796673.855381072,
+        "day": "2025-06-24 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 59.17288621438543,
+        "borrow_amount_usd": 134742.11691060357,
+        "day": "2025-06-24 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 59.15762184999971,
+        "borrow_amount_usd": 132575.60542601248,
+        "day": "2025-06-23 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 6749373.060205001,
+        "borrow_amount_usd": 6754229.16381585,
+        "day": "2025-06-23 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 6806959.600132002,
+        "borrow_amount_usd": 6812467.399494839,
+        "day": "2025-06-22 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 59.161311506702866,
+        "borrow_amount_usd": 142554.95241169687,
+        "day": "2025-06-22 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 7500575.005875001,
+        "borrow_amount_usd": 7505483.116513482,
+        "day": "2025-06-21 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 59.20533487949961,
+        "borrow_amount_usd": 147926.92002297367,
+        "day": "2025-06-21 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 59.203768622251395,
+        "borrow_amount_usd": 149194.27603322305,
+        "day": "2025-06-20 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 7772110.636216002,
+        "borrow_amount_usd": 7776176.610498043,
+        "day": "2025-06-20 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 7765865.9963110015,
+        "borrow_amount_usd": 7769952.648467496,
+        "day": "2025-06-19 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 59.14006347749713,
+        "borrow_amount_usd": 148896.73863027515,
+        "day": "2025-06-19 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 7759671.7460980015,
+        "borrow_amount_usd": 7763620.799320757,
+        "day": "2025-06-18 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 59.13912264825106,
+        "borrow_amount_usd": 150711.6658640297,
+        "day": "2025-06-18 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 7815810.469634001,
+        "borrow_amount_usd": 7820927.681571378,
+        "day": "2025-06-17 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 59.13871183581513,
+        "borrow_amount_usd": 154620.02455347605,
+        "day": "2025-06-17 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 59.13704475752295,
+        "borrow_amount_usd": 149946.1658567031,
+        "day": "2025-06-16 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 7836422.106636002,
+        "borrow_amount_usd": 7842963.72324831,
+        "day": "2025-06-16 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 59.132986523174445,
+        "borrow_amount_usd": 149995.73985199415,
+        "day": "2025-06-15 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 7339750.046954,
+        "borrow_amount_usd": 7345054.978726652,
+        "day": "2025-06-15 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 7198532.500034001,
+        "borrow_amount_usd": 7201815.555747011,
+        "day": "2025-06-14 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 59.13275191426932,
+        "borrow_amount_usd": 149821.4956719743,
+        "day": "2025-06-14 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 7089870.453808001,
+        "borrow_amount_usd": 7092815.679541413,
+        "day": "2025-06-13 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 59.122442858723204,
+        "borrow_amount_usd": 161907.3722529657,
+        "day": "2025-06-13 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 59.12229214766026,
+        "borrow_amount_usd": 165579.37560461316,
+        "day": "2025-06-12 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 7248441.389159001,
+        "borrow_amount_usd": 7249076.433162928,
+        "day": "2025-06-12 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 63.065592719111876,
+        "borrow_amount_usd": 171894.58170019803,
+        "day": "2025-06-11 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 7579228.945665001,
+        "borrow_amount_usd": 7579264.420667148,
+        "day": "2025-06-11 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 7879634.841342002,
+        "borrow_amount_usd": 7882070.469303273,
+        "day": "2025-06-10 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 63.06648893633018,
+        "borrow_amount_usd": 160301.74463577097,
+        "day": "2025-06-10 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 7270835.351524001,
+        "borrow_amount_usd": 7274771.170831177,
+        "day": "2025-06-09 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 89.71114385351126,
+        "borrow_amount_usd": 226028.73458453352,
+        "day": "2025-06-09 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 91.46065214509332,
+        "borrow_amount_usd": 228989.92044985498,
+        "day": "2025-06-08 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 7020633.100201,
+        "borrow_amount_usd": 7024268.3255150085,
+        "day": "2025-06-08 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 6970153.386771,
+        "borrow_amount_usd": 6974422.315297337,
+        "day": "2025-06-07 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 90.56059678285341,
+        "borrow_amount_usd": 224204.75915872052,
+        "day": "2025-06-07 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 153.30207382093778,
+        "borrow_amount_usd": 395029.93891033484,
+        "day": "2025-06-06 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 6677411.141907999,
+        "borrow_amount_usd": 6680243.0597958295,
+        "day": "2025-06-06 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 176.0014139864667,
+        "borrow_amount_usd": 462650.74302380293,
+        "day": "2025-06-05 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 5986208.637985999,
+        "borrow_amount_usd": 5987973.987541701,
+        "day": "2025-06-05 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 175.99796559862068,
+        "borrow_amount_usd": 460404.38363430515,
+        "day": "2025-06-04 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 6178424.56176,
+        "borrow_amount_usd": 6180291.003752092,
+        "day": "2025-06-04 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 175.9988559609216,
+        "borrow_amount_usd": 444081.4989084464,
+        "day": "2025-06-03 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 6175714.12104,
+        "borrow_amount_usd": 6177922.474924569,
+        "day": "2025-06-03 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 182.9965121738,
+        "borrow_amount_usd": 460845.7526456938,
+        "day": "2025-06-02 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 6013543.67248,
+        "borrow_amount_usd": 6017007.912122908,
+        "day": "2025-06-02 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 152.005924175704,
+        "borrow_amount_usd": 384548.0335029074,
+        "day": "2025-06-01 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 5939115.874576999,
+        "borrow_amount_usd": 5942628.242958909,
+        "day": "2025-06-01 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 5682158.925721999,
+        "borrow_amount_usd": 5684491.708447348,
+        "day": "2025-05-31 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 136.00243192765672,
+        "borrow_amount_usd": 353691.56064719544,
+        "day": "2025-05-31 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 5727706.84623,
+        "borrow_amount_usd": 5729042.734412526,
+        "day": "2025-05-30 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 136.003260125448,
+        "borrow_amount_usd": 366466.6212146,
+        "day": "2025-05-30 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 140.19630102863232,
+        "borrow_amount_usd": 370765.63981486013,
+        "day": "2025-05-29 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 6007945.941090999,
+        "borrow_amount_usd": 6009011.120701062,
+        "day": "2025-05-29 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 142.80892229665852,
+        "borrow_amount_usd": 375297.3998927262,
+        "day": "2025-05-28 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 5945992.218789999,
+        "borrow_amount_usd": 5946612.68720719,
+        "day": "2025-05-28 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 5917232.705142999,
+        "borrow_amount_usd": 5917974.598739355,
+        "day": "2025-05-27 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 147.09920829491446,
+        "borrow_amount_usd": 376681.1309221347,
+        "day": "2025-05-27 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 147.12298258446128,
+        "borrow_amount_usd": 369496.54068683455,
+        "day": "2025-05-26 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 5827072.8428919995,
+        "borrow_amount_usd": 5828932.690773473,
+        "day": "2025-05-26 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 5515016.837676999,
+        "borrow_amount_usd": 5516029.302851449,
+        "day": "2025-05-25 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 147.1228590430606,
+        "borrow_amount_usd": 375302.6332759891,
+        "day": "2025-05-25 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 135.09074685187082,
+        "borrow_amount_usd": 353806.6812022477,
+        "day": "2025-05-24 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 5521890.194723999,
+        "borrow_amount_usd": 5522933.697758194,
+        "day": "2025-05-24 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 5533106.379301999,
+        "borrow_amount_usd": 5532719.330825898,
+        "day": "2025-05-23 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 116.08401431411627,
+        "borrow_amount_usd": 306213.293354041,
+        "day": "2025-05-23 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 5403626.280466,
+        "borrow_amount_usd": 5404234.150897369,
+        "day": "2025-05-22 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 82.23355992049387,
+        "borrow_amount_usd": 208826.51754616067,
+        "day": "2025-05-22 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 74.1912341802974,
+        "borrow_amount_usd": 186808.9989094024,
+        "day": "2025-05-21 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 4849449.270031,
+        "borrow_amount_usd": 4850508.925211597,
+        "day": "2025-05-21 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 66.33105156432038,
+        "borrow_amount_usd": 162135.95811385807,
+        "day": "2025-05-20 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 4694320.343053999,
+        "borrow_amount_usd": 4695610.775856911,
+        "day": "2025-05-20 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 42.69623391552361,
+        "borrow_amount_usd": 106442.86009519493,
+        "day": "2025-05-19 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 4815914.268614,
+        "borrow_amount_usd": 4818031.799362831,
+        "day": "2025-05-19 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 39.05108038023563,
+        "borrow_amount_usd": 97012.23422875193,
+        "day": "2025-05-18 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 4936003.258625,
+        "borrow_amount_usd": 4938484.611457571,
+        "day": "2025-05-18 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 60.02890273858565,
+        "borrow_amount_usd": 155235.24480717554,
+        "day": "2025-05-17 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 4744089.766368,
+        "borrow_amount_usd": 4745824.999562718,
+        "day": "2025-05-17 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 0.037539393990146774,
+        "borrow_amount_usd": 96.1377675660041,
+        "day": "2025-05-16 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 5017579.405374999,
+        "borrow_amount_usd": 5020158.754788075,
+        "day": "2025-05-16 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 0.04650043876850031,
+        "borrow_amount_usd": 121.960178603462,
+        "day": "2025-05-15 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 4981904.212453999,
+        "borrow_amount_usd": 4982660.769963151,
+        "day": "2025-05-15 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 4934100.374186999,
+        "borrow_amount_usd": 4933073.875721653,
+        "day": "2025-05-14 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 0.035185718218996166,
+        "borrow_amount_usd": 89.27794456338601,
+        "day": "2025-05-14 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 0.022288933683071832,
+        "borrow_amount_usd": 56.050822785283,
+        "day": "2025-05-13 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 4892783.223084999,
+        "borrow_amount_usd": 4891579.071758371,
+        "day": "2025-05-13 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 3934057.7236349992,
+        "borrow_amount_usd": 3933391.7067862786,
+        "day": "2025-05-12 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 15.026395012839185,
+        "borrow_amount_usd": 37746.23905352367,
+        "day": "2025-05-12 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 2967637.207808999,
+        "borrow_amount_usd": 2966961.8024325306,
+        "day": "2025-05-11 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 15.025734751202126,
+        "borrow_amount_usd": 36349.96742995118,
+        "day": "2025-05-11 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 0.01532335256112926,
+        "borrow_amount_usd": 35.236481779790076,
+        "day": "2025-05-10 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 2842901.3205009988,
+        "borrow_amount_usd": 2842856.3177679437,
+        "day": "2025-05-10 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 2763406.853965999,
+        "borrow_amount_usd": 2763716.4898659205,
+        "day": "2025-05-09 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 0.0029708315563003627,
+        "borrow_amount_usd": 5.888689678720191,
+        "day": "2025-05-09 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 0.008137886826852545,
+        "borrow_amount_usd": 14.841635271036438,
+        "day": "2025-05-08 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 2494969.6751399995,
+        "borrow_amount_usd": 2496048.957438637,
+        "day": "2025-05-08 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 0.01834840432240345,
+        "borrow_amount_usd": 32.869741156763936,
+        "day": "2025-05-07 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 2488349.7764319996,
+        "borrow_amount_usd": 2490323.3574885367,
+        "day": "2025-05-07 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 2385912.4211369995,
+        "borrow_amount_usd": 2388707.8986215955,
+        "day": "2025-05-06 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 0.01388093848219973,
+        "borrow_amount_usd": 25.16994860479307,
+        "day": "2025-05-06 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 2441571.0345819993,
+        "borrow_amount_usd": 2444091.8803761117,
+        "day": "2025-05-05 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 0.007197091177851165,
+        "borrow_amount_usd": 13.19725161484385,
+        "day": "2025-05-05 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 0.005349877607348659,
+        "borrow_amount_usd": 9.807812288662156,
+        "day": "2025-05-04 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 2404225.6491599996,
+        "borrow_amount_usd": 2405509.514004658,
+        "day": "2025-05-04 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 0.001016653351699237,
+        "borrow_amount_usd": 1.8710540882363527,
+        "day": "2025-05-03 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 2133496.2486109994,
+        "borrow_amount_usd": 2134141.5719624204,
+        "day": "2025-05-03 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 2055646.3700549996,
+        "borrow_amount_usd": 2056408.2083025957,
+        "day": "2025-05-02 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 0.000997686693201195,
+        "borrow_amount_usd": 1.8277800010902063,
+        "day": "2025-05-02 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 0.000931916297980235,
+        "borrow_amount_usd": 1.6714000994115676,
+        "day": "2025-05-01 00:00:00.000 UTC",
+        "loan_symbol": "WETH",
+        "loan_token": "0x4200000000000000000000000000000000000006"
+      },
+      {
+        "borrow_amount": 843559.6737729998,
+        "borrow_amount_usd": 844054.1461931632,
+        "day": "2025-05-01 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      },
+      {
+        "borrow_amount": 26.379411,
+        "borrow_amount_usd": 26.386270379621422,
+        "day": "2025-04-30 00:00:00.000 UTC",
+        "loan_symbol": "USDC.e",
+        "loan_token": "0x79a02482a880bce3f13e09da970dc34db4cd24d1"
+      }
+    ],
+    "metadata": {
+      "column_names": [
+        "day",
+        "loan_token",
+        "loan_symbol",
+        "borrow_amount",
+        "borrow_amount_usd"
+      ],
+      "column_types": [
+        "timestamp(3) with time zone",
+        "varbinary",
+        "varchar",
+        "double",
+        "double"
+      ],
+      "row_count": 414,
+      "result_set_bytes": 29241,
+      "total_row_count": 414,
+      "total_result_set_bytes": 29241,
+      "datapoint_count": 2070,
+      "pending_time_millis": 6502,
+      "execution_time_millis": 10528
+    }
+  }
+}

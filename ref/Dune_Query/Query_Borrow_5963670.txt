@@ -1,0 +1,9 @@
+select day
+, loan_token
+, loan_symbol
+, sum(borrow_amount) as borrow_amount
+, sum(borrow_amount_usd) as borrow_amount_usd
+from query_5963621
+where day = date '{{p_date}}'
+group by 1, 2, 3
+order by 1 desc

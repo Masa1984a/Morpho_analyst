@@ -1,0 +1,57 @@
+with
+-- swaps. amount_wld > 0 means taker bought WLD, amount_wld < 0 means taker sold WLD
+wld_swaps as (
+    select
+        block_time as "time",
+        -- for some reason, we don't get symbols or "amount"s (only raw amounts). Perhaps something to do with token lists.
+        if(token_bought_address = 0x163f8C2467924be0ae7B5347228CABF260318753, cast(token_bought_amount_raw as double)/1e18, -cast(token_sold_amount_raw as double)/1e18) as amount_wld,
+        amount_usd,
+        project,
+        blockchain
+    from dex.trades
+    where blockchain = 'ethereum' 
+    and (token_bought_address = 0x163f8C2467924be0ae7B5347228CABF260318753 or token_sold_address = 0x163f8C2467924be0ae7B5347228CABF260318753)
+    union all 
+    select
+        block_time as "time",
+        if(token_bought_address = 0xdC6fF44d5d932Cbd77B52E5612Ba0529DC6226F1, cast(token_bought_amount_raw as double)/1e18, -cast(token_sold_amount_raw as double)/1e18) as amount_wld,
+        amount_usd,
+        project,
+        blockchain
+    from dex.trades
+    where blockchain = 'optimism'
+    and (token_bought_address = 0xdC6fF44d5d932Cbd77B52E5612Ba0529DC6226F1 or token_sold_address = 0xdC6fF44d5d932Cbd77B52E5612Ba0529DC6226F1)
+    union all 
+    select
+        block_time as "time",
+        if(token_bought_address = 0x2cFc85d8E48F8EAB294be644d9E25C3030863003, cast(token_bought_amount_raw as double)/1e18, -cast(token_sold_amount_raw as double)/1e18) as amount_wld,
+        amount_usd,
+        project,
+        blockchain
+    from dex.trades
+    where blockchain = 'worldchain'
+    and (token_bought_address = 0x2cFc85d8E48F8EAB294be644d9E25C3030863003 or token_sold_address = 0x2cFc85d8E48F8EAB294be644d9E25C3030863003)
+),
+daily_agg as (
+    select 
+        date_trunc('day', "time") as "date",
+        blockchain,
+        sum(abs(amount_wld)) as chain_volume_wld,
+        sum(amount_usd) as chain_volume_usd,
+        sum(1) as chain_num_swaps
+    from wld_swaps
+    where date_trunc('day', "time")  >= date '{{p_date}}'
+    group by 1, 2
+)
+
+select
+    date,
+    blockchain,
+    chain_volume_wld,
+    chain_volume_usd,
+    chain_num_swaps,
+    sum(chain_volume_wld) over(partition by date) as total_volume_wld,
+    sum(chain_volume_usd) over(partition by date) as total_volume_usd,
+    sum(chain_num_swaps) over(partition by date) as total_num_swaps
+from daily_agg
+order by 1 desc

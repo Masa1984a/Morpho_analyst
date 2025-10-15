@@ -1,0 +1,38 @@
+# Vercel ignore file - files to exclude from deployment
+
+# Dependencies
+node_modules/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Reference files (not needed in production)
+ref/
+
+# Development files
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# TypeScript
+*.tsbuildinfo
+
+# Documentation (optional - comment out if you want to deploy docs)
+DEPLOYMENT.md
+
+# Git
+.git/
+.gitignore

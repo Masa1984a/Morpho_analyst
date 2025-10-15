@@ -1,0 +1,5113 @@
+{
+  "execution_id": "01K7KEQQWXB533PPJDTRTNNPXV",
+  "query_id": 5963703,
+  "is_execution_finished": true,
+  "state": "QUERY_STATE_COMPLETED",
+  "submitted_at": "2025-10-15T08:10:41.950636Z",
+  "expires_at": "2026-01-13T08:10:45.612392Z",
+  "execution_started_at": "2025-10-15T08:10:42.268352Z",
+  "execution_ended_at": "2025-10-15T08:10:45.612387Z",
+  "result": {
+    "rows": [
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 33,
+        "chain_volume_usd": 8643.594710865098,
+        "chain_volume_wld": 8556.463097532294,
+        "date": "2025-10-15 00:00:00.000 UTC",
+        "total_num_swaps": 109722,
+        "total_volume_usd": 199678.09148372913,
+        "total_volume_wld": 207768.50656148046
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 415,
+        "chain_volume_usd": 44781.79118709508,
+        "chain_volume_wld": 46768.17996421869,
+        "date": "2025-10-15 00:00:00.000 UTC",
+        "total_num_swaps": 109722,
+        "total_volume_usd": 199678.09148372913,
+        "total_volume_wld": 207768.50656148046
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 109274,
+        "chain_volume_usd": 146252.70558576894,
+        "chain_volume_wld": 152443.8634997295,
+        "date": "2025-10-15 00:00:00.000 UTC",
+        "total_num_swaps": 109722,
+        "total_volume_usd": 199678.09148372913,
+        "total_volume_wld": 207768.50656148046
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 382963,
+        "chain_volume_usd": 975555.4937592974,
+        "chain_volume_wld": 1030682.0868440341,
+        "date": "2025-10-14 00:00:00.000 UTC",
+        "total_num_swaps": 385284,
+        "total_volume_usd": 1505115.0083648735,
+        "total_volume_wld": 1585449.9438263937
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 2060,
+        "chain_volume_usd": 109940.142318481,
+        "chain_volume_wld": 115362.99557263,
+        "date": "2025-10-14 00:00:00.000 UTC",
+        "total_num_swaps": 385284,
+        "total_volume_usd": 1505115.0083648735,
+        "total_volume_wld": 1585449.9438263937
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 261,
+        "chain_volume_usd": 419619.3722870949,
+        "chain_volume_wld": 439404.8614097295,
+        "date": "2025-10-14 00:00:00.000 UTC",
+        "total_num_swaps": 385284,
+        "total_volume_usd": 1505115.0083648735,
+        "total_volume_wld": 1585449.9438263937
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 403397,
+        "chain_volume_usd": 1292559.668725877,
+        "chain_volume_wld": 1296462.5650569957,
+        "date": "2025-10-13 00:00:00.000 UTC",
+        "total_num_swaps": 406547,
+        "total_volume_usd": 2121638.8869827744,
+        "total_volume_wld": 2127870.77583094
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 2796,
+        "chain_volume_usd": 199518.7113281875,
+        "chain_volume_wld": 200501.03287086147,
+        "date": "2025-10-13 00:00:00.000 UTC",
+        "total_num_swaps": 406547,
+        "total_volume_usd": 2121638.8869827744,
+        "total_volume_wld": 2127870.77583094
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 354,
+        "chain_volume_usd": 629560.5069287098,
+        "chain_volume_wld": 630907.1779030827,
+        "date": "2025-10-13 00:00:00.000 UTC",
+        "total_num_swaps": 406547,
+        "total_volume_usd": 2121638.8869827744,
+        "total_volume_wld": 2127870.77583094
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 500,
+        "chain_volume_usd": 762537.7618358013,
+        "chain_volume_wld": 788873.4901995806,
+        "date": "2025-10-12 00:00:00.000 UTC",
+        "total_num_swaps": 422373,
+        "total_volume_usd": 2433448.6391150244,
+        "total_volume_wld": 2509260.8857672755
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 3551,
+        "chain_volume_usd": 185081.3773798806,
+        "chain_volume_wld": 189868.05450261055,
+        "date": "2025-10-12 00:00:00.000 UTC",
+        "total_num_swaps": 422373,
+        "total_volume_usd": 2433448.6391150244,
+        "total_volume_wld": 2509260.8857672755
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 418322,
+        "chain_volume_usd": 1485829.4998993427,
+        "chain_volume_wld": 1530519.3410650846,
+        "date": "2025-10-12 00:00:00.000 UTC",
+        "total_num_swaps": 422373,
+        "total_volume_usd": 2433448.6391150244,
+        "total_volume_wld": 2509260.8857672755
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 441640,
+        "chain_volume_usd": 2131678.8547902983,
+        "chain_volume_wld": 2295204.985389189,
+        "date": "2025-10-11 00:00:00.000 UTC",
+        "total_num_swaps": 450992,
+        "total_volume_usd": 5159417.987299914,
+        "total_volume_wld": 5540293.016279926
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 8616,
+        "chain_volume_usd": 962031.5809043583,
+        "chain_volume_wld": 1053761.089530269,
+        "date": "2025-10-11 00:00:00.000 UTC",
+        "total_num_swaps": 450992,
+        "total_volume_usd": 5159417.987299914,
+        "total_volume_wld": 5540293.016279926
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 736,
+        "chain_volume_usd": 2065707.5516052572,
+        "chain_volume_wld": 2191326.941360468,
+        "date": "2025-10-11 00:00:00.000 UTC",
+        "total_num_swaps": 450992,
+        "total_volume_usd": 5159417.987299914,
+        "total_volume_wld": 5540293.016279926
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 634,
+        "chain_volume_usd": 2794169.415017653,
+        "chain_volume_wld": 2622221.0004587937,
+        "date": "2025-10-10 00:00:00.000 UTC",
+        "total_num_swaps": 495315,
+        "total_volume_usd": 11595595.377355294,
+        "total_volume_wld": 12072970.607025955
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 6832,
+        "chain_volume_usd": 664371.0079124095,
+        "chain_volume_wld": 641183.3420217625,
+        "date": "2025-10-10 00:00:00.000 UTC",
+        "total_num_swaps": 495315,
+        "total_volume_usd": 11595595.377355294,
+        "total_volume_wld": 12072970.607025955
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 487849,
+        "chain_volume_usd": 8137054.954425232,
+        "chain_volume_wld": 8809566.264545398,
+        "date": "2025-10-10 00:00:00.000 UTC",
+        "total_num_swaps": 495315,
+        "total_volume_usd": 11595595.377355294,
+        "total_volume_wld": 12072970.607025955
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 446559,
+        "chain_volume_usd": 1123484.4547789805,
+        "chain_volume_wld": 922003.7710760946,
+        "date": "2025-10-09 00:00:00.000 UTC",
+        "total_num_swaps": 448832,
+        "total_volume_usd": 1817097.11683247,
+        "total_volume_wld": 1492474.578576894
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 1984,
+        "chain_volume_usd": 131882.23736749552,
+        "chain_volume_wld": 108503.40599523214,
+        "date": "2025-10-09 00:00:00.000 UTC",
+        "total_num_swaps": 448832,
+        "total_volume_usd": 1817097.11683247,
+        "total_volume_wld": 1492474.578576894
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 289,
+        "chain_volume_usd": 561730.4246859939,
+        "chain_volume_wld": 461967.40150556737,
+        "date": "2025-10-09 00:00:00.000 UTC",
+        "total_num_swaps": 448832,
+        "total_volume_usd": 1817097.11683247,
+        "total_volume_wld": 1492474.578576894
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 2375,
+        "chain_volume_usd": 257852.1677226969,
+        "chain_volume_wld": 213095.59529723052,
+        "date": "2025-10-08 00:00:00.000 UTC",
+        "total_num_swaps": 452218,
+        "total_volume_usd": 2338716.980197864,
+        "total_volume_wld": 1922214.0829824586
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 322,
+        "chain_volume_usd": 702166.160949725,
+        "chain_volume_wld": 572915.6654876515,
+        "date": "2025-10-08 00:00:00.000 UTC",
+        "total_num_swaps": 452218,
+        "total_volume_usd": 2338716.980197864,
+        "total_volume_wld": 1922214.0829824586
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 449521,
+        "chain_volume_usd": 1378698.6515254423,
+        "chain_volume_wld": 1136202.8221975765,
+        "date": "2025-10-08 00:00:00.000 UTC",
+        "total_num_swaps": 452218,
+        "total_volume_usd": 2338716.980197864,
+        "total_volume_wld": 1922214.0829824586
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 2585,
+        "chain_volume_usd": 192259.5656385852,
+        "chain_volume_wld": 153344.12930671492,
+        "date": "2025-10-07 00:00:00.000 UTC",
+        "total_num_swaps": 465687,
+        "total_volume_usd": 2002473.3206824516,
+        "total_volume_wld": 1595401.296992181
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 241,
+        "chain_volume_usd": 531793.6064265713,
+        "chain_volume_wld": 426030.81577861926,
+        "date": "2025-10-07 00:00:00.000 UTC",
+        "total_num_swaps": 465687,
+        "total_volume_usd": 2002473.3206824516,
+        "total_volume_wld": 1595401.296992181
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 462861,
+        "chain_volume_usd": 1278420.148617295,
+        "chain_volume_wld": 1016026.3519068469,
+        "date": "2025-10-07 00:00:00.000 UTC",
+        "total_num_swaps": 465687,
+        "total_volume_usd": 2002473.3206824516,
+        "total_volume_wld": 1595401.296992181
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 427100,
+        "chain_volume_usd": 1354685.0310762122,
+        "chain_volume_wld": 1052482.4200588944,
+        "date": "2025-10-06 00:00:00.000 UTC",
+        "total_num_swaps": 428862,
+        "total_volume_usd": 2104719.393294665,
+        "total_volume_wld": 1631457.6152787986
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 1502,
+        "chain_volume_usd": 139914.9753009649,
+        "chain_volume_wld": 109428.72633897605,
+        "date": "2025-10-06 00:00:00.000 UTC",
+        "total_num_swaps": 428862,
+        "total_volume_usd": 2104719.393294665,
+        "total_volume_wld": 1631457.6152787986
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 260,
+        "chain_volume_usd": 610119.3869174881,
+        "chain_volume_wld": 469546.4688809281,
+        "date": "2025-10-06 00:00:00.000 UTC",
+        "total_num_swaps": 428862,
+        "total_volume_usd": 2104719.393294665,
+        "total_volume_wld": 1631457.6152787986
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 205,
+        "chain_volume_usd": 262838.412875614,
+        "chain_volume_wld": 204423.70789558563,
+        "date": "2025-10-05 00:00:00.000 UTC",
+        "total_num_swaps": 412922,
+        "total_volume_usd": 1570854.6472157864,
+        "total_volume_wld": 1222521.728526306
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 1730,
+        "chain_volume_usd": 165832.9848549394,
+        "chain_volume_wld": 129068.78891626885,
+        "date": "2025-10-05 00:00:00.000 UTC",
+        "total_num_swaps": 412922,
+        "total_volume_usd": 1570854.6472157864,
+        "total_volume_wld": 1222521.728526306
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 410987,
+        "chain_volume_usd": 1142183.249485233,
+        "chain_volume_wld": 889029.2317144516,
+        "date": "2025-10-05 00:00:00.000 UTC",
+        "total_num_swaps": 412922,
+        "total_volume_usd": 1570854.6472157864,
+        "total_volume_wld": 1222521.728526306
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 393266,
+        "chain_volume_usd": 893633.3461026225,
+        "chain_volume_wld": 691873.8755021766,
+        "date": "2025-10-04 00:00:00.000 UTC",
+        "total_num_swaps": 394841,
+        "total_volume_usd": 1414626.696208353,
+        "total_volume_wld": 1094081.8783451105
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 1363,
+        "chain_volume_usd": 92767.81038874715,
+        "chain_volume_wld": 71907.07216129378,
+        "date": "2025-10-04 00:00:00.000 UTC",
+        "total_num_swaps": 394841,
+        "total_volume_usd": 1414626.696208353,
+        "total_volume_wld": 1094081.8783451105
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 212,
+        "chain_volume_usd": 428225.53971698333,
+        "chain_volume_wld": 330300.93068164017,
+        "date": "2025-10-04 00:00:00.000 UTC",
+        "total_num_swaps": 394841,
+        "total_volume_usd": 1414626.696208353,
+        "total_volume_wld": 1094081.8783451105
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 246,
+        "chain_volume_usd": 541210.8130332954,
+        "chain_volume_wld": 399795.23263435566,
+        "date": "2025-10-03 00:00:00.000 UTC",
+        "total_num_swaps": 430366,
+        "total_volume_usd": 2372096.417740358,
+        "total_volume_wld": 1758289.705448086
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 3220,
+        "chain_volume_usd": 297060.7115813607,
+        "chain_volume_wld": 219131.56156156704,
+        "date": "2025-10-03 00:00:00.000 UTC",
+        "total_num_swaps": 430366,
+        "total_volume_usd": 2372096.417740358,
+        "total_volume_wld": 1758289.705448086
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 426900,
+        "chain_volume_usd": 1533824.8931257017,
+        "chain_volume_wld": 1139362.9112521631,
+        "date": "2025-10-03 00:00:00.000 UTC",
+        "total_num_swaps": 430366,
+        "total_volume_usd": 2372096.417740358,
+        "total_volume_wld": 1758289.705448086
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 209,
+        "chain_volume_usd": 531594.1298722231,
+        "chain_volume_wld": 397176.76604498725,
+        "date": "2025-10-02 00:00:00.000 UTC",
+        "total_num_swaps": 467792,
+        "total_volume_usd": 2047012.9803712459,
+        "total_volume_wld": 1532257.623603461
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 1953,
+        "chain_volume_usd": 202481.78983501202,
+        "chain_volume_wld": 151963.5808576148,
+        "date": "2025-10-02 00:00:00.000 UTC",
+        "total_num_swaps": 467792,
+        "total_volume_usd": 2047012.9803712459,
+        "total_volume_wld": 1532257.623603461
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 465630,
+        "chain_volume_usd": 1312937.0606640107,
+        "chain_volume_wld": 983117.276700859,
+        "date": "2025-10-02 00:00:00.000 UTC",
+        "total_num_swaps": 467792,
+        "total_volume_usd": 2047012.9803712459,
+        "total_volume_wld": 1532257.623603461
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 155,
+        "chain_volume_usd": 282951.57309836696,
+        "chain_volume_wld": 217010.07190085264,
+        "date": "2025-10-01 00:00:00.000 UTC",
+        "total_num_swaps": 484288,
+        "total_volume_usd": 1766868.6716364415,
+        "total_volume_wld": 1367270.7228990905
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 2151,
+        "chain_volume_usd": 210501.42197210615,
+        "chain_volume_wld": 162242.82346336733,
+        "date": "2025-10-01 00:00:00.000 UTC",
+        "total_num_swaps": 484288,
+        "total_volume_usd": 1766868.6716364415,
+        "total_volume_wld": 1367270.7228990905
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 481982,
+        "chain_volume_usd": 1273415.6765659684,
+        "chain_volume_wld": 988017.8275348706,
+        "date": "2025-10-01 00:00:00.000 UTC",
+        "total_num_swaps": 484288,
+        "total_volume_usd": 1766868.6716364415,
+        "total_volume_wld": 1367270.7228990905
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 473898,
+        "chain_volume_usd": 1211476.2176898858,
+        "chain_volume_wld": 969775.5985069762,
+        "date": "2025-09-30 00:00:00.000 UTC",
+        "total_num_swaps": 476021,
+        "total_volume_usd": 1688077.5704973661,
+        "total_volume_wld": 1350900.4401204293
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 1950,
+        "chain_volume_usd": 156946.33717621985,
+        "chain_volume_wld": 126454.45948950302,
+        "date": "2025-09-30 00:00:00.000 UTC",
+        "total_num_swaps": 476021,
+        "total_volume_usd": 1688077.5704973661,
+        "total_volume_wld": 1350900.4401204293
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 173,
+        "chain_volume_usd": 319655.0156312604,
+        "chain_volume_wld": 254670.38212395008,
+        "date": "2025-09-30 00:00:00.000 UTC",
+        "total_num_swaps": 476021,
+        "total_volume_usd": 1688077.5704973661,
+        "total_volume_wld": 1350900.4401204293
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 188,
+        "chain_volume_usd": 342502.5191037099,
+        "chain_volume_wld": 263810.55486787343,
+        "date": "2025-09-29 00:00:00.000 UTC",
+        "total_num_swaps": 486735,
+        "total_volume_usd": 2377542.971124183,
+        "total_volume_wld": 1824032.1904092953
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 2612,
+        "chain_volume_usd": 308476.9805080774,
+        "chain_volume_wld": 238205.54374514287,
+        "date": "2025-09-29 00:00:00.000 UTC",
+        "total_num_swaps": 486735,
+        "total_volume_usd": 2377542.971124183,
+        "total_volume_wld": 1824032.1904092953
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 483935,
+        "chain_volume_usd": 1726563.4715123957,
+        "chain_volume_wld": 1322016.091796279,
+        "date": "2025-09-29 00:00:00.000 UTC",
+        "total_num_swaps": 486735,
+        "total_volume_usd": 2377542.971124183,
+        "total_volume_wld": 1824032.1904092953
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 467053,
+        "chain_volume_usd": 1071776.229224471,
+        "chain_volume_wld": 833786.781303335,
+        "date": "2025-09-28 00:00:00.000 UTC",
+        "total_num_swaps": 468866,
+        "total_volume_usd": 1675236.6109499647,
+        "total_volume_wld": 1303832.5236278144
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 1545,
+        "chain_volume_usd": 218682.21525473148,
+        "chain_volume_wld": 170499.4612350495,
+        "date": "2025-09-28 00:00:00.000 UTC",
+        "total_num_swaps": 468866,
+        "total_volume_usd": 1675236.6109499647,
+        "total_volume_wld": 1303832.5236278144
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 268,
+        "chain_volume_usd": 384778.16647076234,
+        "chain_volume_wld": 299546.2810894299,
+        "date": "2025-09-28 00:00:00.000 UTC",
+        "total_num_swaps": 468866,
+        "total_volume_usd": 1675236.6109499647,
+        "total_volume_wld": 1303832.5236278144
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 397,
+        "chain_volume_usd": 1028173.493889779,
+        "chain_volume_wld": 782177.4982873122,
+        "date": "2025-09-27 00:00:00.000 UTC",
+        "total_num_swaps": 469923,
+        "total_volume_usd": 2627376.5451199203,
+        "total_volume_wld": 2005160.2276673713
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 2833,
+        "chain_volume_usd": 301600.0528024467,
+        "chain_volume_wld": 230460.8015923124,
+        "date": "2025-09-27 00:00:00.000 UTC",
+        "total_num_swaps": 469923,
+        "total_volume_usd": 2627376.5451199203,
+        "total_volume_wld": 2005160.2276673713
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 466693,
+        "chain_volume_usd": 1297602.9984276947,
+        "chain_volume_wld": 992521.9277877467,
+        "date": "2025-09-27 00:00:00.000 UTC",
+        "total_num_swaps": 469923,
+        "total_volume_usd": 2627376.5451199203,
+        "total_volume_wld": 2005160.2276673713
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 432,
+        "chain_volume_usd": 2187785.1250574584,
+        "chain_volume_wld": 1655020.939747474,
+        "date": "2025-09-26 00:00:00.000 UTC",
+        "total_num_swaps": 440415,
+        "total_volume_usd": 3691909.629171813,
+        "total_volume_wld": 2851206.1684678094
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 2325,
+        "chain_volume_usd": 258296.53036614734,
+        "chain_volume_wld": 205618.3921864766,
+        "date": "2025-09-26 00:00:00.000 UTC",
+        "total_num_swaps": 440415,
+        "total_volume_usd": 3691909.629171813,
+        "total_volume_wld": 2851206.1684678094
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 437658,
+        "chain_volume_usd": 1245827.973748207,
+        "chain_volume_wld": 990566.836533859,
+        "date": "2025-09-26 00:00:00.000 UTC",
+        "total_num_swaps": 440415,
+        "total_volume_usd": 3691909.629171813,
+        "total_volume_wld": 2851206.1684678094
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 296,
+        "chain_volume_usd": 724423.4634006429,
+        "chain_volume_wld": 567282.4445098443,
+        "date": "2025-09-25 00:00:00.000 UTC",
+        "total_num_swaps": 410595,
+        "total_volume_usd": 2929869.0334928087,
+        "total_volume_wld": 2292931.655966321
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 4052,
+        "chain_volume_usd": 472819.23982263415,
+        "chain_volume_wld": 369394.77227046987,
+        "date": "2025-09-25 00:00:00.000 UTC",
+        "total_num_swaps": 410595,
+        "total_volume_usd": 2929869.0334928087,
+        "total_volume_wld": 2292931.655966321
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 406247,
+        "chain_volume_usd": 1732626.3302695318,
+        "chain_volume_wld": 1356254.4391860066,
+        "date": "2025-09-25 00:00:00.000 UTC",
+        "total_num_swaps": 410595,
+        "total_volume_usd": 2929869.0334928087,
+        "total_volume_wld": 2292931.655966321
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 445524,
+        "chain_volume_usd": 1547706.1020625136,
+        "chain_volume_wld": 1167301.5173449395,
+        "date": "2025-09-24 00:00:00.000 UTC",
+        "total_num_swaps": 448010,
+        "total_volume_usd": 2049017.0400220428,
+        "total_volume_wld": 1546480.314815295
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 2251,
+        "chain_volume_usd": 193780.1294591282,
+        "chain_volume_wld": 146770.02803750688,
+        "date": "2025-09-24 00:00:00.000 UTC",
+        "total_num_swaps": 448010,
+        "total_volume_usd": 2049017.0400220428,
+        "total_volume_wld": 1546480.314815295
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 235,
+        "chain_volume_usd": 307530.8085004011,
+        "chain_volume_wld": 232408.76943284855,
+        "date": "2025-09-24 00:00:00.000 UTC",
+        "total_num_swaps": 448010,
+        "total_volume_usd": 2049017.0400220428,
+        "total_volume_wld": 1546480.314815295
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 373,
+        "chain_volume_usd": 620093.9080384837,
+        "chain_volume_wld": 460999.04252731806,
+        "date": "2025-09-23 00:00:00.000 UTC",
+        "total_num_swaps": 411216,
+        "total_volume_usd": 2576349.838780969,
+        "total_volume_wld": 1920464.9383824212
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 3256,
+        "chain_volume_usd": 296345.4882024225,
+        "chain_volume_wld": 221050.10052419157,
+        "date": "2025-09-23 00:00:00.000 UTC",
+        "total_num_swaps": 411216,
+        "total_volume_usd": 2576349.838780969,
+        "total_volume_wld": 1920464.9383824212
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 407587,
+        "chain_volume_usd": 1659910.4425400626,
+        "chain_volume_wld": 1238415.7953309114,
+        "date": "2025-09-23 00:00:00.000 UTC",
+        "total_num_swaps": 411216,
+        "total_volume_usd": 2576349.838780969,
+        "total_volume_wld": 1920464.9383824212
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 441,
+        "chain_volume_usd": 688856.4441104999,
+        "chain_volume_wld": 504590.81160335103,
+        "date": "2025-09-22 00:00:00.000 UTC",
+        "total_num_swaps": 370041,
+        "total_volume_usd": 3711127.8353882413,
+        "total_volume_wld": 2733956.3965704376
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 3655,
+        "chain_volume_usd": 361320.55900489533,
+        "chain_volume_wld": 263630.3098321198,
+        "date": "2025-09-22 00:00:00.000 UTC",
+        "total_num_swaps": 370041,
+        "total_volume_usd": 3711127.8353882413,
+        "total_volume_wld": 2733956.3965704376
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 365945,
+        "chain_volume_usd": 2660950.832272846,
+        "chain_volume_wld": 1965735.2751349667,
+        "date": "2025-09-22 00:00:00.000 UTC",
+        "total_num_swaps": 370041,
+        "total_volume_usd": 3711127.8353882413,
+        "total_volume_wld": 2733956.3965704376
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 362236,
+        "chain_volume_usd": 1041817.624003593,
+        "chain_volume_wld": 702632.9826181452,
+        "date": "2025-09-21 00:00:00.000 UTC",
+        "total_num_swaps": 363755,
+        "total_volume_usd": 1561423.555712769,
+        "total_volume_wld": 1051822.6920056622
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 1264,
+        "chain_volume_usd": 146049.71557891706,
+        "chain_volume_wld": 98769.77501641013,
+        "date": "2025-09-21 00:00:00.000 UTC",
+        "total_num_swaps": 363755,
+        "total_volume_usd": 1561423.555712769,
+        "total_volume_wld": 1051822.6920056622
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 255,
+        "chain_volume_usd": 373556.2161302589,
+        "chain_volume_wld": 250419.93437110705,
+        "date": "2025-09-21 00:00:00.000 UTC",
+        "total_num_swaps": 363755,
+        "total_volume_usd": 1561423.555712769,
+        "total_volume_wld": 1051822.6920056622
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 973,
+        "chain_volume_usd": 96969.18952655034,
+        "chain_volume_wld": 64307.06093703111,
+        "date": "2025-09-20 00:00:00.000 UTC",
+        "total_num_swaps": 390200,
+        "total_volume_usd": 1478843.6323941136,
+        "total_volume_wld": 978849.8826532868
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 250,
+        "chain_volume_usd": 481377.8198361738,
+        "chain_volume_wld": 318503.71499143826,
+        "date": "2025-09-20 00:00:00.000 UTC",
+        "total_num_swaps": 390200,
+        "total_volume_usd": 1478843.6323941136,
+        "total_volume_wld": 978849.8826532868
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 388977,
+        "chain_volume_usd": 900496.6230313896,
+        "chain_volume_wld": 596039.1067248175,
+        "date": "2025-09-20 00:00:00.000 UTC",
+        "total_num_swaps": 390200,
+        "total_volume_usd": 1478843.6323941136,
+        "total_volume_wld": 978849.8826532868
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 222,
+        "chain_volume_usd": 374106.1785453658,
+        "chain_volume_wld": 240830.46999747335,
+        "date": "2025-09-19 00:00:00.000 UTC",
+        "total_num_swaps": 373172,
+        "total_volume_usd": 1513207.0381875066,
+        "total_volume_wld": 980609.9084536523
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 1412,
+        "chain_volume_usd": 159495.51189158528,
+        "chain_volume_wld": 104503.9381022049,
+        "date": "2025-09-19 00:00:00.000 UTC",
+        "total_num_swaps": 373172,
+        "total_volume_usd": 1513207.0381875066,
+        "total_volume_wld": 980609.9084536523
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 371538,
+        "chain_volume_usd": 979605.3477505556,
+        "chain_volume_wld": 635275.500353974,
+        "date": "2025-09-19 00:00:00.000 UTC",
+        "total_num_swaps": 373172,
+        "total_volume_usd": 1513207.0381875066,
+        "total_volume_wld": 980609.9084536523
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 3922,
+        "chain_volume_usd": 314325.06650532054,
+        "chain_volume_wld": 195560.40892142127,
+        "date": "2025-09-18 00:00:00.000 UTC",
+        "total_num_swaps": 433303,
+        "total_volume_usd": 3009177.003407184,
+        "total_volume_wld": 1874916.9045499682
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 298,
+        "chain_volume_usd": 795046.4729116515,
+        "chain_volume_wld": 493922.06165949965,
+        "date": "2025-09-18 00:00:00.000 UTC",
+        "total_num_swaps": 433303,
+        "total_volume_usd": 3009177.003407184,
+        "total_volume_wld": 1874916.9045499682
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 429083,
+        "chain_volume_usd": 1899805.4639902122,
+        "chain_volume_wld": 1185434.4339690472,
+        "date": "2025-09-18 00:00:00.000 UTC",
+        "total_num_swaps": 433303,
+        "total_volume_usd": 3009177.003407184,
+        "total_volume_wld": 1874916.9045499682
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 390312,
+        "chain_volume_usd": 1587846.0922229828,
+        "chain_volume_wld": 1034116.6959332684,
+        "date": "2025-09-17 00:00:00.000 UTC",
+        "total_num_swaps": 394165,
+        "total_volume_usd": 2627009.56200145,
+        "total_volume_wld": 1702582.7243849712
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 3480,
+        "chain_volume_usd": 278597.18161134905,
+        "chain_volume_wld": 180903.51117562427,
+        "date": "2025-09-17 00:00:00.000 UTC",
+        "total_num_swaps": 394165,
+        "total_volume_usd": 2627009.56200145,
+        "total_volume_wld": 1702582.7243849712
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 373,
+        "chain_volume_usd": 760566.2881671184,
+        "chain_volume_wld": 487562.51727607846,
+        "date": "2025-09-17 00:00:00.000 UTC",
+        "total_num_swaps": 394165,
+        "total_volume_usd": 2627009.56200145,
+        "total_volume_wld": 1702582.7243849712
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 291,
+        "chain_volume_usd": 759454.1028379068,
+        "chain_volume_wld": 491480.68492401013,
+        "date": "2025-09-16 00:00:00.000 UTC",
+        "total_num_swaps": 413010,
+        "total_volume_usd": 2336737.692170704,
+        "total_volume_wld": 1526049.2529623301
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 2710,
+        "chain_volume_usd": 213086.44571498383,
+        "chain_volume_wld": 139341.79148232852,
+        "date": "2025-09-16 00:00:00.000 UTC",
+        "total_num_swaps": 413010,
+        "total_volume_usd": 2336737.692170704,
+        "total_volume_wld": 1526049.2529623301
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 410009,
+        "chain_volume_usd": 1364197.1436178132,
+        "chain_volume_wld": 895226.7765559915,
+        "date": "2025-09-16 00:00:00.000 UTC",
+        "total_num_swaps": 413010,
+        "total_volume_usd": 2336737.692170704,
+        "total_volume_wld": 1526049.2529623301
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 432584,
+        "chain_volume_usd": 1619808.712422925,
+        "chain_volume_wld": 1049760.7057299337,
+        "date": "2025-09-15 00:00:00.000 UTC",
+        "total_num_swaps": 435918,
+        "total_volume_usd": 2662973.490174575,
+        "total_volume_wld": 1722247.0619468144
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 3005,
+        "chain_volume_usd": 315475.1824332628,
+        "chain_volume_wld": 203048.8643948196,
+        "date": "2025-09-15 00:00:00.000 UTC",
+        "total_num_swaps": 435918,
+        "total_volume_usd": 2662973.490174575,
+        "total_volume_wld": 1722247.0619468144
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 329,
+        "chain_volume_usd": 727689.5953183871,
+        "chain_volume_wld": 469437.49182206125,
+        "date": "2025-09-15 00:00:00.000 UTC",
+        "total_num_swaps": 435918,
+        "total_volume_usd": 2662973.490174575,
+        "total_volume_wld": 1722247.0619468144
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 4617,
+        "chain_volume_usd": 649534.9248996526,
+        "chain_volume_wld": 394496.34309102205,
+        "date": "2025-09-14 00:00:00.000 UTC",
+        "total_num_swaps": 458224,
+        "total_volume_usd": 4008255.124806919,
+        "total_volume_wld": 2425444.9552193615
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 453037,
+        "chain_volume_usd": 2145328.074147761,
+        "chain_volume_wld": 1298679.9638461443,
+        "date": "2025-09-14 00:00:00.000 UTC",
+        "total_num_swaps": 458224,
+        "total_volume_usd": 4008255.124806919,
+        "total_volume_wld": 2425444.9552193615
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 570,
+        "chain_volume_usd": 1213392.125759506,
+        "chain_volume_wld": 732268.6482821952,
+        "date": "2025-09-14 00:00:00.000 UTC",
+        "total_num_swaps": 458224,
+        "total_volume_usd": 4008255.124806919,
+        "total_volume_wld": 2425444.9552193615
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 479,
+        "chain_volume_usd": 1360218.5190514873,
+        "chain_volume_wld": 824660.0791935271,
+        "date": "2025-09-13 00:00:00.000 UTC",
+        "total_num_swaps": 391176,
+        "total_volume_usd": 3289270.1007962697,
+        "total_volume_wld": 2002741.0511016212
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 3289,
+        "chain_volume_usd": 352350.44252176874,
+        "chain_volume_wld": 213905.42058384116,
+        "date": "2025-09-13 00:00:00.000 UTC",
+        "total_num_swaps": 391176,
+        "total_volume_usd": 3289270.1007962697,
+        "total_volume_wld": 2002741.0511016212
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 387408,
+        "chain_volume_usd": 1576701.1392230135,
+        "chain_volume_wld": 964175.551324253,
+        "date": "2025-09-13 00:00:00.000 UTC",
+        "total_num_swaps": 391176,
+        "total_volume_usd": 3289270.1007962697,
+        "total_volume_wld": 2002741.0511016212
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 549,
+        "chain_volume_usd": 1819284.7348676568,
+        "chain_volume_wld": 1104429.4867289818,
+        "date": "2025-09-12 00:00:00.000 UTC",
+        "total_num_swaps": 368289,
+        "total_volume_usd": 4321712.588853269,
+        "total_volume_wld": 2628345.9406189313
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 4515,
+        "chain_volume_usd": 547417.2029618733,
+        "chain_volume_wld": 332002.1620492029,
+        "date": "2025-09-12 00:00:00.000 UTC",
+        "total_num_swaps": 368289,
+        "total_volume_usd": 4321712.588853269,
+        "total_volume_wld": 2628345.9406189313
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 363225,
+        "chain_volume_usd": 1955010.651023739,
+        "chain_volume_wld": 1191914.2918407465,
+        "date": "2025-09-12 00:00:00.000 UTC",
+        "total_num_swaps": 368289,
+        "total_volume_usd": 4321712.588853269,
+        "total_volume_wld": 2628345.9406189313
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 375786,
+        "chain_volume_usd": 2577598.487026035,
+        "chain_volume_wld": 1527030.8820785775,
+        "date": "2025-09-11 00:00:00.000 UTC",
+        "total_num_swaps": 380937,
+        "total_volume_usd": 4704247.027035032,
+        "total_volume_wld": 2768297.045339979
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 4562,
+        "chain_volume_usd": 579971.7002992643,
+        "chain_volume_wld": 338204.6674871031,
+        "date": "2025-09-11 00:00:00.000 UTC",
+        "total_num_swaps": 380937,
+        "total_volume_usd": 4704247.027035032,
+        "total_volume_wld": 2768297.045339979
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 589,
+        "chain_volume_usd": 1546676.8397097331,
+        "chain_volume_wld": 903061.4957742983,
+        "date": "2025-09-11 00:00:00.000 UTC",
+        "total_num_swaps": 380937,
+        "total_volume_usd": 4704247.027035032,
+        "total_volume_wld": 2768297.045339979
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 1152,
+        "chain_volume_usd": 3371668.6190700885,
+        "chain_volume_wld": 1778427.666277814,
+        "date": "2025-09-10 00:00:00.000 UTC",
+        "total_num_swaps": 459711,
+        "total_volume_usd": 8083688.816036651,
+        "total_volume_wld": 4270059.28302985
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 9820,
+        "chain_volume_usd": 1520519.4015973029,
+        "chain_volume_wld": 802340.7245628408,
+        "date": "2025-09-10 00:00:00.000 UTC",
+        "total_num_swaps": 459711,
+        "total_volume_usd": 8083688.816036651,
+        "total_volume_wld": 4270059.28302985
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 448739,
+        "chain_volume_usd": 3191500.79536926,
+        "chain_volume_wld": 1689290.8921891951,
+        "date": "2025-09-10 00:00:00.000 UTC",
+        "total_num_swaps": 459711,
+        "total_volume_usd": 8083688.816036651,
+        "total_volume_wld": 4270059.28302985
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 3007,
+        "chain_volume_usd": 11888682.234586447,
+        "chain_volume_wld": 6320351.297212645,
+        "date": "2025-09-09 00:00:00.000 UTC",
+        "total_num_swaps": 517636,
+        "total_volume_usd": 27172127.822635837,
+        "total_volume_wld": 14423852.306079794
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 26665,
+        "chain_volume_usd": 4016886.1809432493,
+        "chain_volume_wld": 2152950.839015038,
+        "date": "2025-09-09 00:00:00.000 UTC",
+        "total_num_swaps": 517636,
+        "total_volume_usd": 27172127.822635837,
+        "total_volume_wld": 14423852.306079794
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 487964,
+        "chain_volume_usd": 11266559.407106139,
+        "chain_volume_wld": 5950550.169852111,
+        "date": "2025-09-09 00:00:00.000 UTC",
+        "total_num_swaps": 517636,
+        "total_volume_usd": 27172127.822635837,
+        "total_volume_wld": 14423852.306079794
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 513787,
+        "chain_volume_usd": 6519995.377843922,
+        "chain_volume_wld": 4874191.521100664,
+        "date": "2025-09-08 00:00:00.000 UTC",
+        "total_num_swaps": 535460,
+        "total_volume_usd": 14944431.740254972,
+        "total_volume_wld": 11113820.329047713
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 19927,
+        "chain_volume_usd": 2341515.7015776024,
+        "chain_volume_wld": 1743069.9395449879,
+        "date": "2025-09-08 00:00:00.000 UTC",
+        "total_num_swaps": 535460,
+        "total_volume_usd": 14944431.740254972,
+        "total_volume_wld": 11113820.329047713
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 1746,
+        "chain_volume_usd": 6082920.660833447,
+        "chain_volume_wld": 4496558.868402061,
+        "date": "2025-09-08 00:00:00.000 UTC",
+        "total_num_swaps": 535460,
+        "total_volume_usd": 14944431.740254972,
+        "total_volume_wld": 11113820.329047713
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 417,
+        "chain_volume_usd": 1184236.7608070418,
+        "chain_volume_wld": 1150671.7887655362,
+        "date": "2025-09-07 00:00:00.000 UTC",
+        "total_num_swaps": 354591,
+        "total_volume_usd": 3044554.948393924,
+        "total_volume_wld": 2966015.2568730535
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 4304,
+        "chain_volume_usd": 406318.55860906636,
+        "chain_volume_wld": 395029.8182868811,
+        "date": "2025-09-07 00:00:00.000 UTC",
+        "total_num_swaps": 354591,
+        "total_volume_usd": 3044554.948393924,
+        "total_volume_wld": 2966015.2568730535
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 349870,
+        "chain_volume_usd": 1453999.6289778163,
+        "chain_volume_wld": 1420313.6498206365,
+        "date": "2025-09-07 00:00:00.000 UTC",
+        "total_num_swaps": 354591,
+        "total_volume_usd": 3044554.948393924,
+        "total_volume_wld": 2966015.2568730535
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 174,
+        "chain_volume_usd": 198905.5606087191,
+        "chain_volume_wld": 212013.81784616085,
+        "date": "2025-09-06 00:00:00.000 UTC",
+        "total_num_swaps": 264054,
+        "total_volume_usd": 929009.2876692177,
+        "total_volume_wld": 998145.1765617694
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 1965,
+        "chain_volume_usd": 94448.93136874725,
+        "chain_volume_wld": 101090.58665469987,
+        "date": "2025-09-06 00:00:00.000 UTC",
+        "total_num_swaps": 264054,
+        "total_volume_usd": 929009.2876692177,
+        "total_volume_wld": 998145.1765617694
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 261915,
+        "chain_volume_usd": 635654.7956917514,
+        "chain_volume_wld": 685040.7720609087,
+        "date": "2025-09-06 00:00:00.000 UTC",
+        "total_num_swaps": 264054,
+        "total_volume_usd": 929009.2876692177,
+        "total_volume_wld": 998145.1765617694
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 135,
+        "chain_volume_usd": 185763.85376030463,
+        "chain_volume_wld": 205567.02281325083,
+        "date": "2025-09-05 00:00:00.000 UTC",
+        "total_num_swaps": 250379,
+        "total_volume_usd": 1074747.5647848258,
+        "total_volume_wld": 1200404.930476123
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 2031,
+        "chain_volume_usd": 183406.8745319024,
+        "chain_volume_wld": 205053.23966431877,
+        "date": "2025-09-05 00:00:00.000 UTC",
+        "total_num_swaps": 250379,
+        "total_volume_usd": 1074747.5647848258,
+        "total_volume_wld": 1200404.930476123
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 248213,
+        "chain_volume_usd": 705576.8364926189,
+        "chain_volume_wld": 789784.6679985533,
+        "date": "2025-09-05 00:00:00.000 UTC",
+        "total_num_swaps": 250379,
+        "total_volume_usd": 1074747.5647848258,
+        "total_volume_wld": 1200404.930476123
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 82,
+        "chain_volume_usd": 110245.68235090656,
+        "chain_volume_wld": 124582.99793986515,
+        "date": "2025-09-04 00:00:00.000 UTC",
+        "total_num_swaps": 244280,
+        "total_volume_usd": 662801.3811300956,
+        "total_volume_wld": 753057.9266944864
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 1057,
+        "chain_volume_usd": 87239.78746352161,
+        "chain_volume_wld": 99181.06637564143,
+        "date": "2025-09-04 00:00:00.000 UTC",
+        "total_num_swaps": 244280,
+        "total_volume_usd": 662801.3811300956,
+        "total_volume_wld": 753057.9266944864
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 243141,
+        "chain_volume_usd": 465315.9113156674,
+        "chain_volume_wld": 529293.8623789798,
+        "date": "2025-09-04 00:00:00.000 UTC",
+        "total_num_swaps": 244280,
+        "total_volume_usd": 662801.3811300956,
+        "total_volume_wld": 753057.9266944864
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 66,
+        "chain_volume_usd": 47204.57163678332,
+        "chain_volume_wld": 52660.27800842065,
+        "date": "2025-09-03 00:00:00.000 UTC",
+        "total_num_swaps": 247569,
+        "total_volume_usd": 467434.5354436962,
+        "total_volume_wld": 523703.8775873872
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 705,
+        "chain_volume_usd": 51160.83594025292,
+        "chain_volume_wld": 57389.41711679549,
+        "date": "2025-09-03 00:00:00.000 UTC",
+        "total_num_swaps": 247569,
+        "total_volume_usd": 467434.5354436962,
+        "total_volume_wld": 523703.8775873872
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 246798,
+        "chain_volume_usd": 369069.12786665995,
+        "chain_volume_wld": 413654.18246217107,
+        "date": "2025-09-03 00:00:00.000 UTC",
+        "total_num_swaps": 247569,
+        "total_volume_usd": 467434.5354436962,
+        "total_volume_wld": 523703.8775873872
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 101,
+        "chain_volume_usd": 134880.66149119782,
+        "chain_volume_wld": 153945.50739244226,
+        "date": "2025-09-02 00:00:00.000 UTC",
+        "total_num_swaps": 254893,
+        "total_volume_usd": 941823.4673677031,
+        "total_volume_wld": 1080835.3106903532
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 1425,
+        "chain_volume_usd": 97940.61435902028,
+        "chain_volume_wld": 112421.99150547133,
+        "date": "2025-09-02 00:00:00.000 UTC",
+        "total_num_swaps": 254893,
+        "total_volume_usd": 941823.4673677031,
+        "total_volume_wld": 1080835.3106903532
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 253367,
+        "chain_volume_usd": 709002.191517485,
+        "chain_volume_wld": 814467.8117924395,
+        "date": "2025-09-02 00:00:00.000 UTC",
+        "total_num_swaps": 254893,
+        "total_volume_usd": 941823.4673677031,
+        "total_volume_wld": 1080835.3106903532
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 145,
+        "chain_volume_usd": 176528.9158643973,
+        "chain_volume_wld": 202726.89473661655,
+        "date": "2025-09-01 00:00:00.000 UTC",
+        "total_num_swaps": 253510,
+        "total_volume_usd": 1431551.459155458,
+        "total_volume_wld": 1649584.1391943665
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 1787,
+        "chain_volume_usd": 253618.0077168545,
+        "chain_volume_wld": 296802.36830889666,
+        "date": "2025-09-01 00:00:00.000 UTC",
+        "total_num_swaps": 253510,
+        "total_volume_usd": 1431551.459155458,
+        "total_volume_wld": 1649584.1391943665
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 251578,
+        "chain_volume_usd": 1001404.5355742063,
+        "chain_volume_wld": 1150054.8761488532,
+        "date": "2025-09-01 00:00:00.000 UTC",
+        "total_num_swaps": 253510,
+        "total_volume_usd": 1431551.459155458,
+        "total_volume_wld": 1649584.1391943665
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 863,
+        "chain_volume_usd": 37969.2923635311,
+        "chain_volume_wld": 42035.94487981167,
+        "date": "2025-08-31 00:00:00.000 UTC",
+        "total_num_swaps": 251613,
+        "total_volume_usd": 538676.8150623139,
+        "total_volume_wld": 596109.5226833628
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 250614,
+        "chain_volume_usd": 366852.72205231874,
+        "chain_volume_wld": 406446.37732399756,
+        "date": "2025-08-31 00:00:00.000 UTC",
+        "total_num_swaps": 251613,
+        "total_volume_usd": 538676.8150623139,
+        "total_volume_wld": 596109.5226833628
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 136,
+        "chain_volume_usd": 133854.80064646414,
+        "chain_volume_wld": 147627.2004795536,
+        "date": "2025-08-31 00:00:00.000 UTC",
+        "total_num_swaps": 251613,
+        "total_volume_usd": 538676.8150623139,
+        "total_volume_wld": 596109.5226833628
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 250873,
+        "chain_volume_usd": 549952.4364793089,
+        "chain_volume_wld": 608932.5991938186,
+        "date": "2025-08-30 00:00:00.000 UTC",
+        "total_num_swaps": 252027,
+        "total_volume_usd": 686066.6928238953,
+        "total_volume_wld": 758790.2086400696
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 1071,
+        "chain_volume_usd": 52074.595180655946,
+        "chain_volume_wld": 57349.9353948647,
+        "date": "2025-08-30 00:00:00.000 UTC",
+        "total_num_swaps": 252027,
+        "total_volume_usd": 686066.6928238953,
+        "total_volume_wld": 758790.2086400696
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 83,
+        "chain_volume_usd": 84039.66116393049,
+        "chain_volume_wld": 92507.67405138623,
+        "date": "2025-08-30 00:00:00.000 UTC",
+        "total_num_swaps": 252027,
+        "total_volume_usd": 686066.6928238953,
+        "total_volume_wld": 758790.2086400696
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 82,
+        "chain_volume_usd": 100917.39112386374,
+        "chain_volume_wld": 109296.05829751707,
+        "date": "2025-08-29 00:00:00.000 UTC",
+        "total_num_swaps": 273766,
+        "total_volume_usd": 907185.4926365388,
+        "total_volume_wld": 985500.3148221262
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 1651,
+        "chain_volume_usd": 153632.26239275656,
+        "chain_volume_wld": 167117.75598702766,
+        "date": "2025-08-29 00:00:00.000 UTC",
+        "total_num_swaps": 273766,
+        "total_volume_usd": 907185.4926365388,
+        "total_volume_wld": 985500.3148221262
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 272033,
+        "chain_volume_usd": 652635.8391199185,
+        "chain_volume_wld": 709086.5005375814,
+        "date": "2025-08-29 00:00:00.000 UTC",
+        "total_num_swaps": 273766,
+        "total_volume_usd": 907185.4926365388,
+        "total_volume_wld": 985500.3148221262
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 103,
+        "chain_volume_usd": 214031.25647394525,
+        "chain_volume_wld": 224349.45609932972,
+        "date": "2025-08-28 00:00:00.000 UTC",
+        "total_num_swaps": 290925,
+        "total_volume_usd": 973969.655869508,
+        "total_volume_wld": 1027418.3222169804
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 1433,
+        "chain_volume_usd": 106712.72414404665,
+        "chain_volume_wld": 112632.11945311478,
+        "date": "2025-08-28 00:00:00.000 UTC",
+        "total_num_swaps": 290925,
+        "total_volume_usd": 973969.655869508,
+        "total_volume_wld": 1027418.3222169804
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 289389,
+        "chain_volume_usd": 653225.6752515162,
+        "chain_volume_wld": 690436.7466645358,
+        "date": "2025-08-28 00:00:00.000 UTC",
+        "total_num_swaps": 290925,
+        "total_volume_usd": 973969.655869508,
+        "total_volume_wld": 1027418.3222169804
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 93,
+        "chain_volume_usd": 122631.61030144081,
+        "chain_volume_wld": 129602.26422119596,
+        "date": "2025-08-27 00:00:00.000 UTC",
+        "total_num_swaps": 297778,
+        "total_volume_usd": 776037.2111841111,
+        "total_volume_wld": 821543.9587858313
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 1483,
+        "chain_volume_usd": 114686.94332528513,
+        "chain_volume_wld": 121316.39042245422,
+        "date": "2025-08-27 00:00:00.000 UTC",
+        "total_num_swaps": 297778,
+        "total_volume_usd": 776037.2111841111,
+        "total_volume_wld": 821543.9587858313
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 296202,
+        "chain_volume_usd": 538718.6575573852,
+        "chain_volume_wld": 570625.3041421812,
+        "date": "2025-08-27 00:00:00.000 UTC",
+        "total_num_swaps": 297778,
+        "total_volume_usd": 776037.2111841111,
+        "total_volume_wld": 821543.9587858313
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 174,
+        "chain_volume_usd": 361771.27336736297,
+        "chain_volume_wld": 396705.2522278167,
+        "date": "2025-08-26 00:00:00.000 UTC",
+        "total_num_swaps": 259101,
+        "total_volume_usd": 1363839.648135695,
+        "total_volume_wld": 1499767.5864758848
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 2121,
+        "chain_volume_usd": 223987.73615315655,
+        "chain_volume_wld": 245723.8083881001,
+        "date": "2025-08-26 00:00:00.000 UTC",
+        "total_num_swaps": 259101,
+        "total_volume_usd": 1363839.648135695,
+        "total_volume_wld": 1499767.5864758848
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 256806,
+        "chain_volume_usd": 778080.6386151754,
+        "chain_volume_wld": 857338.525859968,
+        "date": "2025-08-26 00:00:00.000 UTC",
+        "total_num_swaps": 259101,
+        "total_volume_usd": 1363839.648135695,
+        "total_volume_wld": 1499767.5864758848
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 196,
+        "chain_volume_usd": 483419.30668249965,
+        "chain_volume_wld": 521986.57372327097,
+        "date": "2025-08-25 00:00:00.000 UTC",
+        "total_num_swaps": 253330,
+        "total_volume_usd": 1601900.726298234,
+        "total_volume_wld": 1728904.4353422015
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 2234,
+        "chain_volume_usd": 241143.12759812974,
+        "chain_volume_wld": 260655.525352603,
+        "date": "2025-08-25 00:00:00.000 UTC",
+        "total_num_swaps": 253330,
+        "total_volume_usd": 1601900.726298234,
+        "total_volume_wld": 1728904.4353422015
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 250900,
+        "chain_volume_usd": 877338.2920176047,
+        "chain_volume_wld": 946262.3362663274,
+        "date": "2025-08-25 00:00:00.000 UTC",
+        "total_num_swaps": 253330,
+        "total_volume_usd": 1601900.726298234,
+        "total_volume_wld": 1728904.4353422015
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 162,
+        "chain_volume_usd": 364845.39544673555,
+        "chain_volume_wld": 369557.1595632446,
+        "date": "2025-08-24 00:00:00.000 UTC",
+        "total_num_swaps": 259949,
+        "total_volume_usd": 1298048.602483844,
+        "total_volume_wld": 1317820.8974245943
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 1962,
+        "chain_volume_usd": 196364.5690936397,
+        "chain_volume_wld": 198679.89333468484,
+        "date": "2025-08-24 00:00:00.000 UTC",
+        "total_num_swaps": 259949,
+        "total_volume_usd": 1298048.602483844,
+        "total_volume_wld": 1317820.8974245943
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 257825,
+        "chain_volume_usd": 736838.6379434685,
+        "chain_volume_wld": 749583.8445266648,
+        "date": "2025-08-24 00:00:00.000 UTC",
+        "total_num_swaps": 259949,
+        "total_volume_usd": 1298048.602483844,
+        "total_volume_wld": 1317820.8974245943
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 1339,
+        "chain_volume_usd": 133786.62765937878,
+        "chain_volume_wld": 132575.66224542705,
+        "date": "2025-08-23 00:00:00.000 UTC",
+        "total_num_swaps": 266986,
+        "total_volume_usd": 1449736.9922443666,
+        "total_volume_wld": 1406282.8653796255
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 265513,
+        "chain_volume_usd": 498120.6711123755,
+        "chain_volume_wld": 493640.58735295344,
+        "date": "2025-08-23 00:00:00.000 UTC",
+        "total_num_swaps": 266986,
+        "total_volume_usd": 1449736.9922443666,
+        "total_volume_wld": 1406282.8653796255
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 134,
+        "chain_volume_usd": 817829.6934726122,
+        "chain_volume_wld": 780066.615781245,
+        "date": "2025-08-23 00:00:00.000 UTC",
+        "total_num_swaps": 266986,
+        "total_volume_usd": 1449736.9922443666,
+        "total_volume_wld": 1406282.8653796255
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 160,
+        "chain_volume_usd": 536704.113908295,
+        "chain_volume_wld": 556857.7128192735,
+        "date": "2025-08-22 00:00:00.000 UTC",
+        "total_num_swaps": 228146,
+        "total_volume_usd": 1699919.8574310362,
+        "total_volume_wld": 1759133.132195483
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 2171,
+        "chain_volume_usd": 210821.3096188702,
+        "chain_volume_wld": 216332.27252215118,
+        "date": "2025-08-22 00:00:00.000 UTC",
+        "total_num_swaps": 228146,
+        "total_volume_usd": 1699919.8574310362,
+        "total_volume_wld": 1759133.132195483
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 225815,
+        "chain_volume_usd": 952394.4339038709,
+        "chain_volume_wld": 985943.1468540584,
+        "date": "2025-08-22 00:00:00.000 UTC",
+        "total_num_swaps": 228146,
+        "total_volume_usd": 1699919.8574310362,
+        "total_volume_wld": 1759133.132195483
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 151,
+        "chain_volume_usd": 591559.2924397053,
+        "chain_volume_wld": 629165.8882222329,
+        "date": "2025-08-21 00:00:00.000 UTC",
+        "total_num_swaps": 180165,
+        "total_volume_usd": 1052200.2679474636,
+        "total_volume_wld": 1120383.3787506074
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 893,
+        "chain_volume_usd": 101255.32811836919,
+        "chain_volume_wld": 107887.2284029859,
+        "date": "2025-08-21 00:00:00.000 UTC",
+        "total_num_swaps": 180165,
+        "total_volume_usd": 1052200.2679474636,
+        "total_volume_wld": 1120383.3787506074
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 179121,
+        "chain_volume_usd": 359385.64738938893,
+        "chain_volume_wld": 383330.2621253886,
+        "date": "2025-08-21 00:00:00.000 UTC",
+        "total_num_swaps": 180165,
+        "total_volume_usd": 1052200.2679474636,
+        "total_volume_wld": 1120383.3787506074
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 79,
+        "chain_volume_usd": 201141.68002521654,
+        "chain_volume_wld": 214313.0834343216,
+        "date": "2025-08-20 00:00:00.000 UTC",
+        "total_num_swaps": 237640,
+        "total_volume_usd": 867954.6617691829,
+        "total_volume_wld": 930535.5896593628
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 1449,
+        "chain_volume_usd": 152193.10732479187,
+        "chain_volume_wld": 163535.5223155098,
+        "date": "2025-08-20 00:00:00.000 UTC",
+        "total_num_swaps": 237640,
+        "total_volume_usd": 867954.6617691829,
+        "total_volume_wld": 930535.5896593628
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 236112,
+        "chain_volume_usd": 514619.8744191745,
+        "chain_volume_wld": 552686.9839095314,
+        "date": "2025-08-20 00:00:00.000 UTC",
+        "total_num_swaps": 237640,
+        "total_volume_usd": 867954.6617691829,
+        "total_volume_wld": 930535.5896593628
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 116,
+        "chain_volume_usd": 72296.09849056823,
+        "chain_volume_wld": 78539.64535433304,
+        "date": "2025-08-19 00:00:00.000 UTC",
+        "total_num_swaps": 221163,
+        "total_volume_usd": 685294.9327014104,
+        "total_volume_wld": 738661.971319512
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 1580,
+        "chain_volume_usd": 173967.35352375425,
+        "chain_volume_wld": 188491.5307111489,
+        "date": "2025-08-19 00:00:00.000 UTC",
+        "total_num_swaps": 221163,
+        "total_volume_usd": 685294.9327014104,
+        "total_volume_wld": 738661.971319512
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 219467,
+        "chain_volume_usd": 439031.4806870879,
+        "chain_volume_wld": 471630.79525403003,
+        "date": "2025-08-19 00:00:00.000 UTC",
+        "total_num_swaps": 221163,
+        "total_volume_usd": 685294.9327014104,
+        "total_volume_wld": 738661.971319512
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 129,
+        "chain_volume_usd": 436650.6994102731,
+        "chain_volume_wld": 445677.6503369714,
+        "date": "2025-08-18 00:00:00.000 UTC",
+        "total_num_swaps": 225115,
+        "total_volume_usd": 896288.6348279659,
+        "total_volume_wld": 922839.2946370452
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 1392,
+        "chain_volume_usd": 138281.3525240399,
+        "chain_volume_wld": 143801.44579409176,
+        "date": "2025-08-18 00:00:00.000 UTC",
+        "total_num_swaps": 225115,
+        "total_volume_usd": 896288.6348279659,
+        "total_volume_wld": 922839.2946370452
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 223594,
+        "chain_volume_usd": 321356.5828936529,
+        "chain_volume_wld": 333360.19850598206,
+        "date": "2025-08-18 00:00:00.000 UTC",
+        "total_num_swaps": 225115,
+        "total_volume_usd": 896288.6348279659,
+        "total_volume_wld": 922839.2946370452
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 227308,
+        "chain_volume_usd": 406382.0414338363,
+        "chain_volume_wld": 402306.6465799671,
+        "date": "2025-08-17 00:00:00.000 UTC",
+        "total_num_swaps": 228434,
+        "total_volume_usd": 750512.5994554425,
+        "total_volume_wld": 740847.8015377817
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 993,
+        "chain_volume_usd": 106094.05999580734,
+        "chain_volume_wld": 105045.81481595102,
+        "date": "2025-08-17 00:00:00.000 UTC",
+        "total_num_swaps": 228434,
+        "total_volume_usd": 750512.5994554425,
+        "total_volume_wld": 740847.8015377817
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 133,
+        "chain_volume_usd": 238036.49802579882,
+        "chain_volume_wld": 233495.3401418636,
+        "date": "2025-08-17 00:00:00.000 UTC",
+        "total_num_swaps": 228434,
+        "total_volume_usd": 750512.5994554425,
+        "total_volume_wld": 740847.8015377817
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 152,
+        "chain_volume_usd": 209276.3294673925,
+        "chain_volume_wld": 212100.19236404577,
+        "date": "2025-08-16 00:00:00.000 UTC",
+        "total_num_swaps": 231362,
+        "total_volume_usd": 570574.1106991114,
+        "total_volume_wld": 577272.7763273458
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 655,
+        "chain_volume_usd": 63635.11884621726,
+        "chain_volume_wld": 64256.618299760354,
+        "date": "2025-08-16 00:00:00.000 UTC",
+        "total_num_swaps": 231362,
+        "total_volume_usd": 570574.1106991114,
+        "total_volume_wld": 577272.7763273458
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 230555,
+        "chain_volume_usd": 297662.66238550155,
+        "chain_volume_wld": 300915.9656635397,
+        "date": "2025-08-16 00:00:00.000 UTC",
+        "total_num_swaps": 231362,
+        "total_volume_usd": 570574.1106991114,
+        "total_volume_wld": 577272.7763273458
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 183,
+        "chain_volume_usd": 499503.23370714136,
+        "chain_volume_wld": 509843.4178253455,
+        "date": "2025-08-15 00:00:00.000 UTC",
+        "total_num_swaps": 226060,
+        "total_volume_usd": 1161737.6729304614,
+        "total_volume_wld": 1177906.0782763497
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 224281,
+        "chain_volume_usd": 507638.39680836635,
+        "chain_volume_wld": 512029.3282515564,
+        "date": "2025-08-15 00:00:00.000 UTC",
+        "total_num_swaps": 226060,
+        "total_volume_usd": 1161737.6729304614,
+        "total_volume_wld": 1177906.0782763497
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 1596,
+        "chain_volume_usd": 154596.04241495373,
+        "chain_volume_wld": 156033.33219944785,
+        "date": "2025-08-15 00:00:00.000 UTC",
+        "total_num_swaps": 226060,
+        "total_volume_usd": 1161737.6729304614,
+        "total_volume_wld": 1177906.0782763497
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 277264,
+        "chain_volume_usd": 949222.0986167163,
+        "chain_volume_wld": 897654.6513237816,
+        "date": "2025-08-14 00:00:00.000 UTC",
+        "total_num_swaps": 280645,
+        "total_volume_usd": 2105398.2811069014,
+        "total_volume_wld": 2003030.35843833
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 3215,
+        "chain_volume_usd": 302827.49727168743,
+        "chain_volume_wld": 287255.0167094636,
+        "date": "2025-08-14 00:00:00.000 UTC",
+        "total_num_swaps": 280645,
+        "total_volume_usd": 2105398.2811069014,
+        "total_volume_wld": 2003030.35843833
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 166,
+        "chain_volume_usd": 853348.6852184974,
+        "chain_volume_wld": 818120.6904050848,
+        "date": "2025-08-14 00:00:00.000 UTC",
+        "total_num_swaps": 280645,
+        "total_volume_usd": 2105398.2811069014,
+        "total_volume_wld": 2003030.35843833
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 298,
+        "chain_volume_usd": 3920345.2787029655,
+        "chain_volume_wld": 2936279.6158443782,
+        "date": "2025-08-13 00:00:00.000 UTC",
+        "total_num_swaps": 297093,
+        "total_volume_usd": 5239679.5491957255,
+        "total_volume_wld": 4152668.5960822906
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 2755,
+        "chain_volume_usd": 307648.2835560764,
+        "chain_volume_wld": 282263.59407551243,
+        "date": "2025-08-13 00:00:00.000 UTC",
+        "total_num_swaps": 297093,
+        "total_volume_usd": 5239679.5491957255,
+        "total_volume_wld": 4152668.5960822906
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 294040,
+        "chain_volume_usd": 1011685.9869366838,
+        "chain_volume_wld": 934125.3861623995,
+        "date": "2025-08-13 00:00:00.000 UTC",
+        "total_num_swaps": 297093,
+        "total_volume_usd": 5239679.5491957255,
+        "total_volume_wld": 4152668.5960822906
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 209,
+        "chain_volume_usd": 791590.6378890949,
+        "chain_volume_wld": 755591.927804221,
+        "date": "2025-08-12 00:00:00.000 UTC",
+        "total_num_swaps": 271311,
+        "total_volume_usd": 1714408.6760927886,
+        "total_volume_wld": 1663524.5782736302
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 2534,
+        "chain_volume_usd": 198721.0379773725,
+        "chain_volume_wld": 194130.24571817924,
+        "date": "2025-08-12 00:00:00.000 UTC",
+        "total_num_swaps": 271311,
+        "total_volume_usd": 1714408.6760927886,
+        "total_volume_wld": 1663524.5782736302
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 268568,
+        "chain_volume_usd": 724097.0002263212,
+        "chain_volume_wld": 713802.4047512299,
+        "date": "2025-08-12 00:00:00.000 UTC",
+        "total_num_swaps": 271311,
+        "total_volume_usd": 1714408.6760927886,
+        "total_volume_wld": 1663524.5782736302
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 181,
+        "chain_volume_usd": 537806.6557827438,
+        "chain_volume_wld": 519687.8029754001,
+        "date": "2025-08-11 00:00:00.000 UTC",
+        "total_num_swaps": 251534,
+        "total_volume_usd": 1573481.9381486306,
+        "total_volume_wld": 1506799.927444204
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 2580,
+        "chain_volume_usd": 218227.35070291077,
+        "chain_volume_wld": 206959.18586774077,
+        "date": "2025-08-11 00:00:00.000 UTC",
+        "total_num_swaps": 251534,
+        "total_volume_usd": 1573481.9381486306,
+        "total_volume_wld": 1506799.927444204
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 248773,
+        "chain_volume_usd": 817447.9316629759,
+        "chain_volume_wld": 780152.9386010631,
+        "date": "2025-08-11 00:00:00.000 UTC",
+        "total_num_swaps": 251534,
+        "total_volume_usd": 1573481.9381486306,
+        "total_volume_wld": 1506799.927444204
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 209,
+        "chain_volume_usd": 299796.4563422611,
+        "chain_volume_wld": 280092.73207101895,
+        "date": "2025-08-10 00:00:00.000 UTC",
+        "total_num_swaps": 244615,
+        "total_volume_usd": 1129817.8984909563,
+        "total_volume_wld": 1058451.8082788633
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 2330,
+        "chain_volume_usd": 188237.24526645482,
+        "chain_volume_wld": 176300.60046711584,
+        "date": "2025-08-10 00:00:00.000 UTC",
+        "total_num_swaps": 244615,
+        "total_volume_usd": 1129817.8984909563,
+        "total_volume_wld": 1058451.8082788633
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 242076,
+        "chain_volume_usd": 641784.1968822404,
+        "chain_volume_wld": 602058.4757407287,
+        "date": "2025-08-10 00:00:00.000 UTC",
+        "total_num_swaps": 244615,
+        "total_volume_usd": 1129817.8984909563,
+        "total_volume_wld": 1058451.8082788633
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 224583,
+        "chain_volume_usd": 587936.8643841292,
+        "chain_volume_wld": 552694.3216790551,
+        "date": "2025-08-09 00:00:00.000 UTC",
+        "total_num_swaps": 226421,
+        "total_volume_usd": 1456193.8799587828,
+        "total_volume_wld": 1362182.2974785734
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 186,
+        "chain_volume_usd": 672068.6710201419,
+        "chain_volume_wld": 625501.9298213413,
+        "date": "2025-08-09 00:00:00.000 UTC",
+        "total_num_swaps": 226421,
+        "total_volume_usd": 1456193.8799587828,
+        "total_volume_wld": 1362182.2974785734
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 1652,
+        "chain_volume_usd": 196188.34455451195,
+        "chain_volume_wld": 183986.04597817684,
+        "date": "2025-08-09 00:00:00.000 UTC",
+        "total_num_swaps": 226421,
+        "total_volume_usd": 1456193.8799587828,
+        "total_volume_wld": 1362182.2974785734
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 254297,
+        "chain_volume_usd": 621809.5213358809,
+        "chain_volume_wld": 609664.7241497289,
+        "date": "2025-08-08 00:00:00.000 UTC",
+        "total_num_swaps": 255913,
+        "total_volume_usd": 915266.0320256163,
+        "total_volume_wld": 897529.9041067564
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 1515,
+        "chain_volume_usd": 120330.8936690067,
+        "chain_volume_wld": 117824.82052745832,
+        "date": "2025-08-08 00:00:00.000 UTC",
+        "total_num_swaps": 255913,
+        "total_volume_usd": 915266.0320256163,
+        "total_volume_wld": 897529.9041067564
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 101,
+        "chain_volume_usd": 173125.61702072868,
+        "chain_volume_wld": 170040.3594295693,
+        "date": "2025-08-08 00:00:00.000 UTC",
+        "total_num_swaps": 255913,
+        "total_volume_usd": 915266.0320256163,
+        "total_volume_wld": 897529.9041067564
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 114,
+        "chain_volume_usd": 157339.86288411944,
+        "chain_volume_wld": 158760.2329647671,
+        "date": "2025-08-07 00:00:00.000 UTC",
+        "total_num_swaps": 263181,
+        "total_volume_usd": 798033.8630888317,
+        "total_volume_wld": 803905.3425803026
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 1634,
+        "chain_volume_usd": 100967.6477133885,
+        "chain_volume_wld": 101787.9125353774,
+        "date": "2025-08-07 00:00:00.000 UTC",
+        "total_num_swaps": 263181,
+        "total_volume_usd": 798033.8630888317,
+        "total_volume_wld": 803905.3425803026
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 261433,
+        "chain_volume_usd": 539726.3524913237,
+        "chain_volume_wld": 543357.1970801582,
+        "date": "2025-08-07 00:00:00.000 UTC",
+        "total_num_swaps": 263181,
+        "total_volume_usd": 798033.8630888317,
+        "total_volume_wld": 803905.3425803026
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 110,
+        "chain_volume_usd": 202393.50662590135,
+        "chain_volume_wld": 214097.00731791926,
+        "date": "2025-08-06 00:00:00.000 UTC",
+        "total_num_swaps": 240412,
+        "total_volume_usd": 626502.9626499459,
+        "total_volume_wld": 662483.1082934216
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 1482,
+        "chain_volume_usd": 56591.80385137044,
+        "chain_volume_wld": 59852.128357661495,
+        "date": "2025-08-06 00:00:00.000 UTC",
+        "total_num_swaps": 240412,
+        "total_volume_usd": 626502.9626499459,
+        "total_volume_wld": 662483.1082934216
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 238820,
+        "chain_volume_usd": 367517.6521726741,
+        "chain_volume_wld": 388533.97261784074,
+        "date": "2025-08-06 00:00:00.000 UTC",
+        "total_num_swaps": 240412,
+        "total_volume_usd": 626502.9626499459,
+        "total_volume_wld": 662483.1082934216
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 99,
+        "chain_volume_usd": 111120.9363965276,
+        "chain_volume_wld": 116378.77454741875,
+        "date": "2025-08-05 00:00:00.000 UTC",
+        "total_num_swaps": 246891,
+        "total_volume_usd": 820762.087150296,
+        "total_volume_wld": 858680.5521855215
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 1639,
+        "chain_volume_usd": 160876.7570704291,
+        "chain_volume_wld": 168404.27891612123,
+        "date": "2025-08-05 00:00:00.000 UTC",
+        "total_num_swaps": 246891,
+        "total_volume_usd": 820762.087150296,
+        "total_volume_wld": 858680.5521855215
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 245153,
+        "chain_volume_usd": 548764.3936833392,
+        "chain_volume_wld": 573897.4987219814,
+        "date": "2025-08-05 00:00:00.000 UTC",
+        "total_num_swaps": 246891,
+        "total_volume_usd": 820762.087150296,
+        "total_volume_wld": 858680.5521855215
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 252527,
+        "chain_volume_usd": 391808.3846975341,
+        "chain_volume_wld": 395777.7027769077,
+        "date": "2025-08-04 00:00:00.000 UTC",
+        "total_num_swaps": 253737,
+        "total_volume_usd": 703840.2741847376,
+        "total_volume_wld": 711251.8673450224
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 1089,
+        "chain_volume_usd": 107390.62114579622,
+        "chain_volume_wld": 108713.83336182455,
+        "date": "2025-08-04 00:00:00.000 UTC",
+        "total_num_swaps": 253737,
+        "total_volume_usd": 703840.2741847376,
+        "total_volume_wld": 711251.8673450224
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 121,
+        "chain_volume_usd": 204641.26834140735,
+        "chain_volume_wld": 206760.3312062901,
+        "date": "2025-08-04 00:00:00.000 UTC",
+        "total_num_swaps": 253737,
+        "total_volume_usd": 703840.2741847376,
+        "total_volume_wld": 711251.8673450224
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 231363,
+        "chain_volume_usd": 327832.56838317134,
+        "chain_volume_wld": 340978.27577966586,
+        "date": "2025-08-03 00:00:00.000 UTC",
+        "total_num_swaps": 232577,
+        "total_volume_usd": 1446640.5391098382,
+        "total_volume_wld": 1470859.519212334
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 1072,
+        "chain_volume_usd": 138890.6944550745,
+        "chain_volume_wld": 143869.69047318384,
+        "date": "2025-08-03 00:00:00.000 UTC",
+        "total_num_swaps": 232577,
+        "total_volume_usd": 1446640.5391098382,
+        "total_volume_wld": 1470859.519212334
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 142,
+        "chain_volume_usd": 979917.2762715924,
+        "chain_volume_wld": 986011.5529594843,
+        "date": "2025-08-03 00:00:00.000 UTC",
+        "total_num_swaps": 232577,
+        "total_volume_usd": 1446640.5391098382,
+        "total_volume_wld": 1470859.519212334
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 140,
+        "chain_volume_usd": 502883.2977158132,
+        "chain_volume_wld": 522865.8685487202,
+        "date": "2025-08-02 00:00:00.000 UTC",
+        "total_num_swaps": 126516,
+        "total_volume_usd": 794782.8965017237,
+        "total_volume_wld": 831323.7635823372
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 1952,
+        "chain_volume_usd": 154390.57074051004,
+        "chain_volume_wld": 163184.2157555984,
+        "date": "2025-08-02 00:00:00.000 UTC",
+        "total_num_swaps": 126516,
+        "total_volume_usd": 794782.8965017237,
+        "total_volume_wld": 831323.7635823372
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 124424,
+        "chain_volume_usd": 137509.02804540037,
+        "chain_volume_wld": 145273.67927801862,
+        "date": "2025-08-02 00:00:00.000 UTC",
+        "total_num_swaps": 126516,
+        "total_volume_usd": 794782.8965017237,
+        "total_volume_wld": 831323.7635823372
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 266,
+        "chain_volume_usd": 1064768.634200598,
+        "chain_volume_wld": 1073485.952419834,
+        "date": "2025-08-01 00:00:00.000 UTC",
+        "total_num_swaps": 245986,
+        "total_volume_usd": 2343238.2896439005,
+        "total_volume_wld": 2385310.6494066906
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 2738,
+        "chain_volume_usd": 188191.77120551496,
+        "chain_volume_wld": 193179.83294927303,
+        "date": "2025-08-01 00:00:00.000 UTC",
+        "total_num_swaps": 245986,
+        "total_volume_usd": 2343238.2896439005,
+        "total_volume_wld": 2385310.6494066906
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 242982,
+        "chain_volume_usd": 1090277.8842377875,
+        "chain_volume_wld": 1118644.8640375836,
+        "date": "2025-08-01 00:00:00.000 UTC",
+        "total_num_swaps": 245986,
+        "total_volume_usd": 2343238.2896439005,
+        "total_volume_wld": 2385310.6494066906
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 142,
+        "chain_volume_usd": 234861.2926964564,
+        "chain_volume_wld": 224448.85281102147,
+        "date": "2025-07-31 00:00:00.000 UTC",
+        "total_num_swaps": 238672,
+        "total_volume_usd": 920751.0759627393,
+        "total_volume_wld": 872717.1076995076
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 2010,
+        "chain_volume_usd": 140440.76711977026,
+        "chain_volume_wld": 132595.6126505215,
+        "date": "2025-07-31 00:00:00.000 UTC",
+        "total_num_swaps": 238672,
+        "total_volume_usd": 920751.0759627393,
+        "total_volume_wld": 872717.1076995076
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 236520,
+        "chain_volume_usd": 545449.0161465127,
+        "chain_volume_wld": 515672.6422379647,
+        "date": "2025-07-31 00:00:00.000 UTC",
+        "total_num_swaps": 238672,
+        "total_volume_usd": 920751.0759627393,
+        "total_volume_wld": 872717.1076995076
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 252769,
+        "chain_volume_usd": 775521.1235913162,
+        "chain_volume_wld": 735334.7408689234,
+        "date": "2025-07-30 00:00:00.000 UTC",
+        "total_num_swaps": 255679,
+        "total_volume_usd": 1689403.5788472625,
+        "total_volume_wld": 1598581.7553071363
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 2730,
+        "chain_volume_usd": 195793.98788584355,
+        "chain_volume_wld": 185524.0529776632,
+        "date": "2025-07-30 00:00:00.000 UTC",
+        "total_num_swaps": 255679,
+        "total_volume_usd": 1689403.5788472625,
+        "total_volume_wld": 1598581.7553071363
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 180,
+        "chain_volume_usd": 718088.4673701029,
+        "chain_volume_wld": 677722.9614605497,
+        "date": "2025-07-30 00:00:00.000 UTC",
+        "total_num_swaps": 255679,
+        "total_volume_usd": 1689403.5788472625,
+        "total_volume_wld": 1598581.7553071363
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 253887,
+        "chain_volume_usd": 669036.1347576225,
+        "chain_volume_wld": 611744.900067729,
+        "date": "2025-07-29 00:00:00.000 UTC",
+        "total_num_swaps": 256833,
+        "total_volume_usd": 1226825.7419293993,
+        "total_volume_wld": 1121266.7631966206
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 2794,
+        "chain_volume_usd": 174365.23411991785,
+        "chain_volume_wld": 159332.67610508009,
+        "date": "2025-07-29 00:00:00.000 UTC",
+        "total_num_swaps": 256833,
+        "total_volume_usd": 1226825.7419293993,
+        "total_volume_wld": 1121266.7631966206
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 152,
+        "chain_volume_usd": 383424.37305185915,
+        "chain_volume_wld": 350189.1870238116,
+        "date": "2025-07-29 00:00:00.000 UTC",
+        "total_num_swaps": 256833,
+        "total_volume_usd": 1226825.7419293993,
+        "total_volume_wld": 1121266.7631966206
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 154,
+        "chain_volume_usd": 260924.39623795258,
+        "chain_volume_wld": 224774.1196554971,
+        "date": "2025-07-28 00:00:00.000 UTC",
+        "total_num_swaps": 275748,
+        "total_volume_usd": 1297215.712453199,
+        "total_volume_wld": 1102510.593261012
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 2941,
+        "chain_volume_usd": 367043.15054433123,
+        "chain_volume_wld": 310881.20457031095,
+        "date": "2025-07-28 00:00:00.000 UTC",
+        "total_num_swaps": 275748,
+        "total_volume_usd": 1297215.712453199,
+        "total_volume_wld": 1102510.593261012
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 272653,
+        "chain_volume_usd": 669248.1656709152,
+        "chain_volume_wld": 566855.2690352041,
+        "date": "2025-07-28 00:00:00.000 UTC",
+        "total_num_swaps": 275748,
+        "total_volume_usd": 1297215.712453199,
+        "total_volume_wld": 1102510.593261012
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 119,
+        "chain_volume_usd": 152659.534932825,
+        "chain_volume_wld": 128680.89882965799,
+        "date": "2025-07-27 00:00:00.000 UTC",
+        "total_num_swaps": 271285,
+        "total_volume_usd": 850170.3160452978,
+        "total_volume_wld": 717280.9137169289
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 1619,
+        "chain_volume_usd": 156806.96657496586,
+        "chain_volume_wld": 132092.53482013455,
+        "date": "2025-07-27 00:00:00.000 UTC",
+        "total_num_swaps": 271285,
+        "total_volume_usd": 850170.3160452978,
+        "total_volume_wld": 717280.9137169289
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 269547,
+        "chain_volume_usd": 540703.8145375069,
+        "chain_volume_wld": 456507.48006713635,
+        "date": "2025-07-27 00:00:00.000 UTC",
+        "total_num_swaps": 271285,
+        "total_volume_usd": 850170.3160452978,
+        "total_volume_wld": 717280.9137169289
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 275232,
+        "chain_volume_usd": 425474.61168376094,
+        "chain_volume_wld": 365896.9960913783,
+        "date": "2025-07-26 00:00:00.000 UTC",
+        "total_num_swaps": 276449,
+        "total_volume_usd": 699691.1092561345,
+        "total_volume_wld": 601841.5904898329
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 1126,
+        "chain_volume_usd": 152047.51306776638,
+        "chain_volume_wld": 131048.55134376048,
+        "date": "2025-07-26 00:00:00.000 UTC",
+        "total_num_swaps": 276449,
+        "total_volume_usd": 699691.1092561345,
+        "total_volume_wld": 601841.5904898329
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 91,
+        "chain_volume_usd": 122168.98450460714,
+        "chain_volume_wld": 104896.04305469418,
+        "date": "2025-07-26 00:00:00.000 UTC",
+        "total_num_swaps": 276449,
+        "total_volume_usd": 699691.1092561345,
+        "total_volume_wld": 601841.5904898329
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 294488,
+        "chain_volume_usd": 917358.0332493915,
+        "chain_volume_wld": 814969.8415166276,
+        "date": "2025-07-25 00:00:00.000 UTC",
+        "total_num_swaps": 297643,
+        "total_volume_usd": 1449088.9943666002,
+        "total_volume_wld": 1288521.5225284218
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 3002,
+        "chain_volume_usd": 218591.9271929969,
+        "chain_volume_wld": 193825.24457832368,
+        "date": "2025-07-25 00:00:00.000 UTC",
+        "total_num_swaps": 297643,
+        "total_volume_usd": 1449088.9943666002,
+        "total_volume_wld": 1288521.5225284218
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 153,
+        "chain_volume_usd": 313139.03392421175,
+        "chain_volume_wld": 279726.4364334705,
+        "date": "2025-07-25 00:00:00.000 UTC",
+        "total_num_swaps": 297643,
+        "total_volume_usd": 1449088.9943666002,
+        "total_volume_wld": 1288521.5225284218
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 292,
+        "chain_volume_usd": 720313.7052217168,
+        "chain_volume_wld": 627611.8396793384,
+        "date": "2025-07-24 00:00:00.000 UTC",
+        "total_num_swaps": 262343,
+        "total_volume_usd": 2298413.044631865,
+        "total_volume_wld": 2011208.8526707168
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 4135,
+        "chain_volume_usd": 349778.1407980787,
+        "chain_volume_wld": 302837.9497585891,
+        "date": "2025-07-24 00:00:00.000 UTC",
+        "total_num_swaps": 262343,
+        "total_volume_usd": 2298413.044631865,
+        "total_volume_wld": 2011208.8526707168
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 257916,
+        "chain_volume_usd": 1228321.1986120695,
+        "chain_volume_wld": 1080759.0632327893,
+        "date": "2025-07-24 00:00:00.000 UTC",
+        "total_num_swaps": 262343,
+        "total_volume_usd": 2298413.044631865,
+        "total_volume_wld": 2011208.8526707168
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 260763,
+        "chain_volume_usd": 1547459.1361847771,
+        "chain_volume_wld": 1224766.2343294462,
+        "date": "2025-07-23 00:00:00.000 UTC",
+        "total_num_swaps": 266988,
+        "total_volume_usd": 3344077.953292713,
+        "total_volume_wld": 2665465.2743246094
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 5890,
+        "chain_volume_usd": 695924.0049156641,
+        "chain_volume_wld": 554956.0596854482,
+        "date": "2025-07-23 00:00:00.000 UTC",
+        "total_num_swaps": 266988,
+        "total_volume_usd": 3344077.953292713,
+        "total_volume_wld": 2665465.2743246094
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 335,
+        "chain_volume_usd": 1100694.8121922717,
+        "chain_volume_wld": 885742.980309715,
+        "date": "2025-07-23 00:00:00.000 UTC",
+        "total_num_swaps": 266988,
+        "total_volume_usd": 3344077.953292713,
+        "total_volume_wld": 2665465.2743246094
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 5214,
+        "chain_volume_usd": 922464.2832641334,
+        "chain_volume_wld": 744511.1219844911,
+        "date": "2025-07-22 00:00:00.000 UTC",
+        "total_num_swaps": 281835,
+        "total_volume_usd": 3852831.8463505898,
+        "total_volume_wld": 3085163.1944385148
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 276260,
+        "chain_volume_usd": 1974285.639520127,
+        "chain_volume_wld": 1583244.8247206185,
+        "date": "2025-07-22 00:00:00.000 UTC",
+        "total_num_swaps": 281835,
+        "total_volume_usd": 3852831.8463505898,
+        "total_volume_wld": 3085163.1944385148
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 361,
+        "chain_volume_usd": 956081.9235663295,
+        "chain_volume_wld": 757407.2477334054,
+        "date": "2025-07-22 00:00:00.000 UTC",
+        "total_num_swaps": 281835,
+        "total_volume_usd": 3852831.8463505898,
+        "total_volume_wld": 3085163.1944385148
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 167,
+        "chain_volume_usd": 324761.1634657079,
+        "chain_volume_wld": 262390.94116455916,
+        "date": "2025-07-21 00:00:00.000 UTC",
+        "total_num_swaps": 264761,
+        "total_volume_usd": 1964248.9596448522,
+        "total_volume_wld": 1591655.778320192
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 3311,
+        "chain_volume_usd": 439716.33080079034,
+        "chain_volume_wld": 356429.6556919051,
+        "date": "2025-07-21 00:00:00.000 UTC",
+        "total_num_swaps": 264761,
+        "total_volume_usd": 1964248.9596448522,
+        "total_volume_wld": 1591655.778320192
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 261283,
+        "chain_volume_usd": 1199771.4653783538,
+        "chain_volume_wld": 972835.1814637277,
+        "date": "2025-07-21 00:00:00.000 UTC",
+        "total_num_swaps": 264761,
+        "total_volume_usd": 1964248.9596448522,
+        "total_volume_wld": 1591655.778320192
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 195,
+        "chain_volume_usd": 505465.7984799289,
+        "chain_volume_wld": 410338.34546371055,
+        "date": "2025-07-20 00:00:00.000 UTC",
+        "total_num_swaps": 292364,
+        "total_volume_usd": 2507223.224428986,
+        "total_volume_wld": 2060832.3627494797
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 3735,
+        "chain_volume_usd": 484451.3407745434,
+        "chain_volume_wld": 396253.20145493123,
+        "date": "2025-07-20 00:00:00.000 UTC",
+        "total_num_swaps": 292364,
+        "total_volume_usd": 2507223.224428986,
+        "total_volume_wld": 2060832.3627494797
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 288434,
+        "chain_volume_usd": 1517306.0851745137,
+        "chain_volume_wld": 1254240.815830838,
+        "date": "2025-07-20 00:00:00.000 UTC",
+        "total_num_swaps": 292364,
+        "total_volume_usd": 2507223.224428986,
+        "total_volume_wld": 2060832.3627494797
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 160,
+        "chain_volume_usd": 256188.44786040133,
+        "chain_volume_wld": 224638.85913178077,
+        "date": "2025-07-19 00:00:00.000 UTC",
+        "total_num_swaps": 216828,
+        "total_volume_usd": 1124819.4070795267,
+        "total_volume_wld": 987387.5382121482
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 2394,
+        "chain_volume_usd": 162498.1933475242,
+        "chain_volume_wld": 142894.33430285766,
+        "date": "2025-07-19 00:00:00.000 UTC",
+        "total_num_swaps": 216828,
+        "total_volume_usd": 1124819.4070795267,
+        "total_volume_wld": 987387.5382121482
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 214274,
+        "chain_volume_usd": 706132.7658716011,
+        "chain_volume_wld": 619854.3447775098,
+        "date": "2025-07-19 00:00:00.000 UTC",
+        "total_num_swaps": 216828,
+        "total_volume_usd": 1124819.4070795267,
+        "total_volume_wld": 987387.5382121482
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 288878,
+        "chain_volume_usd": 2245325.1362258955,
+        "chain_volume_wld": 1928462.9066220482,
+        "date": "2025-07-18 00:00:00.000 UTC",
+        "total_num_swaps": 293675,
+        "total_volume_usd": 3573841.703984066,
+        "total_volume_wld": 3076529.296360204
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 4608,
+        "chain_volume_usd": 454061.5885456483,
+        "chain_volume_wld": 390649.6099442134,
+        "date": "2025-07-18 00:00:00.000 UTC",
+        "total_num_swaps": 293675,
+        "total_volume_usd": 3573841.703984066,
+        "total_volume_wld": 3076529.296360204
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 189,
+        "chain_volume_usd": 874454.9792125223,
+        "chain_volume_wld": 757416.7797939426,
+        "date": "2025-07-18 00:00:00.000 UTC",
+        "total_num_swaps": 293675,
+        "total_volume_usd": 3573841.703984066,
+        "total_volume_wld": 3076529.296360204
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 131,
+        "chain_volume_usd": 318502.342948079,
+        "chain_volume_wld": 289007.135087345,
+        "date": "2025-07-17 00:00:00.000 UTC",
+        "total_num_swaps": 227307,
+        "total_volume_usd": 1708027.8635469545,
+        "total_volume_wld": 1549373.4120711624
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 4059,
+        "chain_volume_usd": 322708.9829480112,
+        "chain_volume_wld": 292683.8049414187,
+        "date": "2025-07-17 00:00:00.000 UTC",
+        "total_num_swaps": 227307,
+        "total_volume_usd": 1708027.8635469545,
+        "total_volume_wld": 1549373.4120711624
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 223117,
+        "chain_volume_usd": 1066816.5376508643,
+        "chain_volume_wld": 967682.4720423988,
+        "date": "2025-07-17 00:00:00.000 UTC",
+        "total_num_swaps": 227307,
+        "total_volume_usd": 1708027.8635469545,
+        "total_volume_wld": 1549373.4120711624
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 2922,
+        "chain_volume_usd": 209980.98733310748,
+        "chain_volume_wld": 191409.40165509772,
+        "date": "2025-07-16 00:00:00.000 UTC",
+        "total_num_swaps": 230545,
+        "total_volume_usd": 1489727.2513067932,
+        "total_volume_wld": 1357592.9851674512
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 227441,
+        "chain_volume_usd": 955213.9320266919,
+        "chain_volume_wld": 871696.2736147712,
+        "date": "2025-07-16 00:00:00.000 UTC",
+        "total_num_swaps": 230545,
+        "total_volume_usd": 1489727.2513067932,
+        "total_volume_wld": 1357592.9851674512
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 182,
+        "chain_volume_usd": 324532.3319469939,
+        "chain_volume_wld": 294487.3098975823,
+        "date": "2025-07-16 00:00:00.000 UTC",
+        "total_num_swaps": 230545,
+        "total_volume_usd": 1489727.2513067932,
+        "total_volume_wld": 1357592.9851674512
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 153,
+        "chain_volume_usd": 361524.2187863572,
+        "chain_volume_wld": 349839.8105192754,
+        "date": "2025-07-15 00:00:00.000 UTC",
+        "total_num_swaps": 220673,
+        "total_volume_usd": 1461264.7782742889,
+        "total_volume_wld": 1418642.7786609228
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 3459,
+        "chain_volume_usd": 300405.2483451068,
+        "chain_volume_wld": 294006.7624073251,
+        "date": "2025-07-15 00:00:00.000 UTC",
+        "total_num_swaps": 220673,
+        "total_volume_usd": 1461264.7782742889,
+        "total_volume_wld": 1418642.7786609228
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 217061,
+        "chain_volume_usd": 799335.3111428248,
+        "chain_volume_wld": 774796.2057343222,
+        "date": "2025-07-15 00:00:00.000 UTC",
+        "total_num_swaps": 220673,
+        "total_volume_usd": 1461264.7782742889,
+        "total_volume_wld": 1418642.7786609228
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 172,
+        "chain_volume_usd": 355824.5469865864,
+        "chain_volume_wld": 330851.80363879,
+        "date": "2025-07-14 00:00:00.000 UTC",
+        "total_num_swaps": 220380,
+        "total_volume_usd": 1548176.333439286,
+        "total_volume_wld": 1446146.8860678817
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 2662,
+        "chain_volume_usd": 324356.7766008652,
+        "chain_volume_wld": 303323.15989844163,
+        "date": "2025-07-14 00:00:00.000 UTC",
+        "total_num_swaps": 220380,
+        "total_volume_usd": 1548176.333439286,
+        "total_volume_wld": 1446146.8860678817
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 217546,
+        "chain_volume_usd": 867995.0098518345,
+        "chain_volume_wld": 811971.9225306502,
+        "date": "2025-07-14 00:00:00.000 UTC",
+        "total_num_swaps": 220380,
+        "total_volume_usd": 1548176.333439286,
+        "total_volume_wld": 1446146.8860678817
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 126,
+        "chain_volume_usd": 177467.3214669312,
+        "chain_volume_wld": 168860.71956689173,
+        "date": "2025-07-13 00:00:00.000 UTC",
+        "total_num_swaps": 205077,
+        "total_volume_usd": 958061.9984844475,
+        "total_volume_wld": 914119.9954399577
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 1585,
+        "chain_volume_usd": 205295.02456337918,
+        "chain_volume_wld": 195926.1702271295,
+        "date": "2025-07-13 00:00:00.000 UTC",
+        "total_num_swaps": 205077,
+        "total_volume_usd": 958061.9984844475,
+        "total_volume_wld": 914119.9954399577
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 203366,
+        "chain_volume_usd": 575299.6524541371,
+        "chain_volume_wld": 549333.1056459364,
+        "date": "2025-07-13 00:00:00.000 UTC",
+        "total_num_swaps": 205077,
+        "total_volume_usd": 958061.9984844475,
+        "total_volume_wld": 914119.9954399577
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 118,
+        "chain_volume_usd": 171409.22807830924,
+        "chain_volume_wld": 166815.44787617106,
+        "date": "2025-07-12 00:00:00.000 UTC",
+        "total_num_swaps": 190213,
+        "total_volume_usd": 1240700.739282567,
+        "total_volume_wld": 1210770.7374582647
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 2030,
+        "chain_volume_usd": 272938.02712227945,
+        "chain_volume_wld": 265993.26279459696,
+        "date": "2025-07-12 00:00:00.000 UTC",
+        "total_num_swaps": 190213,
+        "total_volume_usd": 1240700.739282567,
+        "total_volume_wld": 1210770.7374582647
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 188065,
+        "chain_volume_usd": 796353.4840819782,
+        "chain_volume_wld": 777962.0267874966,
+        "date": "2025-07-12 00:00:00.000 UTC",
+        "total_num_swaps": 190213,
+        "total_volume_usd": 1240700.739282567,
+        "total_volume_wld": 1210770.7374582647
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 224509,
+        "chain_volume_usd": 1538817.8196442733,
+        "chain_volume_wld": 1426621.9199297233,
+        "date": "2025-07-11 00:00:00.000 UTC",
+        "total_num_swaps": 229158,
+        "total_volume_usd": 2860967.51189183,
+        "total_volume_wld": 2639134.4953994974
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 4394,
+        "chain_volume_usd": 555087.908028279,
+        "chain_volume_wld": 513289.0007228895,
+        "date": "2025-07-11 00:00:00.000 UTC",
+        "total_num_swaps": 229158,
+        "total_volume_usd": 2860967.51189183,
+        "total_volume_wld": 2639134.4953994974
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 255,
+        "chain_volume_usd": 767061.7842192773,
+        "chain_volume_wld": 699223.5747468848,
+        "date": "2025-07-11 00:00:00.000 UTC",
+        "total_num_swaps": 229158,
+        "total_volume_usd": 2860967.51189183,
+        "total_volume_wld": 2639134.4953994974
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 173,
+        "chain_volume_usd": 774627.3668484995,
+        "chain_volume_wld": 791422.1397238189,
+        "date": "2025-07-10 00:00:00.000 UTC",
+        "total_num_swaps": 232447,
+        "total_volume_usd": 2256965.462181108,
+        "total_volume_wld": 2316346.488307462
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 2742,
+        "chain_volume_usd": 350778.79112278967,
+        "chain_volume_wld": 359295.3284684935,
+        "date": "2025-07-10 00:00:00.000 UTC",
+        "total_num_swaps": 232447,
+        "total_volume_usd": 2256965.462181108,
+        "total_volume_wld": 2316346.488307462
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 229532,
+        "chain_volume_usd": 1131559.3042098186,
+        "chain_volume_wld": 1165629.0201151497,
+        "date": "2025-07-10 00:00:00.000 UTC",
+        "total_num_swaps": 232447,
+        "total_volume_usd": 2256965.462181108,
+        "total_volume_wld": 2316346.488307462
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 188936,
+        "chain_volume_usd": 566994.7591251202,
+        "chain_volume_wld": 640738.1765740026,
+        "date": "2025-07-09 00:00:00.000 UTC",
+        "total_num_swaps": 190054,
+        "total_volume_usd": 926196.2906233249,
+        "total_volume_wld": 1046940.4972956623
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 1005,
+        "chain_volume_usd": 135794.3654800013,
+        "chain_volume_wld": 153216.3142641257,
+        "date": "2025-07-09 00:00:00.000 UTC",
+        "total_num_swaps": 190054,
+        "total_volume_usd": 926196.2906233249,
+        "total_volume_wld": 1046940.4972956623
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 113,
+        "chain_volume_usd": 223407.16601820337,
+        "chain_volume_wld": 252986.00645753392,
+        "date": "2025-07-09 00:00:00.000 UTC",
+        "total_num_swaps": 190054,
+        "total_volume_usd": 926196.2906233249,
+        "total_volume_wld": 1046940.4972956623
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 821,
+        "chain_volume_usd": 197146.8800646431,
+        "chain_volume_wld": 228108.38504236238,
+        "date": "2025-07-08 00:00:00.000 UTC",
+        "total_num_swaps": 180881,
+        "total_volume_usd": 639159.2509187754,
+        "total_volume_wld": 738415.0993984274
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 82,
+        "chain_volume_usd": 91395.85018583624,
+        "chain_volume_wld": 105645.11358637876,
+        "date": "2025-07-08 00:00:00.000 UTC",
+        "total_num_swaps": 180881,
+        "total_volume_usd": 639159.2509187754,
+        "total_volume_wld": 738415.0993984274
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 179978,
+        "chain_volume_usd": 350616.5206682961,
+        "chain_volume_wld": 404661.6007696863,
+        "date": "2025-07-08 00:00:00.000 UTC",
+        "total_num_swaps": 180881,
+        "total_volume_usd": 639159.2509187754,
+        "total_volume_wld": 738415.0993984274
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 80,
+        "chain_volume_usd": 136292.30483741488,
+        "chain_volume_wld": 153414.8112257341,
+        "date": "2025-07-07 00:00:00.000 UTC",
+        "total_num_swaps": 187691,
+        "total_volume_usd": 536725.5090389391,
+        "total_volume_wld": 607940.7309112275
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 895,
+        "chain_volume_usd": 85132.26994318973,
+        "chain_volume_wld": 96523.81612135936,
+        "date": "2025-07-07 00:00:00.000 UTC",
+        "total_num_swaps": 187691,
+        "total_volume_usd": 536725.5090389391,
+        "total_volume_wld": 607940.7309112275
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 186716,
+        "chain_volume_usd": 315300.9342583346,
+        "chain_volume_wld": 358002.10356413404,
+        "date": "2025-07-07 00:00:00.000 UTC",
+        "total_num_swaps": 187691,
+        "total_volume_usd": 536725.5090389391,
+        "total_volume_wld": 607940.7309112275
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 95,
+        "chain_volume_usd": 121642.57615008886,
+        "chain_volume_wld": 136284.95573698188,
+        "date": "2025-07-06 00:00:00.000 UTC",
+        "total_num_swaps": 175790,
+        "total_volume_usd": 681080.9358495024,
+        "total_volume_wld": 770556.2809446829
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 899,
+        "chain_volume_usd": 158005.5597846067,
+        "chain_volume_wld": 178994.60567878306,
+        "date": "2025-07-06 00:00:00.000 UTC",
+        "total_num_swaps": 175790,
+        "total_volume_usd": 681080.9358495024,
+        "total_volume_wld": 770556.2809446829
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 174796,
+        "chain_volume_usd": 401432.7999148068,
+        "chain_volume_wld": 455276.7195289179,
+        "date": "2025-07-06 00:00:00.000 UTC",
+        "total_num_swaps": 175790,
+        "total_volume_usd": 681080.9358495024,
+        "total_volume_wld": 770556.2809446829
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 114,
+        "chain_volume_usd": 51938.44418561446,
+        "chain_volume_wld": 59783.70993667328,
+        "date": "2025-07-05 00:00:00.000 UTC",
+        "total_num_swaps": 176931,
+        "total_volume_usd": 309825.25769268314,
+        "total_volume_wld": 355405.93285106757
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 487,
+        "chain_volume_usd": 50645.35444169346,
+        "chain_volume_wld": 58036.71597758338,
+        "date": "2025-07-05 00:00:00.000 UTC",
+        "total_num_swaps": 176931,
+        "total_volume_usd": 309825.25769268314,
+        "total_volume_wld": 355405.93285106757
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 176330,
+        "chain_volume_usd": 207241.45906537518,
+        "chain_volume_wld": 237585.5069368109,
+        "date": "2025-07-05 00:00:00.000 UTC",
+        "total_num_swaps": 176931,
+        "total_volume_usd": 309825.25769268314,
+        "total_volume_wld": 355405.93285106757
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 1104,
+        "chain_volume_usd": 97315.49782625904,
+        "chain_volume_wld": 108597.41767317924,
+        "date": "2025-07-04 00:00:00.000 UTC",
+        "total_num_swaps": 197815,
+        "total_volume_usd": 828088.9467214025,
+        "total_volume_wld": 924446.3627745857
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 196571,
+        "chain_volume_usd": 467584.3017258012,
+        "chain_volume_wld": 519970.66808367573,
+        "date": "2025-07-04 00:00:00.000 UTC",
+        "total_num_swaps": 197815,
+        "total_volume_usd": 828088.9467214025,
+        "total_volume_wld": 924446.3627745857
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 140,
+        "chain_volume_usd": 263189.1471693423,
+        "chain_volume_wld": 295878.27701773075,
+        "date": "2025-07-04 00:00:00.000 UTC",
+        "total_num_swaps": 197815,
+        "total_volume_usd": 828088.9467214025,
+        "total_volume_wld": 924446.3627745857
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 220561,
+        "chain_volume_usd": 737742.1127757533,
+        "chain_volume_wld": 773028.6360931646,
+        "date": "2025-07-03 00:00:00.000 UTC",
+        "total_num_swaps": 222118,
+        "total_volume_usd": 1044700.2350955508,
+        "total_volume_wld": 1094552.664876365
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 1408,
+        "chain_volume_usd": 113917.11295912798,
+        "chain_volume_wld": 119131.94734370802,
+        "date": "2025-07-03 00:00:00.000 UTC",
+        "total_num_swaps": 222118,
+        "total_volume_usd": 1044700.2350955508,
+        "total_volume_wld": 1094552.664876365
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 149,
+        "chain_volume_usd": 193041.00936066947,
+        "chain_volume_wld": 202392.08143949255,
+        "date": "2025-07-03 00:00:00.000 UTC",
+        "total_num_swaps": 222118,
+        "total_volume_usd": 1044700.2350955508,
+        "total_volume_wld": 1094552.664876365
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 137,
+        "chain_volume_usd": 255269.88724694616,
+        "chain_volume_wld": 286710.2865786403,
+        "date": "2025-07-02 00:00:00.000 UTC",
+        "total_num_swaps": 238526,
+        "total_volume_usd": 1440995.9325822927,
+        "total_volume_wld": 1586360.8581601544
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 1486,
+        "chain_volume_usd": 266305.1571487073,
+        "chain_volume_wld": 290730.9718667623,
+        "date": "2025-07-02 00:00:00.000 UTC",
+        "total_num_swaps": 238526,
+        "total_volume_usd": 1440995.9325822927,
+        "total_volume_wld": 1586360.8581601544
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 236903,
+        "chain_volume_usd": 919420.8881866393,
+        "chain_volume_wld": 1008919.5997147517,
+        "date": "2025-07-02 00:00:00.000 UTC",
+        "total_num_swaps": 238526,
+        "total_volume_usd": 1440995.9325822927,
+        "total_volume_wld": 1586360.8581601544
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 115,
+        "chain_volume_usd": 101794.15464558161,
+        "chain_volume_wld": 115850.46217015415,
+        "date": "2025-07-01 00:00:00.000 UTC",
+        "total_num_swaps": 217910,
+        "total_volume_usd": 732118.9927068532,
+        "total_volume_wld": 839686.4249805133
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 778,
+        "chain_volume_usd": 73755.98884194429,
+        "chain_volume_wld": 85182.58091955792,
+        "date": "2025-07-01 00:00:00.000 UTC",
+        "total_num_swaps": 217910,
+        "total_volume_usd": 732118.9927068532,
+        "total_volume_wld": 839686.4249805133
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 217017,
+        "chain_volume_usd": 556568.8492193273,
+        "chain_volume_wld": 638653.3818908012,
+        "date": "2025-07-01 00:00:00.000 UTC",
+        "total_num_swaps": 217910,
+        "total_volume_usd": 732118.9927068532,
+        "total_volume_wld": 839686.4249805133
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 137,
+        "chain_volume_usd": 258713.87028687025,
+        "chain_volume_wld": 282829.3730769099,
+        "date": "2025-06-30 00:00:00.000 UTC",
+        "total_num_swaps": 224155,
+        "total_volume_usd": 1006588.0162205768,
+        "total_volume_wld": 1105087.6683776956
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 1514,
+        "chain_volume_usd": 179918.68533781503,
+        "chain_volume_wld": 197932.22422214842,
+        "date": "2025-06-30 00:00:00.000 UTC",
+        "total_num_swaps": 224155,
+        "total_volume_usd": 1006588.0162205768,
+        "total_volume_wld": 1105087.6683776956
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 222504,
+        "chain_volume_usd": 567955.4605958916,
+        "chain_volume_wld": 624326.0710786374,
+        "date": "2025-06-30 00:00:00.000 UTC",
+        "total_num_swaps": 224155,
+        "total_volume_usd": 1006588.0162205768,
+        "total_volume_wld": 1105087.6683776956
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 148,
+        "chain_volume_usd": 188502.03232016598,
+        "chain_volume_wld": 205681.23443471195,
+        "date": "2025-06-29 00:00:00.000 UTC",
+        "total_num_swaps": 219284,
+        "total_volume_usd": 843660.26483355,
+        "total_volume_wld": 926543.5683591285
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 218042,
+        "chain_volume_usd": 547823.1666116021,
+        "chain_volume_wld": 602789.7673136839,
+        "date": "2025-06-29 00:00:00.000 UTC",
+        "total_num_swaps": 219284,
+        "total_volume_usd": 843660.26483355,
+        "total_volume_wld": 926543.5683591285
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 1094,
+        "chain_volume_usd": 107335.06590178185,
+        "chain_volume_wld": 118072.56661073273,
+        "date": "2025-06-29 00:00:00.000 UTC",
+        "total_num_swaps": 219284,
+        "total_volume_usd": 843660.26483355,
+        "total_volume_wld": 926543.5683591285
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 234439,
+        "chain_volume_usd": 471194.7740916776,
+        "chain_volume_wld": 536970.9590152791,
+        "date": "2025-06-28 00:00:00.000 UTC",
+        "total_num_swaps": 235177,
+        "total_volume_usd": 840800.3596022279,
+        "total_volume_wld": 949965.5018113824
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 585,
+        "chain_volume_usd": 103331.68658545546,
+        "chain_volume_wld": 117211.73640697794,
+        "date": "2025-06-28 00:00:00.000 UTC",
+        "total_num_swaps": 235177,
+        "total_volume_usd": 840800.3596022279,
+        "total_volume_wld": 949965.5018113824
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 153,
+        "chain_volume_usd": 266273.8989250948,
+        "chain_volume_wld": 295782.8063891254,
+        "date": "2025-06-28 00:00:00.000 UTC",
+        "total_num_swaps": 235177,
+        "total_volume_usd": 840800.3596022279,
+        "total_volume_wld": 949965.5018113824
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 232428,
+        "chain_volume_usd": 485323.0321868393,
+        "chain_volume_wld": 559900.8783423722,
+        "date": "2025-06-27 00:00:00.000 UTC",
+        "total_num_swaps": 233581,
+        "total_volume_usd": 819003.2567543061,
+        "total_volume_wld": 944339.4317854883
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 1043,
+        "chain_volume_usd": 114632.84257440639,
+        "chain_volume_wld": 132391.4287076307,
+        "date": "2025-06-27 00:00:00.000 UTC",
+        "total_num_swaps": 233581,
+        "total_volume_usd": 819003.2567543061,
+        "total_volume_wld": 944339.4317854883
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 110,
+        "chain_volume_usd": 219047.3819930604,
+        "chain_volume_wld": 252047.1247354853,
+        "date": "2025-06-27 00:00:00.000 UTC",
+        "total_num_swaps": 233581,
+        "total_volume_usd": 819003.2567543061,
+        "total_volume_wld": 944339.4317854883
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 126,
+        "chain_volume_usd": 347059.55378726346,
+        "chain_volume_wld": 393959.10441620473,
+        "date": "2025-06-26 00:00:00.000 UTC",
+        "total_num_swaps": 271614,
+        "total_volume_usd": 1132278.053735213,
+        "total_volume_wld": 1288168.153122345
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 1092,
+        "chain_volume_usd": 89451.97284853828,
+        "chain_volume_wld": 101560.40691014692,
+        "date": "2025-06-26 00:00:00.000 UTC",
+        "total_num_swaps": 271614,
+        "total_volume_usd": 1132278.053735213,
+        "total_volume_wld": 1288168.153122345
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 270396,
+        "chain_volume_usd": 695766.5270994111,
+        "chain_volume_wld": 792648.6417959934,
+        "date": "2025-06-26 00:00:00.000 UTC",
+        "total_num_swaps": 271614,
+        "total_volume_usd": 1132278.053735213,
+        "total_volume_wld": 1288168.153122345
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 75,
+        "chain_volume_usd": 112302.64441138893,
+        "chain_volume_wld": 124323.1405759003,
+        "date": "2025-06-25 00:00:00.000 UTC",
+        "total_num_swaps": 263562,
+        "total_volume_usd": 772178.1401285361,
+        "total_volume_wld": 853880.3930508925
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 1149,
+        "chain_volume_usd": 90520.27492929256,
+        "chain_volume_wld": 99479.67139678061,
+        "date": "2025-06-25 00:00:00.000 UTC",
+        "total_num_swaps": 263562,
+        "total_volume_usd": 772178.1401285361,
+        "total_volume_wld": 853880.3930508925
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 262338,
+        "chain_volume_usd": 569355.2207878546,
+        "chain_volume_wld": 630077.5810782115,
+        "date": "2025-06-25 00:00:00.000 UTC",
+        "total_num_swaps": 263562,
+        "total_volume_usd": 772178.1401285361,
+        "total_volume_wld": 853880.3930508925
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 149,
+        "chain_volume_usd": 218220.59937964793,
+        "chain_volume_wld": 234147.04787945916,
+        "date": "2025-06-24 00:00:00.000 UTC",
+        "total_num_swaps": 244754,
+        "total_volume_usd": 1019578.6956492832,
+        "total_volume_wld": 1095790.3389760633
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 1571,
+        "chain_volume_usd": 120371.0140175072,
+        "chain_volume_wld": 129274.89298456749,
+        "date": "2025-06-24 00:00:00.000 UTC",
+        "total_num_swaps": 244754,
+        "total_volume_usd": 1019578.6956492832,
+        "total_volume_wld": 1095790.3389760633
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 243034,
+        "chain_volume_usd": 680987.0822521282,
+        "chain_volume_wld": 732368.3981120365,
+        "date": "2025-06-24 00:00:00.000 UTC",
+        "total_num_swaps": 244754,
+        "total_volume_usd": 1019578.6956492832,
+        "total_volume_wld": 1095790.3389760633
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 214206,
+        "chain_volume_usd": 643457.8377184849,
+        "chain_volume_wld": 756650.2635547593,
+        "date": "2025-06-23 00:00:00.000 UTC",
+        "total_num_swaps": 216970,
+        "total_volume_usd": 972106.1704757793,
+        "total_volume_wld": 1140456.0292069556
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 2653,
+        "chain_volume_usd": 127041.33888072896,
+        "chain_volume_wld": 149408.05002717132,
+        "date": "2025-06-23 00:00:00.000 UTC",
+        "total_num_swaps": 216970,
+        "total_volume_usd": 972106.1704757793,
+        "total_volume_wld": 1140456.0292069556
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 111,
+        "chain_volume_usd": 201606.99387656542,
+        "chain_volume_wld": 234397.71562502495,
+        "date": "2025-06-23 00:00:00.000 UTC",
+        "total_num_swaps": 216970,
+        "total_volume_usd": 972106.1704757793,
+        "total_volume_wld": 1140456.0292069556
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 200972,
+        "chain_volume_usd": 833221.5344579363,
+        "chain_volume_wld": 1019236.0099391117,
+        "date": "2025-06-22 00:00:00.000 UTC",
+        "total_num_swaps": 203902,
+        "total_volume_usd": 1591959.634210229,
+        "total_volume_wld": 1931798.4431164856
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 2693,
+        "chain_volume_usd": 158034.37865512754,
+        "chain_volume_wld": 190300.63512716856,
+        "date": "2025-06-22 00:00:00.000 UTC",
+        "total_num_swaps": 203902,
+        "total_volume_usd": 1591959.634210229,
+        "total_volume_wld": 1931798.4431164856
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 237,
+        "chain_volume_usd": 600703.7210971649,
+        "chain_volume_wld": 722261.7980502056,
+        "date": "2025-06-22 00:00:00.000 UTC",
+        "total_num_swaps": 203902,
+        "total_volume_usd": 1591959.634210229,
+        "total_volume_wld": 1931798.4431164856
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 184961,
+        "chain_volume_usd": 479754.2958933249,
+        "chain_volume_wld": 559953.3884129906,
+        "date": "2025-06-21 00:00:00.000 UTC",
+        "total_num_swaps": 188044,
+        "total_volume_usd": 1046122.771223159,
+        "total_volume_wld": 1226043.634143115
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 2922,
+        "chain_volume_usd": 135718.8961087092,
+        "chain_volume_wld": 159803.59614240756,
+        "date": "2025-06-21 00:00:00.000 UTC",
+        "total_num_swaps": 188044,
+        "total_volume_usd": 1046122.771223159,
+        "total_volume_wld": 1226043.634143115
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 161,
+        "chain_volume_usd": 430649.57922112494,
+        "chain_volume_wld": 506286.6495877169,
+        "date": "2025-06-21 00:00:00.000 UTC",
+        "total_num_swaps": 188044,
+        "total_volume_usd": 1046122.771223159,
+        "total_volume_wld": 1226043.634143115
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 125,
+        "chain_volume_usd": 350020.2264769343,
+        "chain_volume_wld": 381845.9951805918,
+        "date": "2025-06-20 00:00:00.000 UTC",
+        "total_num_swaps": 172278,
+        "total_volume_usd": 1252358.9536305608,
+        "total_volume_wld": 1369787.609638067
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 2083,
+        "chain_volume_usd": 246662.52156079398,
+        "chain_volume_wld": 269735.78866531205,
+        "date": "2025-06-20 00:00:00.000 UTC",
+        "total_num_swaps": 172278,
+        "total_volume_usd": 1252358.9536305608,
+        "total_volume_wld": 1369787.609638067
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 170070,
+        "chain_volume_usd": 655676.2055928325,
+        "chain_volume_wld": 718205.8257921633,
+        "date": "2025-06-20 00:00:00.000 UTC",
+        "total_num_swaps": 172278,
+        "total_volume_usd": 1252358.9536305608,
+        "total_volume_wld": 1369787.609638067
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 204666,
+        "chain_volume_usd": 381830.071437982,
+        "chain_volume_wld": 407401.6251865711,
+        "date": "2025-06-19 00:00:00.000 UTC",
+        "total_num_swaps": 206234,
+        "total_volume_usd": 627724.9328201041,
+        "total_volume_wld": 668746.2625463777
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 1455,
+        "chain_volume_usd": 89108.1885454717,
+        "chain_volume_wld": 95172.99682159942,
+        "date": "2025-06-19 00:00:00.000 UTC",
+        "total_num_swaps": 206234,
+        "total_volume_usd": 627724.9328201041,
+        "total_volume_wld": 668746.2625463777
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 113,
+        "chain_volume_usd": 156786.67283665034,
+        "chain_volume_wld": 166171.64053820714,
+        "date": "2025-06-19 00:00:00.000 UTC",
+        "total_num_swaps": 206234,
+        "total_volume_usd": 627724.9328201041,
+        "total_volume_wld": 668746.2625463777
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 217765,
+        "chain_volume_usd": 560517.4390398391,
+        "chain_volume_wld": 616853.2605767035,
+        "date": "2025-06-18 00:00:00.000 UTC",
+        "total_num_swaps": 219886,
+        "total_volume_usd": 990083.6548239465,
+        "total_volume_wld": 1082945.9857016262
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 1964,
+        "chain_volume_usd": 118622.44530457859,
+        "chain_volume_wld": 129346.68547154777,
+        "date": "2025-06-18 00:00:00.000 UTC",
+        "total_num_swaps": 219886,
+        "total_volume_usd": 990083.6548239465,
+        "total_volume_wld": 1082945.9857016262
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 157,
+        "chain_volume_usd": 310943.77047952893,
+        "chain_volume_wld": 336746.03965337505,
+        "date": "2025-06-18 00:00:00.000 UTC",
+        "total_num_swaps": 219886,
+        "total_volume_usd": 990083.6548239465,
+        "total_volume_wld": 1082945.9857016262
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 145,
+        "chain_volume_usd": 397540.36088865553,
+        "chain_volume_wld": 426326.2168985142,
+        "date": "2025-06-17 00:00:00.000 UTC",
+        "total_num_swaps": 220074,
+        "total_volume_usd": 1271861.9035922557,
+        "total_volume_wld": 1367031.4387004569
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 2166,
+        "chain_volume_usd": 151040.7493517949,
+        "chain_volume_wld": 163489.82701156402,
+        "date": "2025-06-17 00:00:00.000 UTC",
+        "total_num_swaps": 220074,
+        "total_volume_usd": 1271861.9035922557,
+        "total_volume_wld": 1367031.4387004569
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 217763,
+        "chain_volume_usd": 723280.7933518053,
+        "chain_volume_wld": 777215.3947903786,
+        "date": "2025-06-17 00:00:00.000 UTC",
+        "total_num_swaps": 220074,
+        "total_volume_usd": 1271861.9035922557,
+        "total_volume_wld": 1367031.4387004569
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 82,
+        "chain_volume_usd": 242599.4347167563,
+        "chain_volume_wld": 239304.11812860402,
+        "date": "2025-06-16 00:00:00.000 UTC",
+        "total_num_swaps": 219728,
+        "total_volume_usd": 871777.1608782676,
+        "total_volume_wld": 866795.1443429918
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 1465,
+        "chain_volume_usd": 137777.18936010302,
+        "chain_volume_wld": 137433.8782952497,
+        "date": "2025-06-16 00:00:00.000 UTC",
+        "total_num_swaps": 219728,
+        "total_volume_usd": 871777.1608782676,
+        "total_volume_wld": 866795.1443429918
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 218181,
+        "chain_volume_usd": 491400.53680140834,
+        "chain_volume_wld": 490057.14791913796,
+        "date": "2025-06-16 00:00:00.000 UTC",
+        "total_num_swaps": 219728,
+        "total_volume_usd": 871777.1608782676,
+        "total_volume_wld": 866795.1443429918
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 207846,
+        "chain_volume_usd": 321771.0721017804,
+        "chain_volume_wld": 329046.20160271705,
+        "date": "2025-06-15 00:00:00.000 UTC",
+        "total_num_swaps": 208805,
+        "total_volume_usd": 512232.16233365436,
+        "total_volume_wld": 523308.82451774005
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 866,
+        "chain_volume_usd": 93422.18288595637,
+        "chain_volume_wld": 95141.96431844041,
+        "date": "2025-06-15 00:00:00.000 UTC",
+        "total_num_swaps": 208805,
+        "total_volume_usd": 512232.16233365436,
+        "total_volume_wld": 523308.82451774005
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 93,
+        "chain_volume_usd": 97038.90734591763,
+        "chain_volume_wld": 99120.65859658257,
+        "date": "2025-06-15 00:00:00.000 UTC",
+        "total_num_swaps": 208805,
+        "total_volume_usd": 512232.16233365436,
+        "total_volume_wld": 523308.82451774005
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 103,
+        "chain_volume_usd": 73233.78947994496,
+        "chain_volume_wld": 74906.18582700068,
+        "date": "2025-06-14 00:00:00.000 UTC",
+        "total_num_swaps": 209469,
+        "total_volume_usd": 594178.3383571289,
+        "total_volume_wld": 605830.7007976503
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 1089,
+        "chain_volume_usd": 98183.96537934002,
+        "chain_volume_wld": 100007.67290441484,
+        "date": "2025-06-14 00:00:00.000 UTC",
+        "total_num_swaps": 209469,
+        "total_volume_usd": 594178.3383571289,
+        "total_volume_wld": 605830.7007976503
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 208277,
+        "chain_volume_usd": 422760.583497844,
+        "chain_volume_wld": 430916.8420662348,
+        "date": "2025-06-14 00:00:00.000 UTC",
+        "total_num_swaps": 209469,
+        "total_volume_usd": 594178.3383571289,
+        "total_volume_wld": 605830.7007976503
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 181,
+        "chain_volume_usd": 403777.0363234884,
+        "chain_volume_wld": 413867.2219602082,
+        "date": "2025-06-13 00:00:00.000 UTC",
+        "total_num_swaps": 215308,
+        "total_volume_usd": 1496313.8829393135,
+        "total_volume_wld": 1535626.355846662
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 2993,
+        "chain_volume_usd": 225974.89903318422,
+        "chain_volume_wld": 231203.74518724054,
+        "date": "2025-06-13 00:00:00.000 UTC",
+        "total_num_swaps": 215308,
+        "total_volume_usd": 1496313.8829393135,
+        "total_volume_wld": 1535626.355846662
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 212134,
+        "chain_volume_usd": 866561.947582641,
+        "chain_volume_wld": 890555.3886992134,
+        "date": "2025-06-13 00:00:00.000 UTC",
+        "total_num_swaps": 215308,
+        "total_volume_usd": 1496313.8829393135,
+        "total_volume_wld": 1535626.355846662
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 206831,
+        "chain_volume_usd": 1021336.9557841117,
+        "chain_volume_wld": 963642.2196728684,
+        "date": "2025-06-12 00:00:00.000 UTC",
+        "total_num_swaps": 209043,
+        "total_volume_usd": 1311605.074633897,
+        "total_volume_wld": 1233285.2545616073
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 2101,
+        "chain_volume_usd": 128885.62323071626,
+        "chain_volume_wld": 119389.78813814526,
+        "date": "2025-06-12 00:00:00.000 UTC",
+        "total_num_swaps": 209043,
+        "total_volume_usd": 1311605.074633897,
+        "total_volume_wld": 1233285.2545616073
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 111,
+        "chain_volume_usd": 161382.49561906903,
+        "chain_volume_wld": 150253.2467505937,
+        "date": "2025-06-12 00:00:00.000 UTC",
+        "total_num_swaps": 209043,
+        "total_volume_usd": 1311605.074633897,
+        "total_volume_wld": 1233285.2545616073
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 212008,
+        "chain_volume_usd": 809326.1414826096,
+        "chain_volume_wld": 696300.8395402652,
+        "date": "2025-06-11 00:00:00.000 UTC",
+        "total_num_swaps": 215484,
+        "total_volume_usd": 1811829.8444771678,
+        "total_volume_wld": 1556272.3858999931
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 173,
+        "chain_volume_usd": 647671.1811828752,
+        "chain_volume_wld": 555300.989757336,
+        "date": "2025-06-11 00:00:00.000 UTC",
+        "total_num_swaps": 215484,
+        "total_volume_usd": 1811829.8444771678,
+        "total_volume_wld": 1556272.3858999931
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 3303,
+        "chain_volume_usd": 354832.52181168325,
+        "chain_volume_wld": 304670.5566023919,
+        "date": "2025-06-11 00:00:00.000 UTC",
+        "total_num_swaps": 215484,
+        "total_volume_usd": 1811829.8444771678,
+        "total_volume_wld": 1556272.3858999931
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 220825,
+        "chain_volume_usd": 949550.0552405682,
+        "chain_volume_wld": 823401.7576761432,
+        "date": "2025-06-10 00:00:00.000 UTC",
+        "total_num_swaps": 223765,
+        "total_volume_usd": 1477969.7390250429,
+        "total_volume_wld": 1281639.5861122995
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 2805,
+        "chain_volume_usd": 224856.31783128635,
+        "chain_volume_wld": 194995.59127452638,
+        "date": "2025-06-10 00:00:00.000 UTC",
+        "total_num_swaps": 223765,
+        "total_volume_usd": 1477969.7390250429,
+        "total_volume_wld": 1281639.5861122995
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 135,
+        "chain_volume_usd": 303563.3659531882,
+        "chain_volume_wld": 263242.23716163,
+        "date": "2025-06-10 00:00:00.000 UTC",
+        "total_num_swaps": 223765,
+        "total_volume_usd": 1477969.7390250429,
+        "total_volume_wld": 1281639.5861122995
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 174,
+        "chain_volume_usd": 685249.6583841795,
+        "chain_volume_wld": 611219.98111202,
+        "date": "2025-06-09 00:00:00.000 UTC",
+        "total_num_swaps": 189136,
+        "total_volume_usd": 1641776.5097317258,
+        "total_volume_wld": 1466297.7659968613
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 2867,
+        "chain_volume_usd": 327434.0570972344,
+        "chain_volume_wld": 293097.20519535826,
+        "date": "2025-06-09 00:00:00.000 UTC",
+        "total_num_swaps": 189136,
+        "total_volume_usd": 1641776.5097317258,
+        "total_volume_wld": 1466297.7659968613
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 186095,
+        "chain_volume_usd": 629092.7942503118,
+        "chain_volume_wld": 561980.579689483,
+        "date": "2025-06-09 00:00:00.000 UTC",
+        "total_num_swaps": 189136,
+        "total_volume_usd": 1641776.5097317258,
+        "total_volume_wld": 1466297.7659968613
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 103,
+        "chain_volume_usd": 182926.90561670694,
+        "chain_volume_wld": 163836.55302315616,
+        "date": "2025-06-08 00:00:00.000 UTC",
+        "total_num_swaps": 169274,
+        "total_volume_usd": 655116.0085281468,
+        "total_volume_wld": 588431.9047084813
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 1320,
+        "chain_volume_usd": 138122.8435172459,
+        "chain_volume_wld": 123979.33383295222,
+        "date": "2025-06-08 00:00:00.000 UTC",
+        "total_num_swaps": 169274,
+        "total_volume_usd": 655116.0085281468,
+        "total_volume_wld": 588431.9047084813
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 167851,
+        "chain_volume_usd": 334066.25939419394,
+        "chain_volume_wld": 300616.0178523729,
+        "date": "2025-06-08 00:00:00.000 UTC",
+        "total_num_swaps": 169274,
+        "total_volume_usd": 655116.0085281468,
+        "total_volume_wld": 588431.9047084813
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 177,
+        "chain_volume_usd": 319850.0107920326,
+        "chain_volume_wld": 288161.0664131745,
+        "date": "2025-06-07 00:00:00.000 UTC",
+        "total_num_swaps": 181305,
+        "total_volume_usd": 906664.3602665481,
+        "total_volume_wld": 815234.2586108354
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 1778,
+        "chain_volume_usd": 179973.11023241424,
+        "chain_volume_wld": 161786.36269717428,
+        "date": "2025-06-07 00:00:00.000 UTC",
+        "total_num_swaps": 181305,
+        "total_volume_usd": 906664.3602665481,
+        "total_volume_wld": 815234.2586108354
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 179350,
+        "chain_volume_usd": 406841.2392421014,
+        "chain_volume_wld": 365286.8295004866,
+        "date": "2025-06-07 00:00:00.000 UTC",
+        "total_num_swaps": 181305,
+        "total_volume_usd": 906664.3602665481,
+        "total_volume_wld": 815234.2586108354
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 1820,
+        "chain_volume_usd": 272813.55475723185,
+        "chain_volume_wld": 257271.71007118054,
+        "date": "2025-06-06 00:00:00.000 UTC",
+        "total_num_swaps": 161131,
+        "total_volume_usd": 759258.6609406231,
+        "total_volume_wld": 715572.0202832564
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 159220,
+        "chain_volume_usd": 344113.24484730174,
+        "chain_volume_wld": 323927.51859307924,
+        "date": "2025-06-06 00:00:00.000 UTC",
+        "total_num_swaps": 161131,
+        "total_volume_usd": 759258.6609406231,
+        "total_volume_wld": 715572.0202832564
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 91,
+        "chain_volume_usd": 142331.8613360895,
+        "chain_volume_wld": 134372.7916189966,
+        "date": "2025-06-06 00:00:00.000 UTC",
+        "total_num_swaps": 161131,
+        "total_volume_usd": 759258.6609406231,
+        "total_volume_wld": 715572.0202832564
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 153,
+        "chain_volume_usd": 859472.0171739233,
+        "chain_volume_wld": 817690.5117959308,
+        "date": "2025-06-05 00:00:00.000 UTC",
+        "total_num_swaps": 175503,
+        "total_volume_usd": 1775992.3230736689,
+        "total_volume_wld": 1659428.9700120226
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 2360,
+        "chain_volume_usd": 199723.31163977465,
+        "chain_volume_wld": 183072.9701184815,
+        "date": "2025-06-05 00:00:00.000 UTC",
+        "total_num_swaps": 175503,
+        "total_volume_usd": 1775992.3230736689,
+        "total_volume_wld": 1659428.9700120226
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 172990,
+        "chain_volume_usd": 716796.994259971,
+        "chain_volume_wld": 658665.4880976104,
+        "date": "2025-06-05 00:00:00.000 UTC",
+        "total_num_swaps": 175503,
+        "total_volume_usd": 1775992.3230736689,
+        "total_volume_wld": 1659428.9700120226
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 123,
+        "chain_volume_usd": 293461.31690203777,
+        "chain_volume_wld": 251568.03212532026,
+        "date": "2025-06-04 00:00:00.000 UTC",
+        "total_num_swaps": 174110,
+        "total_volume_usd": 1043655.654194158,
+        "total_volume_wld": 893160.5977281374
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 2140,
+        "chain_volume_usd": 228363.0832097227,
+        "chain_volume_wld": 195235.22084840032,
+        "date": "2025-06-04 00:00:00.000 UTC",
+        "total_num_swaps": 174110,
+        "total_volume_usd": 1043655.654194158,
+        "total_volume_wld": 893160.5977281374
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 171847,
+        "chain_volume_usd": 521831.2540823975,
+        "chain_volume_wld": 446357.3447544168,
+        "date": "2025-06-04 00:00:00.000 UTC",
+        "total_num_swaps": 174110,
+        "total_volume_usd": 1043655.654194158,
+        "total_volume_wld": 893160.5977281374
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 182041,
+        "chain_volume_usd": 1066497.625924722,
+        "chain_volume_wld": 886847.7455835174,
+        "date": "2025-06-03 00:00:00.000 UTC",
+        "total_num_swaps": 185554,
+        "total_volume_usd": 1867577.9511032426,
+        "total_volume_wld": 1547827.772544405
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 3343,
+        "chain_volume_usd": 321371.6357665644,
+        "chain_volume_wld": 265773.6983385729,
+        "date": "2025-06-03 00:00:00.000 UTC",
+        "total_num_swaps": 185554,
+        "total_volume_usd": 1867577.9511032426,
+        "total_volume_wld": 1547827.772544405
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 170,
+        "chain_volume_usd": 479708.68941195606,
+        "chain_volume_wld": 395206.32862231473,
+        "date": "2025-06-03 00:00:00.000 UTC",
+        "total_num_swaps": 185554,
+        "total_volume_usd": 1867577.9511032426,
+        "total_volume_wld": 1547827.772544405
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 166835,
+        "chain_volume_usd": 483321.7613033568,
+        "chain_volume_wld": 422651.05219503294,
+        "date": "2025-06-02 00:00:00.000 UTC",
+        "total_num_swaps": 169274,
+        "total_volume_usd": 1144070.2349619113,
+        "total_volume_wld": 1002842.3064256981
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 2258,
+        "chain_volume_usd": 295516.90066403325,
+        "chain_volume_wld": 259401.08389897613,
+        "date": "2025-06-02 00:00:00.000 UTC",
+        "total_num_swaps": 169274,
+        "total_volume_usd": 1144070.2349619113,
+        "total_volume_wld": 1002842.3064256981
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 181,
+        "chain_volume_usd": 365231.57299452124,
+        "chain_volume_wld": 320790.17033168906,
+        "date": "2025-06-02 00:00:00.000 UTC",
+        "total_num_swaps": 169274,
+        "total_volume_usd": 1144070.2349619113,
+        "total_volume_wld": 1002842.3064256981
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 167767,
+        "chain_volume_usd": 506719.8785888391,
+        "chain_volume_wld": 446287.5700809044,
+        "date": "2025-06-01 00:00:00.000 UTC",
+        "total_num_swaps": 169794,
+        "total_volume_usd": 955635.4955165086,
+        "total_volume_wld": 838838.8598452384
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 1850,
+        "chain_volume_usd": 203800.85322223924,
+        "chain_volume_wld": 179824.52207601882,
+        "date": "2025-06-01 00:00:00.000 UTC",
+        "total_num_swaps": 169794,
+        "total_volume_usd": 955635.4955165086,
+        "total_volume_wld": 838838.8598452384
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 177,
+        "chain_volume_usd": 245114.7637054302,
+        "chain_volume_wld": 212726.7676883152,
+        "date": "2025-06-01 00:00:00.000 UTC",
+        "total_num_swaps": 169794,
+        "total_volume_usd": 955635.4955165086,
+        "total_volume_wld": 838838.8598452384
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 251,
+        "chain_volume_usd": 294775.9894305418,
+        "chain_volume_wld": 261012.6257144569,
+        "date": "2025-05-31 00:00:00.000 UTC",
+        "total_num_swaps": 168810,
+        "total_volume_usd": 1323527.1089097392,
+        "total_volume_wld": 1171374.6056263226
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 3196,
+        "chain_volume_usd": 348233.19327069743,
+        "chain_volume_wld": 306701.08678197704,
+        "date": "2025-05-31 00:00:00.000 UTC",
+        "total_num_swaps": 168810,
+        "total_volume_usd": 1323527.1089097392,
+        "total_volume_wld": 1171374.6056263226
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 165363,
+        "chain_volume_usd": 680517.9262084999,
+        "chain_volume_wld": 603660.8931298887,
+        "date": "2025-05-31 00:00:00.000 UTC",
+        "total_num_swaps": 168810,
+        "total_volume_usd": 1323527.1089097392,
+        "total_volume_wld": 1171374.6056263226
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 218,
+        "chain_volume_usd": 566508.2907050931,
+        "chain_volume_wld": 467169.9586586498,
+        "date": "2025-05-30 00:00:00.000 UTC",
+        "total_num_swaps": 167036,
+        "total_volume_usd": 1970409.5054736945,
+        "total_volume_wld": 1620764.1292368004
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 4493,
+        "chain_volume_usd": 379801.62608851097,
+        "chain_volume_wld": 311779.8826338305,
+        "date": "2025-05-30 00:00:00.000 UTC",
+        "total_num_swaps": 167036,
+        "total_volume_usd": 1970409.5054736945,
+        "total_volume_wld": 1620764.1292368004
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 162325,
+        "chain_volume_usd": 1024099.5886800905,
+        "chain_volume_wld": 841814.2879443201,
+        "date": "2025-05-30 00:00:00.000 UTC",
+        "total_num_swaps": 167036,
+        "total_volume_usd": 1970409.5054736945,
+        "total_volume_wld": 1620764.1292368004
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 137,
+        "chain_volume_usd": 343104.5730451774,
+        "chain_volume_wld": 253188.66188757707,
+        "date": "2025-05-29 00:00:00.000 UTC",
+        "total_num_swaps": 186823,
+        "total_volume_usd": 1167595.2440340312,
+        "total_volume_wld": 864465.5270947565
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 2314,
+        "chain_volume_usd": 208638.47787410067,
+        "chain_volume_wld": 154785.16565433578,
+        "date": "2025-05-29 00:00:00.000 UTC",
+        "total_num_swaps": 186823,
+        "total_volume_usd": 1167595.2440340312,
+        "total_volume_wld": 864465.5270947565
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 184372,
+        "chain_volume_usd": 615852.1931147531,
+        "chain_volume_wld": 456491.6995528437,
+        "date": "2025-05-29 00:00:00.000 UTC",
+        "total_num_swaps": 186823,
+        "total_volume_usd": 1167595.2440340312,
+        "total_volume_wld": 864465.5270947565
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 189946,
+        "chain_volume_usd": 779115.7157076418,
+        "chain_volume_wld": 572890.9488676119,
+        "date": "2025-05-28 00:00:00.000 UTC",
+        "total_num_swaps": 193489,
+        "total_volume_usd": 1758668.0506339383,
+        "total_volume_wld": 1292983.2691005867
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 3329,
+        "chain_volume_usd": 334884.9506328038,
+        "chain_volume_wld": 245283.0943866066,
+        "date": "2025-05-28 00:00:00.000 UTC",
+        "total_num_swaps": 193489,
+        "total_volume_usd": 1758668.0506339383,
+        "total_volume_wld": 1292983.2691005867
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 214,
+        "chain_volume_usd": 644667.3842934928,
+        "chain_volume_wld": 474809.2258463681,
+        "date": "2025-05-28 00:00:00.000 UTC",
+        "total_num_swaps": 193489,
+        "total_volume_usd": 1758668.0506339383,
+        "total_volume_wld": 1292983.2691005867
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 192228,
+        "chain_volume_usd": 945564.095443068,
+        "chain_volume_wld": 676923.4240838133,
+        "date": "2025-05-27 00:00:00.000 UTC",
+        "total_num_swaps": 197302,
+        "total_volume_usd": 1908412.3133421326,
+        "total_volume_wld": 1362856.9811263392
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 4825,
+        "chain_volume_usd": 431386.6607042502,
+        "chain_volume_wld": 308696.40941715235,
+        "date": "2025-05-27 00:00:00.000 UTC",
+        "total_num_swaps": 197302,
+        "total_volume_usd": 1908412.3133421326,
+        "total_volume_wld": 1362856.9811263392
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 249,
+        "chain_volume_usd": 531461.5571948146,
+        "chain_volume_wld": 377237.1476253735,
+        "date": "2025-05-27 00:00:00.000 UTC",
+        "total_num_swaps": 197302,
+        "total_volume_usd": 1908412.3133421326,
+        "total_volume_wld": 1362856.9811263392
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 207,
+        "chain_volume_usd": 409883.75636328594,
+        "chain_volume_wld": 293136.4814838403,
+        "date": "2025-05-26 00:00:00.000 UTC",
+        "total_num_swaps": 196742,
+        "total_volume_usd": 1609865.9505322562,
+        "total_volume_wld": 1148887.4152457966
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 3572,
+        "chain_volume_usd": 391952.99208410096,
+        "chain_volume_wld": 277716.1740498178,
+        "date": "2025-05-26 00:00:00.000 UTC",
+        "total_num_swaps": 196742,
+        "total_volume_usd": 1609865.9505322562,
+        "total_volume_wld": 1148887.4152457966
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 192963,
+        "chain_volume_usd": 808029.2020848691,
+        "chain_volume_wld": 578034.7597121386,
+        "date": "2025-05-26 00:00:00.000 UTC",
+        "total_num_swaps": 196742,
+        "total_volume_usd": 1609865.9505322562,
+        "total_volume_wld": 1148887.4152457966
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 256,
+        "chain_volume_usd": 507570.8679150142,
+        "chain_volume_wld": 370519.35934425093,
+        "date": "2025-05-25 00:00:00.000 UTC",
+        "total_num_swaps": 183224,
+        "total_volume_usd": 1539367.2826065663,
+        "total_volume_wld": 1122801.4643643876
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 3680,
+        "chain_volume_usd": 335391.0302784645,
+        "chain_volume_wld": 243883.56702910905,
+        "date": "2025-05-25 00:00:00.000 UTC",
+        "total_num_swaps": 183224,
+        "total_volume_usd": 1539367.2826065663,
+        "total_volume_wld": 1122801.4643643876
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 179288,
+        "chain_volume_usd": 696405.3844130877,
+        "chain_volume_wld": 508398.53799102746,
+        "date": "2025-05-25 00:00:00.000 UTC",
+        "total_num_swaps": 183224,
+        "total_volume_usd": 1539367.2826065663,
+        "total_volume_wld": 1122801.4643643876
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 179023,
+        "chain_volume_usd": 1240980.9973419206,
+        "chain_volume_wld": 869460.7129851687,
+        "date": "2025-05-24 00:00:00.000 UTC",
+        "total_num_swaps": 184459,
+        "total_volume_usd": 2776841.4776842073,
+        "total_volume_wld": 1943714.647433931
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 5050,
+        "chain_volume_usd": 491219.533034412,
+        "chain_volume_wld": 343945.2794879073,
+        "date": "2025-05-24 00:00:00.000 UTC",
+        "total_num_swaps": 184459,
+        "total_volume_usd": 2776841.4776842073,
+        "total_volume_wld": 1943714.647433931
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 386,
+        "chain_volume_usd": 1044640.9473078743,
+        "chain_volume_wld": 730308.6549608549,
+        "date": "2025-05-24 00:00:00.000 UTC",
+        "total_num_swaps": 184459,
+        "total_volume_usd": 2776841.4776842073,
+        "total_volume_wld": 1943714.647433931
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 208189,
+        "chain_volume_usd": 1940872.9633304703,
+        "chain_volume_wld": 1290632.1075156748,
+        "date": "2025-05-23 00:00:00.000 UTC",
+        "total_num_swaps": 217509,
+        "total_volume_usd": 4446919.758131704,
+        "total_volume_wld": 2961826.413130595
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 621,
+        "chain_volume_usd": 1620807.878850863,
+        "chain_volume_wld": 1081962.2206155441,
+        "date": "2025-05-23 00:00:00.000 UTC",
+        "total_num_swaps": 217509,
+        "total_volume_usd": 4446919.758131704,
+        "total_volume_wld": 2961826.413130595
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 8699,
+        "chain_volume_usd": 885238.9159503706,
+        "chain_volume_wld": 589232.0849993759,
+        "date": "2025-05-23 00:00:00.000 UTC",
+        "total_num_swaps": 217509,
+        "total_volume_usd": 4446919.758131704,
+        "total_volume_wld": 2961826.413130595
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 806,
+        "chain_volume_usd": 2760575.5385830463,
+        "chain_volume_wld": 1908276.2038601243,
+        "date": "2025-05-22 00:00:00.000 UTC",
+        "total_num_swaps": 225896,
+        "total_volume_usd": 5576535.8769864105,
+        "total_volume_wld": 3894347.145486593
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 8808,
+        "chain_volume_usd": 900312.2909138892,
+        "chain_volume_wld": 628369.1405914116,
+        "date": "2025-05-22 00:00:00.000 UTC",
+        "total_num_swaps": 225896,
+        "total_volume_usd": 5576535.8769864105,
+        "total_volume_wld": 3894347.145486593
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 216282,
+        "chain_volume_usd": 1915648.0474894745,
+        "chain_volume_wld": 1357701.8010350568,
+        "date": "2025-05-22 00:00:00.000 UTC",
+        "total_num_swaps": 225896,
+        "total_volume_usd": 5576535.8769864105,
+        "total_volume_wld": 3894347.145486593
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 197,
+        "chain_volume_usd": 957089.9909557076,
+        "chain_volume_wld": 805797.1683927923,
+        "date": "2025-05-21 00:00:00.000 UTC",
+        "total_num_swaps": 145430,
+        "total_volume_usd": 2301351.808987936,
+        "total_volume_wld": 1961978.6764666117
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 4429,
+        "chain_volume_usd": 556319.6554427878,
+        "chain_volume_wld": 477626.4187346715,
+        "date": "2025-05-21 00:00:00.000 UTC",
+        "total_num_swaps": 145430,
+        "total_volume_usd": 2301351.808987936,
+        "total_volume_wld": 1961978.6764666117
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 140804,
+        "chain_volume_usd": 787942.1625894404,
+        "chain_volume_wld": 678555.0893391478,
+        "date": "2025-05-21 00:00:00.000 UTC",
+        "total_num_swaps": 145430,
+        "total_volume_usd": 2301351.808987936,
+        "total_volume_wld": 1961978.6764666117
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 149,
+        "chain_volume_usd": 318773.2255308899,
+        "chain_volume_wld": 287212.82187347516,
+        "date": "2025-05-20 00:00:00.000 UTC",
+        "total_num_swaps": 133556,
+        "total_volume_usd": 1005015.9421426109,
+        "total_volume_wld": 904930.9880429741
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 2577,
+        "chain_volume_usd": 277847.67378706863,
+        "chain_volume_wld": 249417.1854493256,
+        "date": "2025-05-20 00:00:00.000 UTC",
+        "total_num_swaps": 133556,
+        "total_volume_usd": 1005015.9421426109,
+        "total_volume_wld": 904930.9880429741
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 130830,
+        "chain_volume_usd": 408395.04282465234,
+        "chain_volume_wld": 368300.9807201733,
+        "date": "2025-05-20 00:00:00.000 UTC",
+        "total_num_swaps": 133556,
+        "total_volume_usd": 1005015.9421426109,
+        "total_volume_wld": 904930.9880429741
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 177698,
+        "chain_volume_usd": 429097.67656542815,
+        "chain_volume_wld": 384224.0929371809,
+        "date": "2025-05-19 00:00:00.000 UTC",
+        "total_num_swaps": 181355,
+        "total_volume_usd": 1081782.8343929267,
+        "total_volume_wld": 970842.0262523016
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 219,
+        "chain_volume_usd": 418404.8885064887,
+        "chain_volume_wld": 376287.2885117684,
+        "date": "2025-05-19 00:00:00.000 UTC",
+        "total_num_swaps": 181355,
+        "total_volume_usd": 1081782.8343929267,
+        "total_volume_wld": 970842.0262523016
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 3438,
+        "chain_volume_usd": 234280.26932100995,
+        "chain_volume_wld": 210330.6448033524,
+        "date": "2025-05-19 00:00:00.000 UTC",
+        "total_num_swaps": 181355,
+        "total_volume_usd": 1081782.8343929267,
+        "total_volume_wld": 970842.0262523016
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 246,
+        "chain_volume_usd": 491435.43651447445,
+        "chain_volume_wld": 433380.0215287372,
+        "date": "2025-05-18 00:00:00.000 UTC",
+        "total_num_swaps": 173613,
+        "total_volume_usd": 1419420.392651586,
+        "total_volume_wld": 1259599.1745516185
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 3964,
+        "chain_volume_usd": 271122.89770239097,
+        "chain_volume_wld": 241237.53869405907,
+        "date": "2025-05-18 00:00:00.000 UTC",
+        "total_num_swaps": 173613,
+        "total_volume_usd": 1419420.392651586,
+        "total_volume_wld": 1259599.1745516185
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 169403,
+        "chain_volume_usd": 656862.0584347206,
+        "chain_volume_wld": 584981.6143288222,
+        "date": "2025-05-18 00:00:00.000 UTC",
+        "total_num_swaps": 173613,
+        "total_volume_usd": 1419420.392651586,
+        "total_volume_wld": 1259599.1745516185
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 115,
+        "chain_volume_usd": 224837.96547767954,
+        "chain_volume_wld": 207820.24705582275,
+        "date": "2025-05-17 00:00:00.000 UTC",
+        "total_num_swaps": 154521,
+        "total_volume_usd": 671556.893744373,
+        "total_volume_wld": 622045.1470943957
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 2142,
+        "chain_volume_usd": 114039.33845157632,
+        "chain_volume_wld": 105795.97473792959,
+        "date": "2025-05-17 00:00:00.000 UTC",
+        "total_num_swaps": 154521,
+        "total_volume_usd": 671556.893744373,
+        "total_volume_wld": 622045.1470943957
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 152264,
+        "chain_volume_usd": 332679.5898151171,
+        "chain_volume_wld": 308428.9253006433,
+        "date": "2025-05-17 00:00:00.000 UTC",
+        "total_num_swaps": 154521,
+        "total_volume_usd": 671556.893744373,
+        "total_volume_wld": 622045.1470943957
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 151,
+        "chain_volume_usd": 460015.79138041794,
+        "chain_volume_wld": 404260.2424688233,
+        "date": "2025-05-16 00:00:00.000 UTC",
+        "total_num_swaps": 162305,
+        "total_volume_usd": 1291921.136145786,
+        "total_volume_wld": 1126633.3138201577
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 2974,
+        "chain_volume_usd": 305565.73526831676,
+        "chain_volume_wld": 267874.3698906863,
+        "date": "2025-05-16 00:00:00.000 UTC",
+        "total_num_swaps": 162305,
+        "total_volume_usd": 1291921.136145786,
+        "total_volume_wld": 1126633.3138201577
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 159180,
+        "chain_volume_usd": 526339.6094970512,
+        "chain_volume_wld": 454498.70146064804,
+        "date": "2025-05-16 00:00:00.000 UTC",
+        "total_num_swaps": 162305,
+        "total_volume_usd": 1291921.136145786,
+        "total_volume_wld": 1126633.3138201577
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 152923,
+        "chain_volume_usd": 620231.4977458805,
+        "chain_volume_wld": 522998.069872084,
+        "date": "2025-05-15 00:00:00.000 UTC",
+        "total_num_swaps": 157492,
+        "total_volume_usd": 1852345.6158390283,
+        "total_volume_wld": 1572695.3697228408
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 4326,
+        "chain_volume_usd": 314199.0688748178,
+        "chain_volume_wld": 264942.4957225846,
+        "date": "2025-05-15 00:00:00.000 UTC",
+        "total_num_swaps": 157492,
+        "total_volume_usd": 1852345.6158390283,
+        "total_volume_wld": 1572695.3697228408
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 243,
+        "chain_volume_usd": 917915.0492183301,
+        "chain_volume_wld": 784754.8041281721,
+        "date": "2025-05-15 00:00:00.000 UTC",
+        "total_num_swaps": 157492,
+        "total_volume_usd": 1852345.6158390283,
+        "total_volume_wld": 1572695.3697228408
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 3610,
+        "chain_volume_usd": 247800.59356356124,
+        "chain_volume_wld": 194707.39507690654,
+        "date": "2025-05-14 00:00:00.000 UTC",
+        "total_num_swaps": 181456,
+        "total_volume_usd": 1652208.333165766,
+        "total_volume_wld": 1296797.9818413933
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 177495,
+        "chain_volume_usd": 632859.1775012995,
+        "chain_volume_wld": 497047.71446079016,
+        "date": "2025-05-14 00:00:00.000 UTC",
+        "total_num_swaps": 181456,
+        "total_volume_usd": 1652208.333165766,
+        "total_volume_wld": 1296797.9818413933
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 351,
+        "chain_volume_usd": 771548.5621009052,
+        "chain_volume_wld": 605042.8723036966,
+        "date": "2025-05-14 00:00:00.000 UTC",
+        "total_num_swaps": 181456,
+        "total_volume_usd": 1652208.333165766,
+        "total_volume_wld": 1296797.9818413933
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 291,
+        "chain_volume_usd": 1054319.1857127426,
+        "chain_volume_wld": 833095.3199283998,
+        "date": "2025-05-13 00:00:00.000 UTC",
+        "total_num_swaps": 157423,
+        "total_volume_usd": 2035978.7699287646,
+        "total_volume_wld": 1611198.2886664215
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 5210,
+        "chain_volume_usd": 504314.60480476514,
+        "chain_volume_wld": 399876.2404137432,
+        "date": "2025-05-13 00:00:00.000 UTC",
+        "total_num_swaps": 157423,
+        "total_volume_usd": 2035978.7699287646,
+        "total_volume_wld": 1611198.2886664215
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 151922,
+        "chain_volume_usd": 477344.97941125685,
+        "chain_volume_wld": 378226.7283242786,
+        "date": "2025-05-13 00:00:00.000 UTC",
+        "total_num_swaps": 157423,
+        "total_volume_usd": 2035978.7699287646,
+        "total_volume_wld": 1611198.2886664215
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 292,
+        "chain_volume_usd": 1589014.2644720934,
+        "chain_volume_wld": 1221170.6296479742,
+        "date": "2025-05-12 00:00:00.000 UTC",
+        "total_num_swaps": 175447,
+        "total_volume_usd": 3268656.2781277597,
+        "total_volume_wld": 2531517.4197099754
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 6810,
+        "chain_volume_usd": 911336.3282825649,
+        "chain_volume_wld": 709209.9401060813,
+        "date": "2025-05-12 00:00:00.000 UTC",
+        "total_num_swaps": 175447,
+        "total_volume_usd": 3268656.2781277597,
+        "total_volume_wld": 2531517.4197099754
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 168345,
+        "chain_volume_usd": 768305.6853731014,
+        "chain_volume_wld": 601136.8499559199,
+        "date": "2025-05-12 00:00:00.000 UTC",
+        "total_num_swaps": 175447,
+        "total_volume_usd": 3268656.2781277597,
+        "total_volume_wld": 2531517.4197099754
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 330,
+        "chain_volume_usd": 1025093.8550522436,
+        "chain_volume_wld": 792958.5188473001,
+        "date": "2025-05-11 00:00:00.000 UTC",
+        "total_num_swaps": 181206,
+        "total_volume_usd": 2683570.7057829904,
+        "total_volume_wld": 2091773.8627025299
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 7025,
+        "chain_volume_usd": 822925.1988805244,
+        "chain_volume_wld": 643125.6507600136,
+        "date": "2025-05-11 00:00:00.000 UTC",
+        "total_num_swaps": 181206,
+        "total_volume_usd": 2683570.7057829904,
+        "total_volume_wld": 2091773.8627025299
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 173851,
+        "chain_volume_usd": 835551.6518502225,
+        "chain_volume_wld": 655689.693095216,
+        "date": "2025-05-11 00:00:00.000 UTC",
+        "total_num_swaps": 181206,
+        "total_volume_usd": 2683570.7057829904,
+        "total_volume_wld": 2091773.8627025299
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 271,
+        "chain_volume_usd": 697089.8081507438,
+        "chain_volume_wld": 593095.3954724863,
+        "date": "2025-05-10 00:00:00.000 UTC",
+        "total_num_swaps": 157789,
+        "total_volume_usd": 1753129.7597323707,
+        "total_volume_wld": 1493880.8023821143
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 4359,
+        "chain_volume_usd": 575968.8300147743,
+        "chain_volume_wld": 491365.2016156645,
+        "date": "2025-05-10 00:00:00.000 UTC",
+        "total_num_swaps": 157789,
+        "total_volume_usd": 1753129.7597323707,
+        "total_volume_wld": 1493880.8023821143
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 153159,
+        "chain_volume_usd": 480071.12156685244,
+        "chain_volume_wld": 409420.2052939636,
+        "date": "2025-05-10 00:00:00.000 UTC",
+        "total_num_swaps": 157789,
+        "total_volume_usd": 1753129.7597323707,
+        "total_volume_wld": 1493880.8023821143
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 164340,
+        "chain_volume_usd": 597061.7379802619,
+        "chain_volume_wld": 532728.6216778962,
+        "date": "2025-05-09 00:00:00.000 UTC",
+        "total_num_swaps": 170984,
+        "total_volume_usd": 2315802.779841273,
+        "total_volume_wld": 2058212.9801288093
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 6296,
+        "chain_volume_usd": 731170.9186052612,
+        "chain_volume_wld": 648744.1753213911,
+        "date": "2025-05-09 00:00:00.000 UTC",
+        "total_num_swaps": 170984,
+        "total_volume_usd": 2315802.779841273,
+        "total_volume_wld": 2058212.9801288093
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 348,
+        "chain_volume_usd": 987570.1232557497,
+        "chain_volume_wld": 876740.183129522,
+        "date": "2025-05-09 00:00:00.000 UTC",
+        "total_num_swaps": 170984,
+        "total_volume_usd": 2315802.779841273,
+        "total_volume_wld": 2058212.9801288093
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 208,
+        "chain_volume_usd": 572519.6052244371,
+        "chain_volume_wld": 569515.2801814978,
+        "date": "2025-05-08 00:00:00.000 UTC",
+        "total_num_swaps": 179569,
+        "total_volume_usd": 1278203.6867768634,
+        "total_volume_wld": 1269927.1672616987
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 3711,
+        "chain_volume_usd": 277658.9740572357,
+        "chain_volume_wld": 276253.01221772627,
+        "date": "2025-05-08 00:00:00.000 UTC",
+        "total_num_swaps": 179569,
+        "total_volume_usd": 1278203.6867768634,
+        "total_volume_wld": 1269927.1672616987
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 175650,
+        "chain_volume_usd": 428025.10749519046,
+        "chain_volume_wld": 424158.87486247474,
+        "date": "2025-05-08 00:00:00.000 UTC",
+        "total_num_swaps": 179569,
+        "total_volume_usd": 1278203.6867768634,
+        "total_volume_wld": 1269927.1672616987
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 251,
+        "chain_volume_usd": 221295.7070525672,
+        "chain_volume_wld": 235572.55811700455,
+        "date": "2025-05-07 00:00:00.000 UTC",
+        "total_num_swaps": 178956,
+        "total_volume_usd": 704244.7539135832,
+        "total_volume_wld": 751711.8551292405
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 2489,
+        "chain_volume_usd": 156130.7710228842,
+        "chain_volume_wld": 166275.7517043907,
+        "date": "2025-05-07 00:00:00.000 UTC",
+        "total_num_swaps": 178956,
+        "total_volume_usd": 704244.7539135832,
+        "total_volume_wld": 751711.8551292405
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 176216,
+        "chain_volume_usd": 326818.2758381319,
+        "chain_volume_wld": 349863.54530784534,
+        "date": "2025-05-07 00:00:00.000 UTC",
+        "total_num_swaps": 178956,
+        "total_volume_usd": 704244.7539135832,
+        "total_volume_wld": 751711.8551292405
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 163309,
+        "chain_volume_usd": 296303.01334973413,
+        "chain_volume_wld": 334118.2131073968,
+        "date": "2025-05-06 00:00:00.000 UTC",
+        "total_num_swaps": 166091,
+        "total_volume_usd": 1087704.774041343,
+        "total_volume_wld": 1228877.912117852
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 2486,
+        "chain_volume_usd": 215247.6170152815,
+        "chain_volume_wld": 242571.4692552221,
+        "date": "2025-05-06 00:00:00.000 UTC",
+        "total_num_swaps": 166091,
+        "total_volume_usd": 1087704.774041343,
+        "total_volume_wld": 1228877.912117852
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 296,
+        "chain_volume_usd": 576154.1436763275,
+        "chain_volume_wld": 652188.2297552329,
+        "date": "2025-05-06 00:00:00.000 UTC",
+        "total_num_swaps": 166091,
+        "total_volume_usd": 1087704.774041343,
+        "total_volume_wld": 1228877.912117852
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 322,
+        "chain_volume_usd": 356374.033306882,
+        "chain_volume_wld": 391086.0968886313,
+        "date": "2025-05-05 00:00:00.000 UTC",
+        "total_num_swaps": 167192,
+        "total_volume_usd": 881505.9780354227,
+        "total_volume_wld": 970852.7931536741
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 2619,
+        "chain_volume_usd": 213665.7669632865,
+        "chain_volume_wld": 238300.39520239586,
+        "date": "2025-05-05 00:00:00.000 UTC",
+        "total_num_swaps": 167192,
+        "total_volume_usd": 881505.9780354227,
+        "total_volume_wld": 970852.7931536741
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 164251,
+        "chain_volume_usd": 311466.1777652541,
+        "chain_volume_wld": 341466.3010626471,
+        "date": "2025-05-05 00:00:00.000 UTC",
+        "total_num_swaps": 167192,
+        "total_volume_usd": 881505.9780354227,
+        "total_volume_wld": 970852.7931536741
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 157935,
+        "chain_volume_usd": 198275.07065025286,
+        "chain_volume_wld": 211057.28328394712,
+        "date": "2025-05-04 00:00:00.000 UTC",
+        "total_num_swaps": 159754,
+        "total_volume_usd": 500827.81834993267,
+        "total_volume_wld": 532643.4368616362
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 1637,
+        "chain_volume_usd": 207429.04513460174,
+        "chain_volume_wld": 220591.54568486055,
+        "date": "2025-05-04 00:00:00.000 UTC",
+        "total_num_swaps": 159754,
+        "total_volume_usd": 500827.81834993267,
+        "total_volume_wld": 532643.4368616362
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 182,
+        "chain_volume_usd": 95123.70256507806,
+        "chain_volume_wld": 100994.60789282859,
+        "date": "2025-05-04 00:00:00.000 UTC",
+        "total_num_swaps": 159754,
+        "total_volume_usd": 500827.81834993267,
+        "total_volume_wld": 532643.4368616362
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 215,
+        "chain_volume_usd": 250804.8307280492,
+        "chain_volume_wld": 255148.90284890324,
+        "date": "2025-05-03 00:00:00.000 UTC",
+        "total_num_swaps": 162075,
+        "total_volume_usd": 556283.4711000066,
+        "total_volume_wld": 564022.7733885304
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 1347,
+        "chain_volume_usd": 68680.58397890434,
+        "chain_volume_wld": 69442.57927107671,
+        "date": "2025-05-03 00:00:00.000 UTC",
+        "total_num_swaps": 162075,
+        "total_volume_usd": 556283.4711000066,
+        "total_volume_wld": 564022.7733885304
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 160513,
+        "chain_volume_usd": 236798.05639305312,
+        "chain_volume_wld": 239431.29126855044,
+        "date": "2025-05-03 00:00:00.000 UTC",
+        "total_num_swaps": 162075,
+        "total_volume_usd": 556283.4711000066,
+        "total_volume_wld": 564022.7733885304
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 280,
+        "chain_volume_usd": 254644.2774299318,
+        "chain_volume_wld": 245603.93948577237,
+        "date": "2025-05-02 00:00:00.000 UTC",
+        "total_num_swaps": 165170,
+        "total_volume_usd": 799878.5043870104,
+        "total_volume_wld": 771102.0426517949
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 1594,
+        "chain_volume_usd": 256822.82971516994,
+        "chain_volume_wld": 246244.68419552402,
+        "date": "2025-05-02 00:00:00.000 UTC",
+        "total_num_swaps": 165170,
+        "total_volume_usd": 799878.5043870104,
+        "total_volume_wld": 771102.0426517949
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 163296,
+        "chain_volume_usd": 288411.3972419086,
+        "chain_volume_wld": 279253.41897049855,
+        "date": "2025-05-02 00:00:00.000 UTC",
+        "total_num_swaps": 165170,
+        "total_volume_usd": 799878.5043870104,
+        "total_volume_wld": 771102.0426517949
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 177490,
+        "chain_volume_usd": 711247.791080971,
+        "chain_volume_wld": 667293.5441515963,
+        "date": "2025-05-01 00:00:00.000 UTC",
+        "total_num_swaps": 182634,
+        "total_volume_usd": 2580853.3766482687,
+        "total_volume_wld": 2422567.0717215864
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 4419,
+        "chain_volume_usd": 803244.9325712794,
+        "chain_volume_wld": 756271.1036073867,
+        "date": "2025-05-01 00:00:00.000 UTC",
+        "total_num_swaps": 182634,
+        "total_volume_usd": 2580853.3766482687,
+        "total_volume_wld": 2422567.0717215864
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 725,
+        "chain_volume_usd": 1066360.6529960183,
+        "chain_volume_wld": 999002.4239626033,
+        "date": "2025-05-01 00:00:00.000 UTC",
+        "total_num_swaps": 182634,
+        "total_volume_usd": 2580853.3766482687,
+        "total_volume_wld": 2422567.0717215864
+      },
+      {
+        "blockchain": "optimism",
+        "chain_num_swaps": 3043,
+        "chain_volume_usd": 404395.82653941755,
+        "chain_volume_wld": 368667.1193274108,
+        "date": "2025-04-30 00:00:00.000 UTC",
+        "total_num_swaps": 179021,
+        "total_volume_usd": 2135395.147899544,
+        "total_volume_wld": 1959178.639048915
+      },
+      {
+        "blockchain": "worldchain",
+        "chain_num_swaps": 175327,
+        "chain_volume_usd": 475019.1337957022,
+        "chain_volume_wld": 437692.70728893124,
+        "date": "2025-04-30 00:00:00.000 UTC",
+        "total_num_swaps": 179021,
+        "total_volume_usd": 2135395.147899544,
+        "total_volume_wld": 1959178.639048915
+      },
+      {
+        "blockchain": "ethereum",
+        "chain_num_swaps": 651,
+        "chain_volume_usd": 1255980.1875644242,
+        "chain_volume_wld": 1152818.812432573,
+        "date": "2025-04-30 00:00:00.000 UTC",
+        "total_num_swaps": 179021,
+        "total_volume_usd": 2135395.147899544,
+        "total_volume_wld": 1959178.639048915
+      }
+    ],
+    "metadata": {
+      "column_names": [
+        "date",
+        "blockchain",
+        "chain_volume_wld",
+        "chain_volume_usd",
+        "chain_num_swaps",
+        "total_volume_wld",
+        "total_volume_usd",
+        "total_num_swaps"
+      ],
+      "column_types": [
+        "timestamp(3) with time zone",
+        "varchar",
+        "double",
+        "double",
+        "bigint",
+        "double",
+        "double",
+        "bigint"
+      ],
+      "row_count": 507,
+      "result_set_bytes": 32786,
+      "total_row_count": 507,
+      "total_result_set_bytes": 32786,
+      "datapoint_count": 4056,
+      "pending_time_millis": 317,
+      "execution_time_millis": 3344
+    }
+  }
+}

@@ -1,0 +1,100 @@
+with creations0 as (
+select * from metamorpho_factory_worldchain.metamorphov1_1factory_evt_createmetamorpho
+where contract_address = 0x4DBB3a642a2146d5413750Cca3647086D9ba5F12
+)
+, creations as (
+select cr.metaMorpho as vault_address
+, cr.asset as vault_asset
+, cr.name as vault_name
+, cr.symbol as vault_symbol
+, tk.symbol as vault_asset_symbol
+, tk.decimals as vault_asset_decimals
+from creations0 cr
+left join tokens.erc20 tk
+on tk.blockchain = 'worldchain'
+and tk.contract_address = cr.asset
+)
+, deposit_withdraw0 as (
+select evt_block_time as time
+, contract_address as vault_address
+, assets as assets_raw
+, shares as shares_raw
+, owner
+from metamorpho_vaults_worldchain.metamorphov1_1_evt_deposit
+union all
+select evt_block_time as time
+, contract_address as vault_address
+, -assets as assets_raw
+, -shares as shares_raw
+, owner
+from metamorpho_vaults_worldchain.metamorphov1_1_evt_withdraw
+)
+, deposit_withdraw1 as (
+select dw.*
+, cr.vault_symbol
+, cr.vault_asset
+, cr.vault_asset_symbol
+, cast(dw.assets_raw as double) / pow(10.0, cr.vault_asset_decimals) as assets
+, cast(dw.shares_raw as double) / 1e18 as shares
+from deposit_withdraw0 dw
+inner join creations cr
+on dw.vault_address = cr.vault_address
+)
+, prices as (
+-- Replace ezETH with its ethereum price b/c it's not available on world chain
+select day
+, case when contract_address = 0xbf5495Efe5DB9ce00f80364C8B423567e58d2110 and blockchain = 'ethereum'
+    then 0x2416092f143378750bb29b79ed961ab195cceea5
+    else contract_address
+end as contract_address
+, case when contract_address = 0xbf5495Efe5DB9ce00f80364C8B423567e58d2110 and blockchain = 'ethereum'
+    then 'worldchain'
+    else blockchain
+end as blockchain
+, price
+from prices.usd_daily
+)
+, deposit_withdraw as (
+select dw.*
+, pr0.price
+-- NOTE that you shall *not* sum this to compute TVL!
+, pr0.price * dw.assets as value_usd
+, dw.assets / dw.shares as conversion_rate
+from deposit_withdraw1 dw
+-- I have a strong suspicion that prices.usd_daily is one day off. E.g., there is no price for today midnight. So I shift one day back.
+left join prices pr0 on pr0.blockchain = 'worldchain' and pr0.contract_address = dw.vault_asset and pr0.day = date_trunc('day', dw.time) - interval '1' day
+)
+, delta_holdings_daily as (
+select date_trunc('day', time) as day
+, vault_address
+, vault_symbol
+, vault_asset
+, vault_asset_symbol
+, sum(assets) as delta_assets
+, sum(shares) as delta_shares
+, sum(assets)/sum(shares) as conversion_rate
+-- TODO accounting isn't quite right b/c we don't account for interest here yet.
+-- We can use daily conversion rate estimates for this. Or rewrite this and look at the total shares.
+from deposit_withdraw
+group by 1, 2, 3, 4, 5
+)
+, holdings_daily0 as (
+select *
+, sum(delta_shares) over (partition by vault_address order by day) as total_shares
+from delta_holdings_daily
+)
+-- SOMEDAY fill this in with 0s for missing dates where no activity happened. (this is theoretical I think)
+, holdings_daily as (
+-- TODO shift the date by +1 day b/c movements manifest only at the end of the day.
+select hd.*
+-- "TVL" is _value_ of the vault holdings. This includes assets that are lent out.
+, pr0.price * hd.total_shares * hd.conversion_rate as tvl_usd
+from holdings_daily0 hd
+left join prices pr0 on pr0.blockchain = 'worldchain' and pr0.contract_address = hd.vault_asset and pr0.day = hd.day - interval '1' day
+)
+select * from holdings_daily
+where day >= date '{{p_date}}'
+order by day desc, vault_symbol asc
+-- select * from deposit_withdraw
+-- order by time desc
+-- limit 100
