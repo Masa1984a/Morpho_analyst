@@ -9,11 +9,13 @@ This system automatically retrieves on-chain data for the World Morpho Protocol 
 ### Features
 
 - Automated daily data fetch from 4 Dune Analytics queries
+- **REST API for data access** with Bearer Token authentication
 - Serverless execution on Vercel Functions
 - PostgreSQL database with automatic UPSERT handling
-- Scheduled execution via Vercel Cron Jobs (Daily at JST 10:00 / UTC 01:00)
+- Scheduled execution via Vercel Cron Jobs (Daily at JST 12:00 / UTC 03:00)
 - Comprehensive error handling and retry logic
 - Execution logging and monitoring
+- Date range filtering and pagination support
 
 ### Data Sources
 
@@ -74,6 +76,16 @@ DATABASE_URL=postgresql://user:password@host:port/database
 DATABASE_SSL=true
 CRON_SECRET=generate_a_random_secret
 MIGRATION_SECRET=generate_another_random_secret
+API_SECRET=generate_api_secret_for_data_access
+```
+
+**Generate random secrets:**
+```bash
+# Linux/Mac
+openssl rand -base64 32
+
+# PowerShell
+[Convert]::ToBase64String((1..32 | ForEach-Object { Get-Random -Minimum 0 -Maximum 256 }))
 ```
 
 **Getting a Dune API Key:**
@@ -132,9 +144,15 @@ morpho_analyst/
 ├── api/
 │   ├── cron/
 │   │   └── dune-fetch.ts          # Daily cron job handler
+│   ├── data/
+│   │   ├── collateral.ts          # Collateral History API
+│   │   ├── borrow.ts              # Borrow History API
+│   │   ├── dex-volume.ts          # DEX Volume API
+│   │   └── earn.ts                # Earn History API
 │   └── migrate/
 │       └── initial-import.ts       # Manual migration endpoint
 ├── lib/
+│   ├── api-auth.ts                 # API authentication utilities
 │   ├── db.ts                       # Database client and UPSERT functions
 │   ├── dune-client.ts              # Dune Analytics API client
 │   └── types.ts                    # TypeScript type definitions
@@ -152,6 +170,39 @@ morpho_analyst/
 ```
 
 ## Usage
+
+### REST API Access
+
+The system provides REST API endpoints to access the stored data. See [API_SPECIFICATION.md](API_SPECIFICATION.md) for complete documentation.
+
+#### Quick Start
+
+```bash
+# Get collateral data (latest 100 records)
+curl -X GET "https://your-app.vercel.app/api/data/collateral" \
+  -H "Authorization: Bearer YOUR_API_SECRET"
+
+# Get borrow data with date range
+curl -X GET "https://your-app.vercel.app/api/data/borrow?from=2025-10-01&to=2025-10-15" \
+  -H "Authorization: Bearer YOUR_API_SECRET"
+
+# Get DEX volume with pagination
+curl -X GET "https://your-app.vercel.app/api/data/dex-volume?limit=50&offset=0" \
+  -H "Authorization: Bearer YOUR_API_SECRET"
+
+# Get earn data
+curl -X GET "https://your-app.vercel.app/api/data/earn?from=2025-10-01" \
+  -H "Authorization: Bearer YOUR_API_SECRET"
+```
+
+#### Available Endpoints
+
+| Endpoint | Description | Documentation |
+|----------|-------------|---------------|
+| `GET /api/data/collateral` | Morpho担保履歴 | [API Spec](API_SPECIFICATION.md#1-morpho担保履歴取得) |
+| `GET /api/data/borrow` | Morpho借入履歴 | [API Spec](API_SPECIFICATION.md#2-morpho借入履歴取得) |
+| `GET /api/data/dex-volume` | DEX取引量履歴 | [API Spec](API_SPECIFICATION.md#3-dex取引量履歴取得) |
+| `GET /api/data/earn` | Morpho Earn履歴 | [API Spec](API_SPECIFICATION.md#4-morpho-earn履歴取得) |
 
 ### Manual Data Fetch
 
@@ -303,8 +354,10 @@ LIMIT 10;
 - API keys stored as Vercel environment variables
 - Cron endpoint protected by `CRON_SECRET`
 - Migration endpoint protected by `MIGRATION_SECRET`
+- **Data API endpoints protected by `API_SECRET`**
 - Database connections use SSL/TLS encryption
 - No sensitive data logged in execution logs
+- All communication over HTTPS
 
 ## Maintenance
 
