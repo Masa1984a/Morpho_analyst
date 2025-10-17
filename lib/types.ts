@@ -110,6 +110,14 @@ export interface MorphoEarnHistory {
   updated_at?: Date;
 }
 
+export interface WLDPriceHistory {
+  date: Date;
+  symbol: string;
+  close_price: number;
+  created_at?: Date;
+  updated_at?: Date;
+}
+
 export interface DuneExecutionLog {
   id?: number;
   query_id: number;
@@ -166,6 +174,12 @@ export interface EarnRow {
   delta_shares: number;
   total_shares: number;
   tvl_usd: number | null;
+}
+
+export interface WLDPriceRow {
+  date: string;
+  symbol: string;
+  close_price: number;
 }
 
 // ===== Utility Types =====

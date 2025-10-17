@@ -10,6 +10,7 @@ import {
   upsertBorrowHistory,
   upsertDexVolumeHistory,
   upsertEarnHistory,
+  upsertWLDPriceHistory,
   insertExecutionLog,
   updateExecutionLogStatus,
 } from '../../lib/db';
@@ -19,6 +20,7 @@ import type {
   BorrowRow,
   DexVolumeRow,
   EarnRow,
+  WLDPriceRow,
   FetchResult,
 } from '../../lib/types';
 
@@ -48,6 +50,12 @@ const QUERY_CONFIGS: QueryConfig[] = [
     queryName: 'World Morpho Earn History',
     tableName: 'morpho_earn_history',
     upsertHandler: async (rows: EarnRow[]) => upsertEarnHistory(rows),
+  },
+  {
+    queryId: 5982584,
+    queryName: 'WLD Daily Price History',
+    tableName: 'wld_price_history',
+    upsertHandler: async (rows: WLDPriceRow[]) => upsertWLDPriceHistory(rows),
   },
 ];
 

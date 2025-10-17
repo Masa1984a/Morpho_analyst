@@ -6,6 +6,7 @@
   "scripts": {
     "dev": "vercel dev",
     "migrate": "ts-node scripts/migrate-data.ts",
+    "migrate:wld": "ts-node scripts/migrate-wld-price.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [

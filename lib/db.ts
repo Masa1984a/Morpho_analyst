@@ -9,11 +9,13 @@ import type {
   MorphoBorrowHistory,
   DexVolumeHistory,
   MorphoEarnHistory,
+  WLDPriceHistory,
   DuneExecutionLog,
   CollateralRow,
   BorrowRow,
   DexVolumeRow,
   EarnRow,
+  WLDPriceRow,
 } from './types';
 
 // Global connection pool for serverless environments
@@ -245,6 +247,42 @@ export async function upsertEarnHistory(rows: EarnRow[]): Promise<number> {
       delta_shares = EXCLUDED.delta_shares,
       total_shares = EXCLUDED.total_shares,
       tvl_usd = EXCLUDED.tvl_usd,
+      updated_at = CURRENT_TIMESTAMP
+  `;
+
+  const result = await query(sql, values);
+  return result.rowCount || 0;
+}
+
+/**
+ * Upsert WLD price history data
+ */
+export async function upsertWLDPriceHistory(rows: WLDPriceRow[]): Promise<number> {
+  if (rows.length === 0) return 0;
+
+  const values: any[] = [];
+  const valuePlaceholders: string[] = [];
+
+  rows.forEach((row, index) => {
+    const offset = index * 3;
+    valuePlaceholders.push(
+      `($${offset + 1}, $${offset + 2}, $${offset + 3})`
+    );
+    values.push(
+      new Date(row.date),
+      row.symbol,
+      row.close_price
+    );
+  });
+
+  const sql = `
+    INSERT INTO wld_price_history
+      (date, symbol, close_price)
+    VALUES ${valuePlaceholders.join(', ')}
+    ON CONFLICT (date)
+    DO UPDATE SET
+      symbol = EXCLUDED.symbol,
+      close_price = EXCLUDED.close_price,
       updated_at = CURRENT_TIMESTAMP
   `;
 

@@ -8,6 +8,7 @@ export const QUERY_IDS = {
   BORROW: 5963670,
   DEX_VOLUME: 5963703,
   EARN: 5963349,
+  WLD_PRICE: 5982584,
 } as const;
 
 export const QUERY_NAMES = {
@@ -15,6 +16,7 @@ export const QUERY_NAMES = {
   [QUERY_IDS.BORROW]: 'World Morpho Borrow History',
   [QUERY_IDS.DEX_VOLUME]: 'World DEX Volume History',
   [QUERY_IDS.EARN]: 'World Morpho Earn History',
+  [QUERY_IDS.WLD_PRICE]: 'WLD Daily Price History',
 } as const;
 
 export const TABLE_NAMES = {
@@ -22,6 +24,7 @@ export const TABLE_NAMES = {
   [QUERY_IDS.BORROW]: 'morpho_borrow_history',
   [QUERY_IDS.DEX_VOLUME]: 'dex_volume_history',
   [QUERY_IDS.EARN]: 'morpho_earn_history',
+  [QUERY_IDS.WLD_PRICE]: 'wld_price_history',
   EXECUTION_LOG: 'dune_execution_log',
 } as const;
 
