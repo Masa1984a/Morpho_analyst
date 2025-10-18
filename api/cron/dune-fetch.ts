@@ -60,12 +60,16 @@ const QUERY_CONFIGS: QueryConfig[] = [
 ];
 
 /**
- * Get current date in YYYY-MM-DD format for query parameter
+ * Get previous date in YYYY-MM-DD format for query parameter
+ * Returns yesterday's date (UTC) to fetch completed daily data
  */
-function getCurrentDate(): string {
+function getPreviousDate(): string {
   // JST 12:00 execution time corresponds to UTC 03:00
-  // We want to fetch data for the current UTC date
+  // We want to fetch data for the previous UTC date (yesterday)
+  // All queries use "WHERE >= p_date AND < CURRENT_DATE"
+  // So p_date should be yesterday to fetch yesterday's complete data
   const now = new Date();
+  now.setUTCDate(now.getUTCDate() - 1); // Subtract 1 day
   const year = now.getUTCFullYear();
   const month = String(now.getUTCMonth() + 1).padStart(2, '0');
   const day = String(now.getUTCDate()).padStart(2, '0');
@@ -201,8 +205,8 @@ export default async function handler(
   console.log('='.repeat(60));
   console.log(`Execution Time: ${new Date().toISOString()}`);
 
-  const targetDate = getCurrentDate();
-  console.log(`Target Date: ${targetDate}`);
+  const targetDate = getPreviousDate();
+  console.log(`Target Date (Previous Day): ${targetDate}`);
 
   try {
     // Create Dune API client
