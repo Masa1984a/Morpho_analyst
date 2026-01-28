@@ -340,3 +340,18 @@ export async function updateExecutionLogStatus(
 
   await query(sql, [status, rowCount || null, errorMessage || null, executionId]);
 }
+
+/**
+ * Get pending executions (EXECUTING status)
+ */
+export async function getPendingExecutions(): Promise<DuneExecutionLog[]> {
+  const sql = `
+    SELECT *
+    FROM dune_execution_log
+    WHERE status = 'EXECUTING'
+    ORDER BY started_at ASC
+  `;
+
+  const result = await query<DuneExecutionLog>(sql);
+  return result.rows;
+}

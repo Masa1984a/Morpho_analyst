@@ -1,8 +1,12 @@
 {
   "crons": [
     {
-      "path": "/api/cron/dune-fetch",
+      "path": "/api/cron/dune-submit",
       "schedule": "0 3 * * *"
+    },
+    {
+      "path": "/api/cron/dune-check",
+      "schedule": "0 * * * *"
     }
   ]
 }
